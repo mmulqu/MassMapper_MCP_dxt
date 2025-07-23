@@ -221,6 +221,3 @@ Cursor uses the same MCP server but expects a local **CLI** rather than a `.dxt
 3. **Restart Cursor** → Settings → *Model Context Protocol* → enable **massgis-mcp**.
 
 4. **Use the tools** as shown in the examples (`search_layers`, `query_spatial`, etc.).
-
-> **Tip :** You can generate a shareable “Add to Cursor” link with  
-> `cursor://anysphere.cursor-deeplink/mcp/install?...` — see Cursor docs for details. 
