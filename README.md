@@ -19,59 +19,34 @@ The MCP server is designed to enable interactive geospatial analysis, where user
 
 ## Getting Started
 
-Follow these instructions to run the MassGIS MCP server and connect it to an MCP client like Claude Desktop.
+Quick‑start: Download the massgis‑mcp‑*.dxt release, install it as a Claude Desktop or Cursor extension, and start asking Claude geospatial questions. No Python or manual config needed. Developers can still clone the repo and run python server/massgis_mcp.py directly for hacking.
 
-### 1. Prerequisites
+### Installation (end‑users)
 
-- [Python 3.8](https://www.python.org/downloads/) or newer must be installed on your system.
+#### 1  Download the extension  
+Grab the latest **massgis‑mcp‑1.1.0.dxt** from the Releases page.
 
-### 2. Installation
+#### 2  Install  
+* **Claude Desktop:** *Settings → Extensions → “Add local extension”* and choose the file  
+* **Cursor:** drag‑and‑drop the file into the IDE or use *Settings → AI → MCP Extensions*  
 
-First, clone this repository to your local machine and install the required Python dependencies. It is highly recommended to use a virtual environment.
+No other setup is required; the first run auto‑creates an internal virtual environment.
+
+### Installation (developers / advanced)
+
+You can still clone the repo and use a virtual environment for development, or unpack the .dxt (it is just a zip) and edit locally:
 
 ```bash
-# Clone the repository
-git clone https://github.com/mmulqu/MassMapper-MCP.git
-cd MassMapper-MCP
-
-# Create and activate a virtual environment
-# On macOS/Linux:
-python3 -m venv venv
-source venv/bin/activate
-
-# On Windows:
-python -m venv venv
-venv\Scripts\activate
-
-# Install the required packages
-pip install -r requirements.txt
+dxt unpack massgis‑mcp‑1.1.0.dxt ./working_copy
+cd working_copy && uv venv && uv pip install -e .
 ```
 
-### 3. Configure Your MCP Client
+Or use the original clone / venv / pip install -r requirements.txt instructions as before.
 
-To connect this server to your MCP client (e.g., Claude Desktop, Cursor), you need to add its configuration to your client's settings file. The configuration tells your client how to launch the MassGIS server.
+### Where exports go
 
-Add the following JSON object to your client's `mcpServers` configuration. **Remember to replace `/path/to/...` with the absolute paths on your machine.**
-
-```json
-{
-  "mcpServers": {
-    "massgis": {
-      "command": "/path/to/your/venv/bin/python",
-      "args": [
-        "/path/to/your/cloned/repo/massmapper_MCP/massgis_mcp.py"
-      ]
-    }
-  }
-}
-```
-
--   `"command"`: The absolute path to the Python executable inside the virtual environment you created.
-    -   On macOS/Linux, this will be `/path/to/massmapper_MCP/venv/bin/python`.
-    -   On Windows, this will be `C:\path\to\massmapper_MCP\venv\Scripts\python.exe`.
--   `"args"`: The absolute path to the `massgis_mcp.py` script within the cloned repository.
-
-Once configured, restart your MCP client. The MassGIS tools should now be available.
+- Exports (CSV / JSON) are written to `exports/` inside the extension folder shown in the success message. On Windows the default location is:
+  `C:\Users\<you>\AppData\Roaming\Claude\Claude Extensions\local.dxt.your‑name.massgis‑mcp\exports\`
 
 ## Available Tools
 
@@ -210,3 +185,5 @@ Here are examples of how users can interact with MassGIS data through an AI assi
 This MCP server is designed to work with AI assistants that support the Model Context Protocol. When connected, the AI assistant gains the ability to perform sophisticated geospatial analysis on Massachusetts data, making it a powerful tool for urban planners, researchers, educators, and anyone interested in exploring Massachusetts geographic data.
 
 The Model Context Protocol ensures that the AI assistant can discover available tools, understand their parameters, and use them effectively to answer complex spatial questions about Massachusetts geography, infrastructure, recreation areas, and community resources. 
+
+- Once installed, the assistant auto‑detects the extension and its tools, prompts, and resources—no manual configuration is needed. 
