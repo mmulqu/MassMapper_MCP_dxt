@@ -28,7 +28,7 @@ Grab the latest **massgis‑mcp‑1.1.0.dxt** from the Releases page.
 
 #### 2  Install  
 * **Claude Desktop:** *Settings → Extensions → “Add local extension”* and choose the file  
-* **Cursor:** drag‑and‑drop the file into the IDE or use *Settings → AI → MCP Extensions*  
+* **Cursor:** see Cursor Installation below 
 
 No other setup is required; the first run auto‑creates an internal virtual environment.
 
@@ -187,3 +187,40 @@ This MCP server is designed to work with AI assistants that support the Model Co
 The Model Context Protocol ensures that the AI assistant can discover available tools, understand their parameters, and use them effectively to answer complex spatial questions about Massachusetts geography, infrastructure, recreation areas, and community resources. 
 
 - Once installed, the assistant auto‑detects the extension and its tools, prompts, and resources—no manual configuration is needed. 
+
+## Installing in Cursor
+
+Cursor uses the same MCP server but expects a local **CLI** rather than a `.dxt`.  
+1. **Clone** this repository and create a Python virtual environment:
+
+    ```bash
+    git clone https://github.com/mmulqu/MassMapper-MCP.git
+    cd MassMapper-MCP
+    python -m venv .venv        # Windows: python -m venv .venv
+    source .venv/bin/activate   # Windows: .venv\Scripts\activate
+    pip install -r requirements.txt
+    ```
+
+2. **Create `mcp.json`**  
+   Put the file in either `~/.cursor/mcp.json` (global) or `.cursor/mcp.json` inside a project:
+
+    ```jsonc
+    {
+      "mcpServers": {
+        "massgis-mcp": {
+          "command": "/absolute/path/to/.venv/bin/python",
+          "args": [
+            "/absolute/path/to/MassMapper-MCP/server/massgis_mcp.py"
+          ],
+          "transport": "stdio"
+        }
+      }
+    }
+    ```
+
+3. **Restart Cursor** → Settings → *Model Context Protocol* → enable **massgis-mcp**.
+
+4. **Use the tools** as shown in the examples (`search_layers`, `query_spatial`, etc.).
+
+> **Tip :** You can generate a shareable “Add to Cursor” link with  
+> `cursor://anysphere.cursor-deeplink/mcp/install?...` — see Cursor docs for details. 
