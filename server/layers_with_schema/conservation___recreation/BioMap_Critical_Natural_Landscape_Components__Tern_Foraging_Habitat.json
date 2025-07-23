@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Critical Natural Landscape Components: Tern Foraging Habitat",
+  "document_id": "massgis:GISDATA.BM3_CNL_TERN_FORAGING",
+  "layer_id": "massgis:GISDATA.BM3_CNL_TERN_FORAGING",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_CNL_TERN_FORAGING",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "tern foraging habitat",
+    "biomap",
+    "critical natural landscape",
+    "cnl",
+    "tern habitat",
+    "coastal bird habitat",
+    "bird foraging",
+    "natural heritage",
+    "conservation recreation",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, CNL_TF_ID, AC_CNL_TF, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

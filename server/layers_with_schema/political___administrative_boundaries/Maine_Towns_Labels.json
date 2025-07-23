@@ -1,0 +1,25 @@
+{
+  "document_title": "Maine Towns Labels",
+  "document_id": "massgis:GISDATA.METOWNS_POLY",
+  "layer_id": "massgis:GISDATA.METOWNS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.METOWNS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "New England States",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "maine towns",
+    "town labels",
+    "massgis",
+    "metowns_poly",
+    "polygon layer",
+    "political boundaries",
+    "administrative boundaries",
+    "new england states",
+    "municipal boundaries",
+    "maine"
+  ],
+  "column_summary": "OBJECTID, COUNTY_ID, TOWN_ID, TOWN, ALT_ID, CODE, LURC, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

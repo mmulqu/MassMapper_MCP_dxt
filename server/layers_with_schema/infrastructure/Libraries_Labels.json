@@ -1,0 +1,25 @@
+{
+  "document_title": "Libraries Labels",
+  "document_id": "massgis:GISDATA.LIBRARIES_PT",
+  "layer_id": "massgis:GISDATA.LIBRARIES_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.LIBRARIES_PT",
+  "category": "Infrastructure",
+  "subcategory": "Libraries",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "libraries",
+    "library",
+    "public libraries",
+    "library locations",
+    "library labels",
+    "massgis",
+    "gis data",
+    "library points",
+    "massachusetts libraries",
+    "infrastructure"
+  ],
+  "column_summary": "OBJECTID, NAME, ADDRESS, TOWN, STATE, ZIP, TYPE, ADDRESS_POINT_ID, LIBKEY, NETWORK, REGION, DELIVROUTE, WEBSITE, SHAPE"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Geographic Names Hypsography",
+  "document_id": "massgis:GISDATA.GEONAMES_LINE_HYPSO",
+  "layer_id": "massgis:GISDATA.GEONAMES_LINE_HYPSO",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.GEONAMES_LINE_HYPSO",
+  "category": "Physical Resources",
+  "subcategory": "Geographic Names",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "hypsography",
+    "geographic names",
+    "contour lines",
+    "elevation",
+    "topography",
+    "hypsometric",
+    "terrain",
+    "relief",
+    "geonames",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, LABELTEXT, SHAPE, SHAPE.LEN"
+}

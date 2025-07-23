@@ -1,0 +1,24 @@
+{
+  "document_title": "MassHistoric Commission Inventory (Areas)",
+  "document_id": "massgis:GISDATA.MHCINV_POLY",
+  "layer_id": "massgis:GISDATA.MHCINV_POLY",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MHCINV_POLY",
+  "category": "Cultural Resources",
+  "subcategory": "MassHistoric Commission",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "masshistoric",
+    "historic commission",
+    "mhc inventory",
+    "historic areas",
+    "cultural resources",
+    "massgis",
+    "historic inventory",
+    "heritage sites",
+    "historic sites"
+  ],
+  "column_summary": "OBJECTID, MHCN, TYPE, DESIGNATIO, D_DATE, LEGEND, HISTORIC_N, COMMON_NAM, ADDRESS, TOWN_NAME, ARCH, MAKER, USE_TYPE, SIGNIFICAN, CONSTRUCTI, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

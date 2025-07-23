@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2020 Towns Boundary Lines",
+  "document_id": "massgis:GISDATA.CENSUS2020TOWNS_ARC",
+  "layer_id": "massgis:GISDATA.CENSUS2020TOWNS_ARC",
+  "layer_type": "poly",
+  "layer_date": "2020",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2020TOWNS_ARC",
+  "category": "Census",
+  "subcategory": "Census 2020",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2020",
+    "2020 census",
+    "town boundaries",
+    "town boundary lines",
+    "census towns",
+    "massachusetts towns",
+    "municipal boundaries",
+    "massgis",
+    "mass gis census",
+    "gisdata census"
+  ],
+  "column_summary": "OBJECTID, OUTLINE, SHAPE, SHAPE.LEN"
+}

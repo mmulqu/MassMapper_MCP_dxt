@@ -1,0 +1,25 @@
+{
+  "document_title": "MBTA Highest Assessment Area Labels",
+  "document_id": "massgis:GISDATA.RTASMBTAHIGH_POLY",
+  "layer_id": "massgis:GISDATA.RTASMBTAHIGH_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.RTASMBTAHIGH_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Regional Transit Authorities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mbta",
+    "highest assessment area",
+    "assessment area",
+    "labels",
+    "regional transit authorities",
+    "transit boundaries",
+    "area labels",
+    "massgis",
+    "gisdata",
+    "rtasmbtahigh_poly"
+  ],
+  "column_summary": "OBJECTID, LABEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

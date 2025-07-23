@@ -1,0 +1,25 @@
+{
+  "document_title": "Rhode Island Towns Labels",
+  "document_id": "massgis:GISDATA.RITOWNS_POLY",
+  "layer_id": "massgis:GISDATA.RITOWNS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.RITOWNS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "New England States",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "rhode island towns",
+    "ri towns",
+    "ri municipalities",
+    "town boundaries",
+    "town labels",
+    "town polygons",
+    "massgis ritowns",
+    "new england towns",
+    "political boundaries",
+    "administrative boundaries"
+  ],
+  "column_summary": "OBJECTID, NAME, OSP_CODE, TFIPS_CODE, CFIPS_CODE, COUNTY, LAND, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

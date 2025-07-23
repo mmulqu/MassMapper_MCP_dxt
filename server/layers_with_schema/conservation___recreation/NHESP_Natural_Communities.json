@@ -1,0 +1,25 @@
+{
+  "document_title": "NHESP Natural Communities",
+  "document_id": "massgis:GISDATA.NATCOMM_POLY",
+  "layer_id": "massgis:GISDATA.NATCOMM_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.NATCOMM_POLY",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "nhesp",
+    "natural communities",
+    "natural heritage",
+    "habitat",
+    "vegetation communities",
+    "massgis",
+    "conservation recreation",
+    "rare species",
+    "ecology",
+    "nhesp natural communities"
+  ],
+  "column_summary": "OBJECTID, COMMUN_NAM, UNIQUE_ID, COMMUN_RAN, SPECIFIC_D, COMMUN_DES, VERSION, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

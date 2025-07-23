@@ -1,0 +1,25 @@
+{
+  "document_title": "Soil Survey Areas",
+  "document_id": "massgis:GISDATA.SOILS_SURVEY_AREAS_POLY",
+  "layer_id": "massgis:GISDATA.SOILS_SURVEY_AREAS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SOILS_SURVEY_AREAS_POLY",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "Soil Survey Areas Index",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "soil survey",
+    "soil survey areas",
+    "soils",
+    "survey areas",
+    "soil map",
+    "soil boundaries",
+    "ssurgo",
+    "soil index",
+    "massgis soils",
+    "soil polygons"
+  ],
+  "column_summary": "OBJECTID, AREASYMBOL, SPATIALVER, LKEY, SS_AREA, SURVEY_ARE, COUNTY, STATUS, STATUS_DES, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

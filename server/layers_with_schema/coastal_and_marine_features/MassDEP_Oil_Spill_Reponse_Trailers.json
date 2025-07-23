@@ -1,0 +1,26 @@
+{
+  "document_title": "MassDEP Oil Spill Reponse Trailers",
+  "document_id": "massgis:GISDATA.DEP_OSR_TRAILERS_PT",
+  "layer_id": "massgis:GISDATA.DEP_OSR_TRAILERS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DEP_OSR_TRAILERS_PT",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Massachusetts Geographic Response Strategies",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "oil spill trailers",
+    "oil spill response trailers",
+    "response trailers",
+    "massdep trailers",
+    "spill response",
+    "coastal response",
+    "osr trailers",
+    "marine spill equipment",
+    "geographic response strategies",
+    "massachusetts response",
+    "dep osr trailers"
+  ],
+  "column_summary": "OBJECTID, SITE_NAME, REGION, FUNDING_SO, MANUFACTUR, LATITUDE, LONGITUDE, TRAILER_TY, PLATE_NUMB, VIN, CUSTODIAN, TELEPHONE, SHAPE"
+}

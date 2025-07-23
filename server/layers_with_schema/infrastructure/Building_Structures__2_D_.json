@@ -1,0 +1,25 @@
+{
+  "document_title": "Building Structures (2-D)",
+  "document_id": "massgis:GISDATA.STRUCTURES_POLY",
+  "layer_id": "massgis:GISDATA.STRUCTURES_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.STRUCTURES_POLY",
+  "category": "Infrastructure",
+  "subcategory": "Buildings",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "building structures",
+    "buildings",
+    "structures",
+    "building footprints",
+    "structure polygons",
+    "2d buildings",
+    "infrastructure",
+    "massgis structures",
+    "gisdata structures",
+    "geoserver layer"
+  ],
+  "column_summary": "OBJECTID, STRUCT_ID, SOURCE, SOURCETYPE, SOURCEDATE, SOURCEDATA, MOVED, AREA_SQ_FT, TOWN_ID, TOWN_ID2, TOWN_ID3, LOCAL_ID, ARCHIVED, ARCHIVEDATE, EDIT_DATE, EDIT_BY, COMMENTS, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

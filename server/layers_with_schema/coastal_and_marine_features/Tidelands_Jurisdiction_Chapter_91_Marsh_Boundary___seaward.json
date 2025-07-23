@@ -1,0 +1,25 @@
+{
+  "document_title": "Tidelands Jurisdiction Chapter 91 Marsh Boundary - seaward",
+  "document_id": "massgis:GISDATA.CZM_CONTEMP_MARSH",
+  "layer_id": "massgis:GISDATA.CZM_CONTEMP_MARSH",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CZM_CONTEMP_MARSH",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Tidelands Jurisdiction Data Chapter 91",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "tidelands",
+    "tidelands jurisdiction",
+    "chapter 91",
+    "chapter 91 marsh",
+    "marsh boundary",
+    "seaward boundary",
+    "coastal marsh",
+    "marine features",
+    "czm contemporary marsh",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, MAPKEY, SHAPE, SHAPE.LEN"
+}

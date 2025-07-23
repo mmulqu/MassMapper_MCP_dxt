@@ -1,0 +1,25 @@
+{
+  "document_title": "Zone B",
+  "document_id": "massgis:GISDATA.SWP_ZONES_POLY",
+  "layer_id": "massgis:GISDATA.SWP_ZONES_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SWP_ZONES_POLY",
+  "category": "Regulated Areas",
+  "subcategory": "Surface Water Protection Areas",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "zone b",
+    "surface water protection area",
+    "swp zones",
+    "regulated areas",
+    "water protection zones",
+    "source water protection",
+    "gisdata.swp_zones_poly",
+    "massgis",
+    "drinking water protection",
+    "zone b polygon"
+  ],
+  "column_summary": "OBJECTID, SOURCE_ID, SWPZONE, ACRES, SITE_NAME, PWSID, SUPPLIER, DELINYEAR, DELINTYPE, COMMENTS, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

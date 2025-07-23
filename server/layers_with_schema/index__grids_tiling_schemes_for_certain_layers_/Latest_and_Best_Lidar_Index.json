@@ -1,0 +1,27 @@
+{
+  "document_title": "Latest and Best Lidar Index",
+  "document_id": "massgis:GISDATA.LIDARINDEX_POLY_CURRENT_BEST",
+  "layer_id": "massgis:GISDATA.LIDARINDEX_POLY_CURRENT_BEST",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.LIDARINDEX_POLY_CURRENT_BEST",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "LiDAR Terrain Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "lidar",
+    "lidar index",
+    "lidar coverage",
+    "lidar polygon",
+    "terrain index",
+    "grid index",
+    "tiling scheme",
+    "massgis lidar",
+    "current lidar index",
+    "best lidar index",
+    "latest lidar index",
+    "terrain data"
+  ],
+  "column_summary": "OBJECTID, TILENAME, AREA_NAME, DEM_URL, CONT_URL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

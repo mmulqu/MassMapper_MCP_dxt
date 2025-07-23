@@ -1,0 +1,24 @@
+{
+  "document_title": "MassWildlife Inland Bathymetry Imagery",
+  "document_id": "Inland_Bathymetry",
+  "layer_id": "Inland_Bathymetry",
+  "layer_type": "tiled_overlay",
+  "layer_date": "",
+  "layer_description": "Aerial/satellite imagery.",
+  "category": "Physical Resources",
+  "subcategory": "Hydrography Water Features",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "inland bathymetry",
+    "bathymetry imagery",
+    "lake bathymetry",
+    "underwater topography",
+    "water depth",
+    "submerged terrain",
+    "bathymetric map",
+    "satellite imagery",
+    "aerial imagery",
+    "aquatic mapping"
+  ]
+}

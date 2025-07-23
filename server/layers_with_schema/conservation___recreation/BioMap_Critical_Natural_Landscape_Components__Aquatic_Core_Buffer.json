@@ -1,0 +1,27 @@
+{
+  "document_title": "BioMap Critical Natural Landscape Components: Aquatic Core Buffer",
+  "document_id": "massgis:GISDATA.BM3_CNL_AQUATIC_BUFFER",
+  "layer_id": "massgis:GISDATA.BM3_CNL_AQUATIC_BUFFER",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_CNL_AQUATIC_BUFFER",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap",
+    "critical natural landscape",
+    "cnl",
+    "aquatic core buffer",
+    "aquatic buffer",
+    "wetland buffer",
+    "habitat buffer",
+    "massgis",
+    "gisdata",
+    "natural heritage",
+    "conservation",
+    "recreation"
+  ],
+  "column_summary": "OBJECTID, CNL_AB_ID, AC_CNL_AB, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

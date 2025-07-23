@@ -1,0 +1,25 @@
+{
+  "document_title": "Quabbin Reservoir Bathymetry Depth in Feet",
+  "document_id": "massgis:GISDATA.QRBATH_POLY",
+  "layer_id": "massgis:GISDATA.QRBATH_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.QRBATH_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Topography Contours",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "quabbin reservoir",
+    "bathymetry",
+    "depth in feet",
+    "reservoir depth",
+    "water depth",
+    "topography contours",
+    "quabbin depth",
+    "qr bath poly",
+    "massgis qrbath_poly",
+    "gisdata qrbath_poly"
+  ],
+  "column_summary": "OBJECTID, HIGH, LOW, DEPTH, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

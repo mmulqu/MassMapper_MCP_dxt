@@ -1,0 +1,32 @@
+{
+  "dxt_version": "0.1",
+  "name": "massgis-mcp",
+  "display_name": "MassGIS MCP",
+  "version": "1.0.0",
+  "description": "Local GIS viewer for MassGIS MCP layers",
+  "author": { "name": "Your Name" },
+
+  "server": {
+    "type": "python",
+    "entry_point": "server/massgis_mcp.py",
+    "mcp_config": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory", "${__dirname}",
+        "python", "${__dirname}/server/massgis_mcp.py"
+      ],
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  },
+
+  "compatibility": {
+    "claude_desktop": ">=0.12.20",
+    "platforms": ["darwin", "win32", "linux"],
+    "runtimes": { "python": ">=3.9" }
+  },
+
+  "icon": "icon.png"
+} 

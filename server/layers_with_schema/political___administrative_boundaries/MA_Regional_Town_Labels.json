@@ -1,0 +1,25 @@
+{
+  "document_title": "MA Regional Town Labels",
+  "document_id": "massgis:GISDATA.SCHOOLDISTRICTS_RGLTOWNLABELS",
+  "layer_id": "massgis:GISDATA.SCHOOLDISTRICTS_RGLTOWNLABELS",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SCHOOLDISTRICTS_RGLTOWNLABELS",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Public School Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massachusetts",
+    "regional town labels",
+    "school district labels",
+    "public school districts",
+    "town labels",
+    "massgis",
+    "gisdata",
+    "geoserver",
+    "rgl town labels",
+    "ma town labels"
+  ],
+  "column_summary": "OBJECTID, TOWN, TOWN_ID, POP1980, POP1990, POP2000, POPCH80_90, POPCH90_00, TYPE, FOURCOLOR, FIPS_STCO, SUM_ACRES, SUM_SQUARE_MILES, POP2010, POPCH00_10, ORIG_FID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

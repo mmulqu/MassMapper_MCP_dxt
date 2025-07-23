@@ -1,0 +1,24 @@
+{
+  "document_title": "USGS Grid",
+  "document_id": "massgis:GISDATA.USGSGRID_POLY",
+  "layer_id": "massgis:GISDATA.USGSGRID_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.USGSGRID_POLY",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "USGS Grid",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "usgs grid",
+    "usgs grid polygon",
+    "grid index",
+    "tiling scheme",
+    "map grid",
+    "massgis grid",
+    "polygon grid",
+    "usgs tiling scheme",
+    "grid tiling"
+  ],
+  "column_summary": "OBJECTID, QUAD_NAME, DIG_ID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

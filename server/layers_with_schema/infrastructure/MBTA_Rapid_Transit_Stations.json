@@ -1,0 +1,25 @@
+{
+  "document_title": "MBTA Rapid Transit Stations",
+  "document_id": "massgis:GISDATA.MBTA_NODE",
+  "layer_id": "massgis:GISDATA.MBTA_NODE",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MBTA_NODE",
+  "category": "Infrastructure",
+  "subcategory": "Trains",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mbta",
+    "mbta rapid transit",
+    "rapid transit stations",
+    "subway stations",
+    "subway stops",
+    "t stations",
+    "transit stations",
+    "public transit",
+    "mass transit",
+    "transit nodes"
+  ],
+  "column_summary": "OBJECTID, STATION, LINE, TERMINUS, ROUTE, SHAPE"
+}

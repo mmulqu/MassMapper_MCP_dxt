@@ -1,0 +1,25 @@
+{
+  "document_title": "Property Tax Parcels Assessed Fiscal Year and Download Links",
+  "document_id": "massgis:GISDATA.L3_PARCEL_FTP_LINKS",
+  "layer_id": "massgis:GISDATA.L3_PARCEL_FTP_LINKS",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Property boundary and tax information. GeoServer layer: GISDATA.L3_PARCEL_FTP_LINKS",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Property Tax Parcels",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "property tax parcels",
+    "parcel boundaries",
+    "tax parcels",
+    "property boundary",
+    "parcel ftp links",
+    "parcel data",
+    "gisdata parcels",
+    "massgis",
+    "geoserver layer",
+    "parcel download"
+  ],
+  "column_summary": "OBJECTID, TOWN, TOWN_ID, SHAPE_LINK, FGDB_LINK, FY, NOTE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

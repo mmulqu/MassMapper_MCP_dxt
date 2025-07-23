@@ -1,0 +1,25 @@
+{
+  "document_title": "MassDEP Seagrass Phase 5: 2015-2017",
+  "document_id": "massgis:GISDATA.EELGRASS2015_17_POLY",
+  "layer_id": "massgis:GISDATA.EELGRASS2015_17_POLY",
+  "layer_type": "poly",
+  "layer_date": "2015",
+  "layer_description": "GeoServer layer: GISDATA.EELGRASS2015_17_POLY",
+  "category": "Coastal and Marine Features",
+  "subcategory": "MassDEP Seagrass",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "seagrass",
+    "eelgrass",
+    "massdep seagrass",
+    "seagrass phase 5",
+    "eelgrass 2015-2017",
+    "coastal features",
+    "marine features",
+    "habitat mapping",
+    "polygon",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, AREA_M, AREA_ACRES, HABITAT, YEAR, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

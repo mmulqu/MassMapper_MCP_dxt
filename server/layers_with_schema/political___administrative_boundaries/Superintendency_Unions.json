@@ -1,0 +1,25 @@
+{
+  "document_title": "Superintendency Unions",
+  "document_id": "massgis:GISDATA.SCHOOLDISTRICTS_CCUV_POLY_SU",
+  "layer_id": "massgis:GISDATA.SCHOOLDISTRICTS_CCUV_POLY_SU",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SCHOOLDISTRICTS_CCUV_POLY_SU",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Public School Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "superintendency unions",
+    "superintendency union",
+    "public school district",
+    "school district",
+    "massachusetts school districts",
+    "ma school districts",
+    "public school",
+    "education boundaries",
+    "administrative boundaries",
+    "political boundaries"
+  ],
+  "column_summary": "OBJECTID, TYPE, NAME, MEMBERS, NICKNAME, ORG8CODE, SCH8CODE, ORG4CODE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

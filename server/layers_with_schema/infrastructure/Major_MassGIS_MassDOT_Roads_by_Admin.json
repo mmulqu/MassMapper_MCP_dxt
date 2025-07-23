@@ -1,0 +1,25 @@
+{
+  "document_title": "Major MassGIS-MassDOT Roads by Admin",
+  "document_id": "massgis:GISDATA.EOTMAJROADS_ARC",
+  "layer_id": "massgis:GISDATA.EOTMAJROADS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "Road network data. GeoServer layer: GISDATA.EOTMAJROADS_ARC",
+  "category": "Infrastructure",
+  "subcategory": "MassGIS-MassDOT Roads",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massgis roads",
+    "massdot roads",
+    "major roads",
+    "road network",
+    "massachusetts roads",
+    "state highways",
+    "administrative roads",
+    "infrastructure",
+    "transportation",
+    "eotmajroads"
+  ],
+  "column_summary": "OBJECTID, CLASS, ADMIN_TYPE, STREET_NAME, RT_NUMBER, ALTRTNUM1, ALTRTNUM2, ALTRTNUM3, ALTRTNUM4, ALTRT1TYPE, RDTYPE, SHAPE, SHAPE.LEN"
+}

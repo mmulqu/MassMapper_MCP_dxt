@@ -1,0 +1,25 @@
+{
+  "document_title": "Year of 1990 Aerial Images",
+  "document_id": "massgis:GISDATA.OQMAIN_POLY",
+  "layer_id": "massgis:GISDATA.OQMAIN_POLY",
+  "layer_type": "poly",
+  "layer_date": "1990",
+  "layer_description": "Aerial/satellite imagery. GeoServer layer: GISDATA.OQMAIN_POLY",
+  "category": "Status / Availability (maps showing where data is available or date of data)",
+  "subcategory": "Aerial Images",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "aerial imagery",
+    "satellite imagery",
+    "1990 aerial images",
+    "historic imagery",
+    "massgis",
+    "geoserver",
+    "oqmain_poly",
+    "gisdata",
+    "aerial photos",
+    "massachusetts imagery"
+  ],
+  "column_summary": "OBJECTID, SHEET_ID, PROJECT, DATEPHOTO, DATEDIGITA, DATECONTOU, DATECONTRO, DATEPOINTS, DATEROADS, DATEWET, DATESTRM, USGSPHOTO, PROJ_AREA, CD_ID, CD_COPIES, COMMENT_, INDEX_ID, COQMOSAIC, COQMOSCD, SDE_MOS, SDE_MOS2, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

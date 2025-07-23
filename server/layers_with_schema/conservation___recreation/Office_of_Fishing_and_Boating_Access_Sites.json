@@ -1,0 +1,27 @@
+{
+  "document_title": "Office of Fishing and Boating Access Sites",
+  "document_id": "massgis:GISDATA.OFBA_PT",
+  "layer_id": "massgis:GISDATA.OFBA_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.OFBA_PT",
+  "category": "Conservation / Recreation",
+  "subcategory": "Office of Fishing and Boating Access Sites",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "fishing",
+    "boating",
+    "boat launch",
+    "boat ramps",
+    "water access",
+    "public access",
+    "fishing sites",
+    "boating sites",
+    "launch sites",
+    "massachusetts",
+    "ofba",
+    "recreation"
+  ],
+  "column_summary": "OBJECTID, OFBA_ID, TOWN, FACNAME, FACILITY_TYPE, MAINTRESP, RAMPTYPE, GOOGLE_MAP, PONDMAP_LINK, NOLANES, NORAMPS, CONDITION, FEE, STREET_PERMITED, RESTRICTED, PARKING, COMMENTS, DATE_ENTER, QUADS_ID, QUAD_NAME, DOUBLEQUAD, FISH_CODES, PAGE, SITEMAP_NAME, COASTAL_ACCESS, BARRIER_FREE, PENDING, TOWN_ID, POINT_Y, POINT_X, SHAPE"
+}

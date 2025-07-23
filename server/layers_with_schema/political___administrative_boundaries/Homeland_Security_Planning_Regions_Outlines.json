@@ -1,0 +1,25 @@
+{
+  "document_title": "Homeland Security Planning Regions Outlines",
+  "document_id": "massgis:GISDATA.HLSPREGIONS_ARC",
+  "layer_id": "massgis:GISDATA.HLSPREGIONS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.HLSPREGIONS_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Homeland Security Planning Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "homeland security planning",
+    "planning regions",
+    "homeland security",
+    "region outlines",
+    "security planning regions",
+    "hlsp regions arc",
+    "administrative boundaries",
+    "political boundaries",
+    "massachusetts planning",
+    "line layer"
+  ],
+  "column_summary": "OBJECTID, OUTLINE, SHAPE, SHAPE.LEN"
+}

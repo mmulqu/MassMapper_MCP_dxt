@@ -1,0 +1,25 @@
+{
+  "document_title": "Ice Rinks Labels",
+  "document_id": "massgis:GISDATA.ICERINKS_PT",
+  "layer_id": "massgis:GISDATA.ICERINKS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.ICERINKS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Ice Rinks",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "ice rink",
+    "ice rinks",
+    "ice rink labels",
+    "skating rink",
+    "public ice rink",
+    "ice skating",
+    "winter sports",
+    "recreation facilities",
+    "massgis",
+    "gisdata icerinks"
+  ],
+  "column_summary": "OBJECTID, FACIL_NAME, ADDRESS, CITY_TOWN, TOWN_ID, PHONE, FACIL_TYPE, RINK_SIZE, RINK_ID, LEGIS, FACIL_STAT, LABEL, SHAPE"
+}

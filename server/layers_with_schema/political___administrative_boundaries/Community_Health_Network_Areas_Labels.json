@@ -1,0 +1,25 @@
+{
+  "document_title": "Community Health Network Areas Labels",
+  "document_id": "massgis:GISDATA.CHNA_POLY",
+  "layer_id": "massgis:GISDATA.CHNA_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CHNA_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Community Health Network Areas",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "community health network areas",
+    "chna",
+    "health regions",
+    "massgis",
+    "administrative boundaries",
+    "health network polygons",
+    "community health",
+    "network boundaries",
+    "chna labels",
+    "health service areas"
+  ],
+  "column_summary": "OBJECTID, CHNA_NUM, CHNA_NAME, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

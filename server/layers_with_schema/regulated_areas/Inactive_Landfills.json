@@ -1,0 +1,25 @@
+{
+  "document_title": "Inactive Landfills",
+  "document_id": "massgis:GISDATA.SW_LD_POLY_INACTIVE",
+  "layer_id": "massgis:GISDATA.SW_LD_POLY_INACTIVE",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SW_LD_POLY_INACTIVE",
+  "category": "Regulated Areas",
+  "subcategory": "MassDEP Solid Waste Diversion and Disposal",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "inactive landfills",
+    "closed landfills",
+    "old landfills",
+    "landfill sites",
+    "solid waste",
+    "disposal sites",
+    "waste diversion",
+    "regulated areas",
+    "massdep",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, RO_ACCT, SITE_NAME, ADDRESS, TOWN, REGION, LF_LINER, WASTE_TYPE, ACRES, SW_ID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

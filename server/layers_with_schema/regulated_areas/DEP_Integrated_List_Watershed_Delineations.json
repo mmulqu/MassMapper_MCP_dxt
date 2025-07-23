@@ -1,0 +1,25 @@
+{
+  "document_title": "DEP Integrated List Watershed Delineations",
+  "document_id": "massgis:GISDATA.IL_DWMWPP_WATERSHEDS_POLY",
+  "layer_id": "massgis:GISDATA.IL_DWMWPP_WATERSHEDS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.IL_DWMWPP_WATERSHEDS_POLY",
+  "category": "Regulated Areas",
+  "subcategory": "DEP Integrated List of Waters",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "watershed delineations",
+    "integrated list",
+    "dep watersheds",
+    "dwmwpp",
+    "regulated areas",
+    "watershed polygons",
+    "massachusetts watersheds",
+    "dep integrated list",
+    "water quality",
+    "watershed boundaries"
+  ],
+  "column_summary": "OBJECTID, DWM_NAME, DWM_CODE, DRAINAGE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

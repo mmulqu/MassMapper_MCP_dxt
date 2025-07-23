@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2000 Water Bodies",
+  "document_id": "massgis:GISDATA.CENSUS2000TIGERHYDRO_POLY",
+  "layer_id": "massgis:GISDATA.CENSUS2000TIGERHYDRO_POLY",
+  "layer_type": "poly",
+  "layer_date": "2000",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2000TIGERHYDRO_POLY",
+  "category": "Census",
+  "subcategory": "Census 2000",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census",
+    "census 2000",
+    "water bodies",
+    "hydrography",
+    "tiger hydro",
+    "hydro poly",
+    "massgis",
+    "gisdata",
+    "hydro",
+    "polygon"
+  ],
+  "column_summary": "OBJECTID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

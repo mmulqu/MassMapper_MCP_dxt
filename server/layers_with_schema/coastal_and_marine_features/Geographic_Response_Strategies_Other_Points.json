@@ -1,0 +1,25 @@
+{
+  "document_title": "Geographic Response Strategies Other Points",
+  "document_id": "massgis:GISDATA.GRS_OTHER_PT",
+  "layer_id": "massgis:GISDATA.GRS_OTHER_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.GRS_OTHER_PT",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Massachusetts Geographic Response Strategies",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "geographic response strategies",
+    "grs other points",
+    "response points",
+    "coastal and marine features",
+    "marine features",
+    "spill response",
+    "oil spill",
+    "hazmat",
+    "massgis",
+    "other points"
+  ],
+  "column_summary": "OBJECTID, P_TYPE, POINT_DESC, GRS_AREA_C, SITE_NUM, SITE_NAME, GRS_LINK, SITE_ID, SHAPE"
+}

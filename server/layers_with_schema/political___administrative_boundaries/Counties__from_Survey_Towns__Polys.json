@@ -1,0 +1,25 @@
+{
+  "document_title": "Counties (from Survey Towns) Polys",
+  "document_id": "massgis:GISDATA.COUNTIESSURVEY_POLYM",
+  "layer_id": "massgis:GISDATA.COUNTIESSURVEY_POLYM",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.COUNTIESSURVEY_POLYM",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Counties",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "counties",
+    "county boundaries",
+    "massachusetts counties",
+    "survey towns",
+    "county polygons",
+    "political boundaries",
+    "administrative boundaries",
+    "massgis",
+    "gisdata",
+    "polygons"
+  ],
+  "column_summary": "OBJECTID, FIPS_ID, COUNTY, POP1980, POP1990, POP2000, POP2010, POPCH80_90, POPCH90_00, POPCH00_10, SQ_MILES, SQ_KM, AREA_ACRES, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

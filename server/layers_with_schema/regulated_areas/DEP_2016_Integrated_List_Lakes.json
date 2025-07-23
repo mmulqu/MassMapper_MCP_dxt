@@ -1,0 +1,25 @@
+{
+  "document_title": "DEP 2016 Integrated List Lakes",
+  "document_id": "massgis:GISDATA.IL_2016_POLY_V",
+  "layer_id": "massgis:GISDATA.IL_2016_POLY_V",
+  "layer_type": "poly",
+  "layer_date": "2016",
+  "layer_description": "GeoServer layer: GISDATA.IL_2016_POLY_V",
+  "category": "Regulated Areas",
+  "subcategory": "DEP Integrated List of Waters",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dep integrated list lakes",
+    "integrated list of waters",
+    "dep lakes 2016",
+    "massgis il_2016_poly_v",
+    "regulated areas",
+    "geoserver layer",
+    "lakes polygon",
+    "massachusetts lakes",
+    "water resource",
+    "water quality"
+  ],
+  "column_summary": "OBJECTID, WBID_2016, WATERSHED, WATERBODY, AU_ID, LOCATION1, LOCATION2, WATERCODE, WATERTYPE, AU_SIZE, SIZE_UNIT, CLASS, QUALIFIER, CATEGORY, TMDL_COUNT, USE, ATTAINMENT, ALERT, CAUSE, POLTNT_FLG, SOURCE, SRCE_CONF, TMDLEPA_ID, TMDLDWM_ID, DWM_TITLE, INFO_NAME, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

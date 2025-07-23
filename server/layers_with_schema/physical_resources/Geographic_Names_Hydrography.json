@@ -1,0 +1,27 @@
+{
+  "document_title": "Geographic Names Hydrography",
+  "document_id": "massgis:GISDATA.GEONAMES_LINE_HYDRO",
+  "layer_id": "massgis:GISDATA.GEONAMES_LINE_HYDRO",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.GEONAMES_LINE_HYDRO",
+  "category": "Physical Resources",
+  "subcategory": "Geographic Names",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "hydrography",
+    "geographic names",
+    "waterways",
+    "rivers",
+    "streams",
+    "water courses",
+    "river names",
+    "stream names",
+    "massgis",
+    "geonames",
+    "hydro",
+    "line hydrography"
+  ],
+  "column_summary": "OBJECTID, HEIGHT, TEXT, GEONAMES_A, GEONAMES_1, FEATUREID, ZORDER, ANNOTATION, SYMBOLID, STATUS, TEXTSTRING, FONTNAME, FONTSIZE, BOLD, ITALIC, UNDERLINE, VERTICALAL, HORIZONTAL, XOFFSET, YOFFSET, ANGLE, FONTLEADIN, WORDSPACIN, CHARACTERW, CHARACTERS, FLIPANGLE, OVERRIDE, NAME, FEATURE, SOURCE, SHAPE, SHAPE.LEN"
+}

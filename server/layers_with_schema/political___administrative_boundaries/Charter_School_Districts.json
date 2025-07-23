@@ -1,0 +1,23 @@
+{
+  "document_title": "Charter School Districts",
+  "document_id": "massgis:GISDATA.SCHOOLDISTRICTS_CCUV_POLY_CH",
+  "layer_id": "massgis:GISDATA.SCHOOLDISTRICTS_CCUV_POLY_CH",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Educational facilities. GeoServer layer: GISDATA.SCHOOLDISTRICTS_CCUV_POLY_CH",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Public School Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "charter school districts",
+    "charter districts",
+    "public school districts",
+    "charter schools",
+    "school district boundaries",
+    "educational districts",
+    "charter school boundaries",
+    "massachusetts charter schools"
+  ],
+  "column_summary": "OBJECTID, TYPE, NAME, MEMBERS, NICKNAME, ORG8CODE, SCH8CODE, ORG4CODE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

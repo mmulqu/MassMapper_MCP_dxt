@@ -1,0 +1,25 @@
+{
+  "document_title": "Massachusetts Emergency Preparedness Regions",
+  "document_id": "massgis:GISDATA.REGDPHEP_POLY",
+  "layer_id": "massgis:GISDATA.REGDPHEP_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGDPHEP_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Emergency Preparedness Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "emergency preparedness",
+    "preparedness regions",
+    "massachusetts",
+    "ma emergency",
+    "phep regions",
+    "public health regions",
+    "disaster planning",
+    "gisdata",
+    "massgis",
+    "emergency regions"
+  ],
+  "column_summary": "OBJECTID, REGION, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

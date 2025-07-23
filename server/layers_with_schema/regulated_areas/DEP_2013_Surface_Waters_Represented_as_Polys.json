@@ -1,0 +1,24 @@
+{
+  "document_title": "DEP 2013 Surface Waters Represented as Polys",
+  "document_id": "massgis:GISDATA.SWQS_2013_POLY",
+  "layer_id": "massgis:GISDATA.SWQS_2013_POLY",
+  "layer_type": "poly",
+  "layer_date": "2013",
+  "layer_description": "GeoServer layer: GISDATA.SWQS_2013_POLY",
+  "category": "Regulated Areas",
+  "subcategory": "DEP Surface Water Quality Standards",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "2013 surface waters",
+    "surface water quality",
+    "dep surface water quality standards",
+    "dep swqs",
+    "swqs polygons",
+    "regulated water areas",
+    "surface waters polygons",
+    "massgis swqs",
+    "water quality standards"
+  ],
+  "column_summary": "OBJECTID, REG_DATE, REG_TABLE, REG_BASIN, WATERS, BOUNDARY, MILE_POINT, CLASS, QUALIFIER, COMMENT1, COMMENT2, WATERCODE, WATERS28, BOUNDARY28, BND28CONT, POLLUTANT, SSCRITERIA, COMMENT28A, COMMENT28B, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

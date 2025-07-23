@@ -1,0 +1,25 @@
+{
+  "document_title": "USGS Topographic Maps",
+  "document_id": "USGS_Topos",
+  "layer_id": "USGS_Topos",
+  "layer_type": "tiled_overlay",
+  "layer_date": "",
+  "layer_description": "",
+  "category": "Images",
+  "subcategory": "USGS Topographic Maps",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "usgs",
+    "usgs topo",
+    "usgs topographic maps",
+    "topographic maps",
+    "topo maps",
+    "topo overlay",
+    "topographic quadrangles",
+    "quadrangle",
+    "massachusetts topo",
+    "ma topographic maps",
+    "tiled overlay"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "USGS Quads Last Revised",
+  "document_id": "massgis:GISDATA.QUADS_POLY_REVDATE",
+  "layer_id": "massgis:GISDATA.QUADS_POLY_REVDATE",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.QUADS_POLY_REVDATE",
+  "category": "Images",
+  "subcategory": "USGS Topographic Maps",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "usgs",
+    "usgs quads",
+    "usgs topographic maps",
+    "quad",
+    "quadrangle",
+    "revised date",
+    "map revision",
+    "topo quad",
+    "topographic map",
+    "massachusetts",
+    "massgis quads"
+  ]
+}

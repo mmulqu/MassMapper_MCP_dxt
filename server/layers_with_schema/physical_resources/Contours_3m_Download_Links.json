@@ -1,0 +1,25 @@
+{
+  "document_title": "Contours 3m Download Links",
+  "document_id": "massgis:GISDATA.CONTOURS5K_INDEX_POLY",
+  "layer_id": "massgis:GISDATA.CONTOURS5K_INDEX_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CONTOURS5K_INDEX_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Topography Contours",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "contours",
+    "3m contours",
+    "topography",
+    "elevation",
+    "contour index",
+    "contour polygons",
+    "terrain",
+    "massgis",
+    "gisdata",
+    "download"
+  ],
+  "column_summary": "OBJECTID_1, OBJECTID, TOWN, TOWN_ID, SHAPE_LENG, URL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

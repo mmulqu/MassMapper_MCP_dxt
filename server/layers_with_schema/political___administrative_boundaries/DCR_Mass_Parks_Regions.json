@@ -1,0 +1,24 @@
+{
+  "document_title": "DCR Mass Parks Regions",
+  "document_id": "massgis:GISDATA.REGDCR_POLY",
+  "layer_id": "massgis:GISDATA.REGDCR_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGDCR_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "DCR Mass Parks Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massachusetts parks",
+    "state parks",
+    "dcr mass parks",
+    "dcr regions",
+    "park regions",
+    "park boundaries",
+    "massgis",
+    "conservation recreation",
+    "administrative boundaries"
+  ],
+  "column_summary": "OBJECTID_1, OBJECTID, SHAPE_LENG, REGION, DISTRICT, DIVISION, SYMBOLOGY, SHAPE_LE_1, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

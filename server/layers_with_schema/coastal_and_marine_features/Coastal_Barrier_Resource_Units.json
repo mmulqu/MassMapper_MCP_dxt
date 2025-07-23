@@ -1,0 +1,25 @@
+{
+  "document_title": "Coastal Barrier Resource Units",
+  "document_id": "massgis:GISDATA.CBRS_POLY",
+  "layer_id": "massgis:GISDATA.CBRS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CBRS_POLY",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Coastal Barrier Resource Units",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "coastal barrier resource units",
+    "coastal barrier",
+    "cbrs",
+    "massgis cbrs",
+    "barrier islands",
+    "shoreline protection",
+    "coastal management",
+    "coastal zones",
+    "massachusetts coast",
+    "federal cbrs"
+  ],
+  "column_summary": "OBJECTID, POLYID, CBRSNAME, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

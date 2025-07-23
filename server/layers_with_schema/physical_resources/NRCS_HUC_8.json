@@ -1,0 +1,25 @@
+{
+  "document_title": "NRCS HUC 8",
+  "document_id": "massgis:GISDATA.NRCSHUC8_POLY",
+  "layer_id": "massgis:GISDATA.NRCSHUC8_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.NRCSHUC8_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Watersheds",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "nrcs huc 8",
+    "huc 8",
+    "huc8",
+    "watershed boundaries",
+    "watershed polygons",
+    "hydrologic unit codes",
+    "huc boundaries",
+    "nrcs watersheds",
+    "massachusetts watersheds",
+    "hydrologic units"
+  ],
+  "column_summary": "OBJECTID, HU_8_NAME, HUC_8, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

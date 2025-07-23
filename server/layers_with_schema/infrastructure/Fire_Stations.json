@@ -1,0 +1,25 @@
+{
+  "document_title": "Fire Stations",
+  "document_id": "massgis:GISDATA.FIRESTATIONS_PT_MEMA",
+  "layer_id": "massgis:GISDATA.FIRESTATIONS_PT_MEMA",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.FIRESTATIONS_PT_MEMA",
+  "category": "Infrastructure",
+  "subcategory": "Fire Stations",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "fire stations",
+    "fire station locations",
+    "mema fire stations",
+    "massgis fire",
+    "fire points",
+    "firehouse locations",
+    "emergency services",
+    "fire department",
+    "pt fire stations",
+    "public safety"
+  ],
+  "column_summary": "OBJECTID, MASSGIS_ID, NAME, OFFICE, ADDRESS, CITY, STATE, ZIP, L_SRC, SOURCE, L_DATE, SHAPE, ADDR_PT_ID, MAD_ID"
+}

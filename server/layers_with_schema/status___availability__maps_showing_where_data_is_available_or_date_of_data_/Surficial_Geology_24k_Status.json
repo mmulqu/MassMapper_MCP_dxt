@@ -1,0 +1,25 @@
+{
+  "document_title": "Surficial Geology 24k Status",
+  "document_id": "massgis:GISDATA.SURFGEO24KSTATUS_POLY",
+  "layer_id": "massgis:GISDATA.SURFGEO24KSTATUS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SURFGEO24KSTATUS_POLY",
+  "category": "Status / Availability (maps showing where data is available or date of data)",
+  "subcategory": "Surficial Geology 24k",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "surficial geology",
+    "surficial geology 24k",
+    "surficial geology status",
+    "geology 24k status",
+    "data availability",
+    "massgis",
+    "geoserver",
+    "massachusetts geology",
+    "geologic maps",
+    "gisdata.surfgeo24kstatus_poly"
+  ],
+  "column_summary": "OBJECTID, SG_AREA, SG_AVAIL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

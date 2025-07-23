@@ -1,0 +1,24 @@
+{
+  "document_title": "Water Table Ratio",
+  "document_id": "HydrogeoAtlas_WaterTableRatio_TPKX",
+  "layer_id": "HydrogeoAtlas_WaterTableRatio_TPKX",
+  "layer_type": "tiled_overlay",
+  "layer_date": "",
+  "layer_description": "",
+  "category": "Physical Resources",
+  "subcategory": "Hydrogeologic Atlas of Mass.",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "water table",
+    "water table ratio",
+    "groundwater",
+    "hydrogeologic atlas",
+    "hydrogeology",
+    "water ratio",
+    "aquifer",
+    "hydrology",
+    "massachusetts",
+    "massgis"
+  ]
+}

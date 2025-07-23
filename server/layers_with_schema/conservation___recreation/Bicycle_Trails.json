@@ -1,0 +1,24 @@
+{
+  "document_title": "Bicycle Trails",
+  "document_id": "massgis:GISDATA.BIKETRAILS_ARC",
+  "layer_id": "massgis:GISDATA.BIKETRAILS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BIKETRAILS_ARC",
+  "category": "Conservation / Recreation",
+  "subcategory": "Trails",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "bicycle trails",
+    "bike trails",
+    "bike paths",
+    "cycling routes",
+    "recreational trails",
+    "bikeways",
+    "bike routes",
+    "trail network",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, MDOT_ROUTE_ID, LOCAL_NAME, ALT_NAME, DATA_SOURCE, LINE_SOURCE, ROUTE_SOURCE, FAC_TYPE_NAME, SURFACE_TYPE, NAMESOURCE, SHAPE, SHAPE.LEN"
+}

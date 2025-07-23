@@ -1,0 +1,25 @@
+{
+  "document_title": "Quabbin Reservoir Bathymetry Contours",
+  "document_id": "massgis:GISDATA.QRBATH_ARC",
+  "layer_id": "massgis:GISDATA.QRBATH_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.QRBATH_ARC",
+  "category": "Physical Resources",
+  "subcategory": "Topography Contours",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "quabbin",
+    "quabbin reservoir",
+    "bathymetry",
+    "bathymetry contours",
+    "depth contours",
+    "reservoir bathymetry",
+    "contour lines",
+    "water depth",
+    "topography contours",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, ELEV, DEPTH_F, DEPTH_M, CONTOUR, SHAPE, SHAPE.LEN"
+}

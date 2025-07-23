@@ -1,0 +1,25 @@
+{
+  "document_title": "Massachusetts State Police Troops",
+  "document_id": "massgis:GISDATA.STATEPOLICETROOPS_POLY",
+  "layer_id": "massgis:GISDATA.STATEPOLICETROOPS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.STATEPOLICETROOPS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Massachusetts State Police Troops",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massachusetts state police",
+    "state police troops",
+    "mass state police",
+    "ma state police",
+    "state police districts",
+    "police troops map",
+    "massgis state police",
+    "state police boundaries",
+    "mass state police districts",
+    "troop boundaries"
+  ],
+  "column_summary": "OBJECTID, TROOP, REGION, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

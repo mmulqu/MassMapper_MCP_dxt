@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2010 Municipal Boundaries",
+  "document_id": "massgis:GISDATA.CENSUS2010TOWNS_ARC",
+  "layer_id": "massgis:GISDATA.CENSUS2010TOWNS_ARC",
+  "layer_type": "line",
+  "layer_date": "2010",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2010TOWNS_ARC",
+  "category": "Census",
+  "subcategory": "Census 2010",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2010",
+    "municipal boundaries",
+    "town boundaries",
+    "municipal lines",
+    "town lines",
+    "census boundaries",
+    "massgis",
+    "2010 census",
+    "census data",
+    "census towns"
+  ],
+  "column_summary": "OBJECTID, OUTLINE, SHAPE, SHAPE.LEN"
+}

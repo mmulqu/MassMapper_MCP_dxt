@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2020 TIGER Roads",
+  "document_id": "massgis:GISDATA.CENSUS2020TIGERROADS_ARC_GC",
+  "layer_id": "massgis:GISDATA.CENSUS2020TIGERROADS_ARC_GC",
+  "layer_type": "line",
+  "layer_date": "2020",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2020TIGERROADS_ARC_GC",
+  "category": "Census",
+  "subcategory": "Census 2020",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2020 roads",
+    "2020 census roads",
+    "tiger roads",
+    "tigerline roads",
+    "us census roads",
+    "massgis roads",
+    "massachusetts roads",
+    "ma roads",
+    "roads layer",
+    "tigerline"
+  ],
+  "column_summary": "OBJECTID, TLID, TFIDL, TFIDR, ARIDL, ARIDR, LINEARID, FULLNAME, LFROMHN, LTOHN, RFROMHN, RTOHN, ZIPL, ZIPR, ROAD_MTFCC, PARITYL, PARITYR, LFROMTYP, LTOTYP, RFROMTYP, RTOTYP, OFFSETL, OFFSETR, FEATURE_TYPE, LENGTH_FT, TRACT20_L, TRACT20_R, BLKGRP20_L, BLKGRP20_R, BLOCK20_L, BLOCK20_R, COUSUBFP_L, COUSUBFP_R, TOWN_L, TOWN_R, TOWN_ID_L, TOWN_ID_R, SHAPE, SHAPE.LEN"
+}

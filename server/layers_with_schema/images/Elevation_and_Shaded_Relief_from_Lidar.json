@@ -1,0 +1,24 @@
+{
+  "document_title": "Elevation and Shaded Relief from Lidar",
+  "document_id": "Elevation_and_ShadedRelief_from_Lidar_2013to2021",
+  "layer_id": "Elevation_and_ShadedRelief_from_Lidar_2013to2021",
+  "layer_type": "tiled_overlay",
+  "layer_date": "",
+  "layer_description": "",
+  "category": "Images",
+  "subcategory": "Elevation with Shaded Relief",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "elevation",
+    "shaded relief",
+    "lidar",
+    "dem",
+    "digital elevation model",
+    "hillshade",
+    "terrain",
+    "terrain model",
+    "topography",
+    "massgis"
+  ]
+}

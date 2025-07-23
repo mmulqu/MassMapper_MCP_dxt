@@ -1,0 +1,25 @@
+{
+  "document_title": "State Representative House Districts 2021 Outline Types",
+  "document_id": "massgis:GISDATA.HOUSE2021_ARC",
+  "layer_id": "massgis:GISDATA.HOUSE2021_ARC",
+  "layer_type": "line",
+  "layer_date": "2021",
+  "layer_description": "GeoServer layer: GISDATA.HOUSE2021_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Legislative Districts 2021",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "state representative districts",
+    "house district lines",
+    "legislative districts 2021",
+    "state house boundaries",
+    "2021 house districts",
+    "political boundaries",
+    "district outline",
+    "massachusetts house map",
+    "house district map",
+    "massgis house districts"
+  ],
+  "column_summary": "OBJECTID, OUTLINE, SHAPE, SHAPE.LEN"
+}

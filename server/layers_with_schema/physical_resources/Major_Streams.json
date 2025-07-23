@@ -1,0 +1,25 @@
+{
+  "document_title": "Major Streams",
+  "document_id": "massgis:GISDATA.MAJSTRM_ARC",
+  "layer_id": "massgis:GISDATA.MAJSTRM_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MAJSTRM_ARC",
+  "category": "Physical Resources",
+  "subcategory": "Hydrography Water Features",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "major streams",
+    "streams",
+    "rivers",
+    "hydrography",
+    "water features",
+    "watercourses",
+    "stream network",
+    "perennial streams",
+    "gisdata",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, SHAPE, SHAPE.LEN"
+}

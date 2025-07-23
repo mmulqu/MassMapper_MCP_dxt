@@ -1,0 +1,25 @@
+{
+  "document_title": "Surficial Geology",
+  "document_id": "massgis:GISDATA.SURFGEO250K_POLY",
+  "layer_id": "massgis:GISDATA.SURFGEO250K_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SURFGEO250K_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Surficial Geology",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "surficial geology",
+    "surface geology",
+    "soil",
+    "sediment",
+    "glacial",
+    "till",
+    "unconsolidated",
+    "quaternary",
+    "regolith",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, CODE, AREA_ACRES, RANGE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

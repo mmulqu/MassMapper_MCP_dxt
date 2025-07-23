@@ -1,0 +1,25 @@
+{
+  "document_title": "Ecoregions Transitional Areas",
+  "document_id": "massgis:GISDATA.ECOREGIONS_POLY",
+  "layer_id": "massgis:GISDATA.ECOREGIONS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.ECOREGIONS_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Ecoregions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "ecoregions",
+    "transitional areas",
+    "ecoregion boundaries",
+    "environmental zones",
+    "ecological zones",
+    "ecoregions layer",
+    "ecoregions poly",
+    "physical resources",
+    "massgis",
+    "gisdata"
+  ],
+  "column_summary": "OBJECTID, ECOID, ECONAME, FUZZY, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

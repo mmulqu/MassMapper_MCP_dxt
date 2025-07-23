@@ -1,0 +1,25 @@
+{
+  "document_title": "Airports",
+  "document_id": "massgis:GISDATA.AIRPORTS_PT",
+  "layer_id": "massgis:GISDATA.AIRPORTS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.AIRPORTS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Airports",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "airport",
+    "airports",
+    "airfield",
+    "runway",
+    "aviation",
+    "flight",
+    "air travel",
+    "pilot",
+    "helipad",
+    "massachusetts"
+  ],
+  "column_summary": "OBJECTID, ID, TOWN, AIRPORT_NAME, OWNER_TYPE, FACILITY_TYPE, CLASS, RUNWAY, LATITUDE, LONGITUDE, ELEVATION, P_LENGTH, S_LENGTH, P_WIDTH, S_WIDTH, P_SURFACETYPE, S_SURFACETYPE, P_RUNWAYLIGHTS, S_RUNWAYLIGHTS, CONTROLTOWER, RESTAURANT, RENTALCAR, SERVICELEVEL, AIRSERVICE, SHAPE"
+}

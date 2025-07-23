@@ -1,0 +1,25 @@
+{
+  "document_title": "Massachusetts Municipalities Boundaries Quality or Source",
+  "document_id": "massgis:GISDATA.TOWNSSURVEY_ARC",
+  "layer_id": "massgis:GISDATA.TOWNSSURVEY_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TOWNSSURVEY_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "MA Town Boundaries",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massachusetts",
+    "municipalities",
+    "town boundaries",
+    "ma towns",
+    "municipal boundaries",
+    "political boundaries",
+    "administrative boundaries",
+    "massgis",
+    "survey arc",
+    "town survey"
+  ],
+  "column_summary": "OBJECTID, BND_QUAL, FINISHED, BND_UNCLAS, REASON, OUTLINE, SHAPE, SHAPE.LEN"
+}

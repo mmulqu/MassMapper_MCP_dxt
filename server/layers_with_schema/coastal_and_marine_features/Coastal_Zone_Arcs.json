@@ -1,0 +1,24 @@
+{
+  "document_title": "Coastal Zone Arcs",
+  "document_id": "massgis:GISDATA.CSTZONE_ARC",
+  "layer_id": "massgis:GISDATA.CSTZONE_ARC",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CSTZONE_ARC",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Coastal Zone",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "coastal zone arcs",
+    "coastal boundary",
+    "coastline arcs",
+    "shoreline zone",
+    "cstzone arc",
+    "massgis coastal zone",
+    "coastal arc",
+    "coastal marine features",
+    "massgis cstzone arc"
+  ],
+  "column_summary": "OBJECTID, SHAPE_LENG, SHAPE, SHAPE.LEN"
+}

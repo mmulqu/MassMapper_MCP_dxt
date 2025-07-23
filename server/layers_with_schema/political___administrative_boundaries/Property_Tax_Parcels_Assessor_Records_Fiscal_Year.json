@@ -1,0 +1,25 @@
+{
+  "document_title": "Property Tax Parcels Assessor Records Fiscal Year",
+  "document_id": "massgis:GISDATA.L3_TOWNFY",
+  "layer_id": "massgis:GISDATA.L3_TOWNFY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Property boundary and tax information. GeoServer layer: GISDATA.L3_TOWNFY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Property Tax Parcels",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "property tax parcels",
+    "tax parcels",
+    "assessor records",
+    "parcel boundaries",
+    "property boundaries",
+    "parcel map",
+    "tax assessment",
+    "land parcels",
+    "fiscal year parcels",
+    "massgis parcels"
+  ],
+  "column_summary": "OBJECTID, TOWN_ID, TOWN, FY, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "MassDEP Water Quality Monitoring Stations",
+  "document_id": "massgis:GISDATA.DWMWPP_WATER_QUALITY_STATIONS",
+  "layer_id": "massgis:GISDATA.DWMWPP_WATER_QUALITY_STATIONS",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DWMWPP_WATER_QUALITY_STATIONS",
+  "category": "Environmental Monitoring (testing/monitoring sites)",
+  "subcategory": "MassDEP Water Quality Monitoring Stations",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massdep",
+    "water quality",
+    "monitoring stations",
+    "environmental monitoring",
+    "water monitoring",
+    "water quality stations",
+    "massachusetts",
+    "massgis",
+    "sampling sites",
+    "wq monitoring"
+  ],
+  "column_summary": "OBJECTID, VINTAGE, SURVEYTYPE, WPP_BASIN, UNIQUEID, WATERBODY, STADESCRIP, STATYPE, STATYPEGRP, WATERCODE, BASINCODE, WATERSHED, LATITUDE, LONGITUDE, SHAPE, ESTABLISH"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Major MassGIS-MassDOT Roads Alternate Route Numbers",
+  "document_id": "massgis:GISDATA.EOTMAJROADS_ARC",
+  "layer_id": "massgis:GISDATA.EOTMAJROADS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "Road network data. GeoServer layer: GISDATA.EOTMAJROADS_ARC",
+  "category": "Infrastructure",
+  "subcategory": "MassGIS-MassDOT Roads",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "major roads",
+    "massgis roads",
+    "massdot roads",
+    "alternate route numbers",
+    "route numbers",
+    "state highways",
+    "road network",
+    "eot roads",
+    "alt routes",
+    "highways"
+  ],
+  "column_summary": "OBJECTID, CLASS, ADMIN_TYPE, STREET_NAME, RT_NUMBER, ALTRTNUM1, ALTRTNUM2, ALTRTNUM3, ALTRTNUM4, ALTRT1TYPE, RDTYPE, SHAPE, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "MA Public School Districts",
+  "document_id": "massgis:GISDATA.SCHOOLDISTRICTS_POLY",
+  "layer_id": "massgis:GISDATA.SCHOOLDISTRICTS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Educational facilities. GeoServer layer: GISDATA.SCHOOLDISTRICTS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Public School Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "ma public school districts",
+    "massachusetts school districts",
+    "school district boundaries",
+    "public school district map",
+    "educational facilities",
+    "massgis school districts",
+    "school districts polygon",
+    "political boundaries",
+    "school district polygons",
+    "school districts ma"
+  ],
+  "column_summary": "OBJECTID, ORG4CODE, ORG8CODE, DISTRICT_NAME, DISTRICT_TYPE, MEMBERLIST, TUITION, TUITION_GRADES, TUITION_TO, SUPERINTENDENCY_UNION, START_GRADE, END_GRADE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

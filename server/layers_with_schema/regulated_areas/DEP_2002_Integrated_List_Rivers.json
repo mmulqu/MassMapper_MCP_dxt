@@ -1,0 +1,25 @@
+{
+  "document_title": "DEP 2002 Integrated List Rivers",
+  "document_id": "massgis:GISDATA.WBS2002_ARC",
+  "layer_id": "massgis:GISDATA.WBS2002_ARC",
+  "layer_type": "line",
+  "layer_date": "2002",
+  "layer_description": "GeoServer layer: GISDATA.WBS2002_ARC",
+  "category": "Regulated Areas",
+  "subcategory": "DEP Integrated List of Waters",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dep integrated list",
+    "integrated list rivers",
+    "dep 2002",
+    "massgis rivers",
+    "wbs2002",
+    "wbs2002_arc",
+    "gisdata wbs2002_arc",
+    "integrated waters",
+    "dep rivers",
+    "water quality"
+  ],
+  "column_summary": "OBJECTID, WBID_2002, WB_NAME, WB_NAMESRT, WB_CODE, WB_TYPE, WB_SIZE, WB_UNIT, WB_DESC, WS_CODE, WS_NAME, WS_CYCLE, LABEL1, LABEL2, LABEL3, LABEL4, ASSREPREF, ASDATE, ILCATEGORY, CNT_IMP, CNT_POLL, CNT_NONPOL, CNT_POLLNT, CNT_POLLWT, IMP_0000, IMP_0100, IMP_0200, IMP_0300, IMP_0400, IMP_0500, IMP_0600, IMP_0700, IMP_0800, IMP_0900, IMP_1000, IMP_1100, IMP_1200, IMP_1300, IMP_1400, IMP_1500, IMP_1600, IMP_1700, IMP_1900, IMP_2000, IMP_2100, IMP_2200, IMP_2500, IMP_2600, IMP_2700, STATUS, MILES, LENGTH, SHAPE, SHAPE.LEN"
+}

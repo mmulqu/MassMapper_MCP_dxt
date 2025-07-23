@@ -1,0 +1,24 @@
+{
+  "document_title": "2008/2009 Aerial Imagery",
+  "document_id": "Orthos_2008_2009",
+  "layer_id": "Orthos_2008_2009",
+  "layer_type": "tiled_overlay",
+  "layer_date": "2008",
+  "layer_description": "Aerial/satellite imagery.",
+  "category": "Images",
+  "subcategory": "Aerial Photos (Ortho Imagery)",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "2008 aerial imagery",
+    "2009 aerial imagery",
+    "orthophotos",
+    "ortho imagery",
+    "aerial photos",
+    "satellite imagery",
+    "massgis aerial",
+    "2008 ortho",
+    "2009 ortho",
+    "orthophoto imagery"
+  ]
+}

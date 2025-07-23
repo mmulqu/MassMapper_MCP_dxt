@@ -1,0 +1,23 @@
+{
+  "document_title": "MassDOT Highway Districts Labels",
+  "document_id": "massgis:GISDATA.MHDDISTRICTS_POLY",
+  "layer_id": "massgis:GISDATA.MHDDISTRICTS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Road network data. GeoServer layer: GISDATA.MHDDISTRICTS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "MassDOT Highway Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massdot",
+    "highway districts",
+    "mhd districts",
+    "district labels",
+    "political boundaries",
+    "administrative boundaries",
+    "road network",
+    "geoserver"
+  ],
+  "column_summary": "OBJECTID, DIST_NAME, DISTRICT, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

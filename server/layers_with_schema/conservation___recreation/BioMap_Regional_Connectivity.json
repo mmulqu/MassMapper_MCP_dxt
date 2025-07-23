@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Regional Connectivity",
+  "document_id": "massgis:GISDATA.BM3_REGIONAL_CONNECTIVITY",
+  "layer_id": "massgis:GISDATA.BM3_REGIONAL_CONNECTIVITY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_REGIONAL_CONNECTIVITY",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap",
+    "regional connectivity",
+    "habitat connectivity",
+    "wildlife corridors",
+    "conservation planning",
+    "biodiversity",
+    "natural heritage",
+    "habitat fragmentation",
+    "ecological networks",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, REG_RC_ID, AC_REG_RC, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

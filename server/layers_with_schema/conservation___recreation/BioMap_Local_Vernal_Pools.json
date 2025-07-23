@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Local Vernal Pools",
+  "document_id": "massgis:GISDATA.BM3_LOCAL_VERNAL_POOLS",
+  "layer_id": "massgis:GISDATA.BM3_LOCAL_VERNAL_POOLS",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_LOCAL_VERNAL_POOLS",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "vernal pools",
+    "local vernal pools",
+    "biomap",
+    "wetland pools",
+    "amphibian habitat",
+    "massgis",
+    "natural heritage",
+    "conservation",
+    "vernal ponds",
+    "bm3"
+  ],
+  "column_summary": "OBJECTID, LOC_VP_ID, AC_LOCVP, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

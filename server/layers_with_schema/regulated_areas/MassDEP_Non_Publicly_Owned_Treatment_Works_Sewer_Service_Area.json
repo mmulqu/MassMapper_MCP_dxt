@@ -1,0 +1,25 @@
+{
+  "document_title": "MassDEP Non Publicly-Owned Treatment Works Sewer Service Area",
+  "document_id": "massgis:GISDATA.SEWER_SERVICE_AREA_NONPOTW_POLY",
+  "layer_id": "massgis:GISDATA.SEWER_SERVICE_AREA_NONPOTW_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SEWER_SERVICE_AREA_NONPOTW_POLY",
+  "category": "Regulated Areas",
+  "subcategory": "MassDEP Estimated Sewer System Service Area Boundaries",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "sewer service area",
+    "non publicly owned",
+    "treatment works",
+    "non potw",
+    "massdep",
+    "service area boundaries",
+    "wastewater service area",
+    "sewer boundaries",
+    "regulated areas",
+    "sewer service area nonpotw"
+  ],
+  "column_summary": "OBJECTID, SYSTNAME, PERMIT_ID, ORIG_PERMIT_ID, SEWER_ID, PERMIT_DATE, DISCHG_TYP, TRTMTPLANT, TOWNNAME, TOWN_ID, ACTORNAME, OWNER_TYPE, FAC_TYPE, SECTOR, REGION, REGION_ID, ADDRESS, BASIN, SA_SQMI, SA_ACRES, SERVCECONF, SERVCEYEAR, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

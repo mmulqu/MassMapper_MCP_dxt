@@ -1,0 +1,25 @@
+{
+  "document_title": "DEP Regions Labels",
+  "document_id": "massgis:GISDATA.REGDEP_POLY",
+  "layer_id": "massgis:GISDATA.REGDEP_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGDEP_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "DEP Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dep regions",
+    "dep region labels",
+    "department of environmental protection",
+    "dep boundaries",
+    "massgis dep",
+    "administrative boundaries",
+    "environmental protection regions",
+    "massachusetts dep regions",
+    "dep map",
+    "geoserver layer"
+  ],
+  "column_summary": "OBJECTID, REGION, DEP_ID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Legacy Lidar Index",
+  "document_id": "massgis:GISDATA.LIDARINDEX_POLY_LEGACY",
+  "layer_id": "massgis:GISDATA.LIDARINDEX_POLY_LEGACY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.LIDARINDEX_POLY_LEGACY",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "LiDAR Terrain Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "lidar index",
+    "legacy lidar",
+    "lidar legacy index",
+    "lidar tiling scheme",
+    "lidar grid index",
+    "lidar terrain data",
+    "massgis lidar",
+    "lidar index polygon",
+    "lidar tiles",
+    "legacy lidar dataset"
+  ],
+  "column_summary": "OBJECTID, TILENAME, AREA_NAME, URL, ARCHIVED, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

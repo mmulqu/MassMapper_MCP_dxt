@@ -1,0 +1,25 @@
+{
+  "document_title": "Marine Beaches Points",
+  "document_id": "massgis:GISDATA.MARINEBEACHES_PT",
+  "layer_id": "massgis:GISDATA.MARINEBEACHES_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MARINEBEACHES_PT",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Marine Beaches",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "marine beaches",
+    "marine beach points",
+    "beach points",
+    "coastal beaches",
+    "swimming beaches",
+    "public beaches",
+    "beach locations",
+    "massachusetts beaches",
+    "coastal recreation",
+    "marine shoreline"
+  ],
+  "column_summary": "OBJECTID, BEACHNAME, TOWNNAME, BEACHTYPE, EPA_ID, COUNTYNAME, LATITUDE, LONGITUDE, POINTTYPE, POINTCODE, SHAPE"
+}

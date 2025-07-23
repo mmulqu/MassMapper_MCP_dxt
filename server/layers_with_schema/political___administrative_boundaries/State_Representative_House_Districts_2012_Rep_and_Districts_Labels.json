@@ -1,0 +1,25 @@
+{
+  "document_title": "State Representative House Districts 2012 Rep and Districts Labels",
+  "document_id": "massgis:GISDATA.HOUSE2012_POLY",
+  "layer_id": "massgis:GISDATA.HOUSE2012_POLY",
+  "layer_type": "poly",
+  "layer_date": "2012",
+  "layer_description": "GeoServer layer: GISDATA.HOUSE2012_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Legislative Districts 2012",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "state representative",
+    "house district",
+    "house districts",
+    "legislative district",
+    "legislative districts",
+    "massachusetts",
+    "massgis",
+    "2012",
+    "political boundaries",
+    "district labels"
+  ],
+  "column_summary": "OBJECTID, DIST_CODE, REPDISTNUM, REP_DIST, REP_FIRST, REP_LAST, REP_PARTY, REP, URL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

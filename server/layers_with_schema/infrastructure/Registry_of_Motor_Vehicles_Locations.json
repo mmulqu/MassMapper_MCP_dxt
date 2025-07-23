@@ -1,0 +1,25 @@
+{
+  "document_title": "Registry of Motor Vehicles Locations",
+  "document_id": "massgis:GISDATA.RMVLOCS_PT",
+  "layer_id": "massgis:GISDATA.RMVLOCS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.RMVLOCS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Registry of Motor Vehicles Locations",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "rmv",
+    "dmv",
+    "rmv locations",
+    "registry of motor vehicles",
+    "dmv offices",
+    "rmv offices",
+    "motor vehicle registry",
+    "vehicle registration",
+    "license renewal",
+    "massachusetts rmv"
+  ],
+  "column_summary": "OBJECTID, NAME, ADDRESS, TOWN, ZIPCODE, AAA, WIFISTATUS, RTL_OFFICE, RDTESTONLY, SHAPE"
+}

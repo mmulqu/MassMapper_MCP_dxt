@@ -1,0 +1,25 @@
+{
+  "document_title": "Mouth of the River (MOR) Lines",
+  "document_id": "massgis:GISDATA.DEP_MOR_ARC",
+  "layer_id": "massgis:GISDATA.DEP_MOR_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DEP_MOR_ARC",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Mouth of the River (MOR) Lines",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mouth of the river",
+    "river mouth lines",
+    "mor lines",
+    "mouth of river",
+    "river mouth",
+    "coastal marine features",
+    "dep mor arc",
+    "massgis mor",
+    "river boundaries",
+    "coastal boundaries"
+  ],
+  "column_summary": "OBJECTID, RIVNAME, TOWN, MOR_ID, CRITERIA, LENGTH, SHAPE, SHAPE.LEN"
+}

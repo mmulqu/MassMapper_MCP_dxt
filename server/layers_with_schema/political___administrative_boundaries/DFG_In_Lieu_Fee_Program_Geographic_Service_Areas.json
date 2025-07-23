@@ -1,0 +1,25 @@
+{
+  "document_title": "DFG In-Lieu Fee Program Geographic Service Areas",
+  "document_id": "massgis:DFG.DFG_ILFP_GSAS",
+  "layer_id": "massgis:DFG.DFG_ILFP_GSAS",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: DFG.DFG_ILFP_GSAS",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "DFG In-Lieu Fee Program Geographic Service Areas",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dfg",
+    "ilfp",
+    "in lieu fee program",
+    "in lieu fee",
+    "service areas",
+    "geographic service areas",
+    "compensatory mitigation",
+    "wetland mitigation",
+    "mitigation program",
+    "massgis",
+    "massachusetts"
+  ]
+}

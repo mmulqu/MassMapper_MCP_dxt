@@ -1,0 +1,24 @@
+{
+  "document_title": "Census 2020 Tracts",
+  "document_id": "massgis:GISDATA.CENSUS2020TRACTS_POLY",
+  "layer_id": "massgis:GISDATA.CENSUS2020TRACTS_POLY",
+  "layer_type": "poly",
+  "layer_date": "2020",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2020TRACTS_POLY",
+  "category": "Census",
+  "subcategory": "Census 2020",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census",
+    "census tracts",
+    "2020 census",
+    "2020 census tracts",
+    "tract boundaries",
+    "demographics",
+    "massachusetts",
+    "census geography",
+    "tract map"
+  ],
+  "column_summary": "OBJECTID, STATEFP20, COUNTYFP20, TRACTCE20, GEOID20, NAME20, NAMELSAD20, MTFCC20, ALAND20, AWATER20, INTPTLAT20, INTPTLON20, AREA_SQFT, AREA_ACRES, HOUSING20, POP20, BLK20_CNT, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Contours 3m Labels Meters",
+  "document_id": "massgis:GISDATA.CONTOURS5K_ARC",
+  "layer_id": "massgis:GISDATA.CONTOURS5K_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CONTOURS5K_ARC",
+  "category": "Physical Resources",
+  "subcategory": "Topography Contours",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "contours",
+    "contour lines",
+    "topography",
+    "elevation",
+    "3m contours",
+    "meters",
+    "terrain",
+    "topographic map",
+    "elevation lines",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, ELEV_M, ELEV_FT, INDEX_ARC, SHAPE, SHAPE.LEN"
+}

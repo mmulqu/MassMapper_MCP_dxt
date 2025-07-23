@@ -1,0 +1,26 @@
+{
+  "document_title": "Tidelands Jurisdiction Chapter 91 Inferred Contemporary High Water",
+  "document_id": "massgis:GISDATA.CZM_INFERRED_CONTEMP",
+  "layer_id": "massgis:GISDATA.CZM_INFERRED_CONTEMP",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CZM_INFERRED_CONTEMP",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Tidelands Jurisdiction Data Chapter 91",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "tidelands jurisdiction",
+    "chapter 91",
+    "inferred contemporary high water",
+    "high water line",
+    "coastal boundary",
+    "massgis",
+    "czm inferred",
+    "tidal limit",
+    "jurisdiction line",
+    "coastal zone",
+    "water boundary"
+  ],
+  "column_summary": "OBJECTID, SHAPE, SHAPE.LEN"
+}

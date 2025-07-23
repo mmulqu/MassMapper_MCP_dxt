@@ -1,0 +1,25 @@
+{
+  "document_title": "Acute Care Hospitals Labels",
+  "document_id": "massgis:GISDATA.HOSPITALS_PT",
+  "layer_id": "massgis:GISDATA.HOSPITALS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.HOSPITALS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Hospitals",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "acute care hospitals",
+    "hospital labels",
+    "hospitals",
+    "medical facilities",
+    "healthcare facilities",
+    "hospital points",
+    "massachusetts hospitals",
+    "ma hospitals",
+    "hospital locations",
+    "health care"
+  ],
+  "column_summary": "OBJECTID, IDNUMBER, DPHID, NAME, SHORTNAME, ADDRESS, TOWN, GEOG_TOWN, ZIPCODE, CHIAREGION, TELEPHONE, COHORT, HOSPSYSTEM, TAXSTATUS, BEDCOUNT, ER_STATUS, TRAUMA_ADU, TRAUMA_PED, FYE, MADID, EMSREGION, SHAPE"
+}

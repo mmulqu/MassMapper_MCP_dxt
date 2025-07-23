@@ -1,0 +1,25 @@
+{
+  "document_title": "Homeland Security Planning Regions",
+  "document_id": "massgis:GISDATA.HLSPREGIONS_POLY",
+  "layer_id": "massgis:GISDATA.HLSPREGIONS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.HLSPREGIONS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Homeland Security Planning Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "homeland security planning regions",
+    "homeland security",
+    "security planning",
+    "planning regions",
+    "hlsp regions",
+    "massgis",
+    "mass gis",
+    "administrative boundaries",
+    "political boundaries",
+    "emergency planning"
+  ],
+  "column_summary": "OBJECTID, REGION, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

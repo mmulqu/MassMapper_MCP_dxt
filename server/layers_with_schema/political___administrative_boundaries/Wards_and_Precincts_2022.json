@@ -1,0 +1,25 @@
+{
+  "document_title": "Wards and Precincts 2022",
+  "document_id": "massgis:GISDATA.WARDSPRECINCTS2022_POLY",
+  "layer_id": "massgis:GISDATA.WARDSPRECINCTS2022_POLY",
+  "layer_type": "poly",
+  "layer_date": "2022",
+  "layer_description": "GeoServer layer: GISDATA.WARDSPRECINCTS2022_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Wards and Precincts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "wards",
+    "precincts",
+    "voting precincts",
+    "ward boundaries",
+    "election districts",
+    "political boundaries",
+    "municipal wards",
+    "2022 precincts",
+    "2022 wards",
+    "massachusetts precincts"
+  ],
+  "column_summary": "OBJECTID, WARD, PRECINCT, WP_DISTRICT, WP_NAME, TOWN, TOWN_ID, POP_2020, AREA_MILES, PERIMETER_MILES, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

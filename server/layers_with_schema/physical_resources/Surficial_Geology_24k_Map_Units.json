@@ -1,0 +1,25 @@
+{
+  "document_title": "Surficial Geology 24k Map Units",
+  "document_id": "massgis:GISDATA.SURFGEO24K_MAPUNIT_POLY",
+  "layer_id": "massgis:GISDATA.SURFGEO24K_MAPUNIT_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SURFGEO24K_MAPUNIT_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Surficial Geology",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "surficial geology",
+    "24k map units",
+    "geology map",
+    "glacial deposits",
+    "soil types",
+    "massachusetts geology",
+    "surficial map",
+    "map unit polygons",
+    "physical resources",
+    "geoserver layer"
+  ],
+  "column_summary": "OBJECTID, MAPUNIT, IDECONF, LABEL, SYMBOL, DATSRCID, NOTES, MUPS_ID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

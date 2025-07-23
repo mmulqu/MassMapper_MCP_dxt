@@ -1,0 +1,25 @@
+{
+  "document_title": "Governors Council 2021 Districts Outlines",
+  "document_id": "massgis:GISDATA.GOVCOUNCIL2021_ARC",
+  "layer_id": "massgis:GISDATA.GOVCOUNCIL2021_ARC",
+  "layer_type": "line",
+  "layer_date": "2021",
+  "layer_description": "GeoServer layer: GISDATA.GOVCOUNCIL2021_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Legislative Districts 2021",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "governors council",
+    "governors council 2021",
+    "governors council districts",
+    "massachusetts governors council",
+    "legislative districts",
+    "district outlines",
+    "district boundaries",
+    "political boundaries",
+    "massachusetts districts",
+    "2021 districts"
+  ],
+  "column_summary": "OBJECTID, OUTLINE, SHAPE, SHAPE.LEN"
+}

@@ -1,0 +1,24 @@
+{
+  "document_title": "Tidelands Jurisdiction Chapter 91 Inferred Historic High Water",
+  "document_id": "massgis:GISDATA.CZM_INFERRED_HISTORIC",
+  "layer_id": "massgis:GISDATA.CZM_INFERRED_HISTORIC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CZM_INFERRED_HISTORIC",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Tidelands Jurisdiction Data Chapter 91",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "tidelands",
+    "chapter 91",
+    "inferred high water",
+    "historic high water",
+    "high water line",
+    "shoreline",
+    "coastal zone management",
+    "czm",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, MAPKEY, SHAPE, SHAPE.LEN"
+}

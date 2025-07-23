@@ -1,0 +1,25 @@
+{
+  "document_title": "Solid Waste - Organics and Composting",
+  "document_id": "massgis:GISDATA.BWP_PT_OPX_CONV_SV",
+  "layer_id": "massgis:GISDATA.BWP_PT_OPX_CONV_SV",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BWP_PT_OPX_CONV_SV",
+  "category": "Regulated Areas",
+  "subcategory": "MassDEP Solid Waste Diversion and Disposal",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "solid waste",
+    "organics",
+    "composting",
+    "massdep",
+    "solid waste diversion",
+    "solid waste disposal",
+    "organics recycling",
+    "compost facilities",
+    "organic waste",
+    "composting sites"
+  ],
+  "column_summary": "OBJECTID, FAC_ID, RO_ACCT, ROOT_ID, SITE_NAME, ADDRESS, TOWN, REGION, CLASS_TYPE_CODE, SHAPE"
+}

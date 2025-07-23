@@ -1,0 +1,25 @@
+{
+  "document_title": "Police Stations",
+  "document_id": "massgis:GISDATA.POLICESTATIONS_PT_MEMA",
+  "layer_id": "massgis:GISDATA.POLICESTATIONS_PT_MEMA",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.POLICESTATIONS_PT_MEMA",
+  "category": "Infrastructure",
+  "subcategory": "Police Stations",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "police stations",
+    "police station",
+    "law enforcement",
+    "public safety",
+    "emergency services",
+    "police departments",
+    "station locations",
+    "massachusetts police",
+    "mema",
+    "gisdata"
+  ],
+  "column_summary": "OBJECTID, NAME, ADDRESS, CITY, STATE, ZIP, JURISDIC, L_SRC, SOURCE, L_DATE, SHAPE"
+}

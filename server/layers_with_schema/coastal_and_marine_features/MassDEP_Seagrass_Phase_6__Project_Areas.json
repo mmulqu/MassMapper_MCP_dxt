@@ -1,0 +1,25 @@
+{
+  "document_title": "MassDEP Seagrass Phase 6: Project Areas",
+  "document_id": "massgis:GISDATA.EELGRASS_PHASE6_BOUNDARIES",
+  "layer_id": "massgis:GISDATA.EELGRASS_PHASE6_BOUNDARIES",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.EELGRASS_PHASE6_BOUNDARIES",
+  "category": "Coastal and Marine Features",
+  "subcategory": "MassDEP Seagrass",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "seagrass",
+    "eelgrass",
+    "phase 6",
+    "phase vi",
+    "massdep seagrass",
+    "seagrass boundaries",
+    "project areas",
+    "coastal marine",
+    "eelgrass mapping",
+    "gisdata"
+  ],
+  "column_summary": "OBJECTID, YEAR, STUDY_AREA, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

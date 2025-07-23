@@ -1,0 +1,25 @@
+{
+  "document_title": "Public Water Supplies",
+  "document_id": "massgis:GISDATA.PWSDEP_PT",
+  "layer_id": "massgis:GISDATA.PWSDEP_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.PWSDEP_PT",
+  "category": "Infrastructure",
+  "subcategory": "Public Water Supplies",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "public water supplies",
+    "water supply",
+    "public water",
+    "drinking water",
+    "water wells",
+    "potable water",
+    "public water system",
+    "massgis pwsdep",
+    "gisdata pwsdep",
+    "water infrastructure"
+  ],
+  "column_summary": "OBJECTID, SOURCE_ID, SITE_NAME, TOWN, REGION, LATITUDE, LONGITUDE, TYPE, ZII_NUM, PWS_ID, SHAPE"
+}

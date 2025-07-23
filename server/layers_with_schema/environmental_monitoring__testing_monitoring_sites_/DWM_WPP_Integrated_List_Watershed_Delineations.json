@@ -1,0 +1,25 @@
+{
+  "document_title": "DWM WPP Integrated List Watershed Delineations",
+  "document_id": "massgis:GISDATA.IL_DWMWPP_WATERSHEDS_POLY",
+  "layer_id": "massgis:GISDATA.IL_DWMWPP_WATERSHEDS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.IL_DWMWPP_WATERSHEDS_POLY",
+  "category": "Environmental Monitoring (testing/monitoring sites)",
+  "subcategory": "MassDEP Water Quality Monitoring Stations",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dwm wpp",
+    "integrated list",
+    "watershed delineations",
+    "watersheds",
+    "water quality monitoring",
+    "massdep",
+    "environmental monitoring",
+    "massgis",
+    "gisdata",
+    "watershed boundaries"
+  ],
+  "column_summary": "OBJECTID, DWM_NAME, DWM_CODE, DRAINAGE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

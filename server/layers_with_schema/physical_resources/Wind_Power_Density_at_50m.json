@@ -1,0 +1,25 @@
+{
+  "document_title": "Wind Power Density at 50m",
+  "document_id": "massgis:GISDATA.WINDPOWERGRID50_POLY",
+  "layer_id": "massgis:GISDATA.WINDPOWERGRID50_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.WINDPOWERGRID50_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Wind Power Density at 50m",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "wind power density",
+    "wind density",
+    "wind energy",
+    "wind resource",
+    "50m wind",
+    "wind speed at 50m",
+    "renewable energy",
+    "wind potential",
+    "wind resource density",
+    "massgis wind"
+  ],
+  "column_summary": "OBJECTID, AWS_CLASS, PWRDENSITY, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

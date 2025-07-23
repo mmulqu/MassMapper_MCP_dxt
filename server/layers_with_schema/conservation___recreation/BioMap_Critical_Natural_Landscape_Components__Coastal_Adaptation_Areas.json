@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Critical Natural Landscape Components: Coastal Adaptation Areas",
+  "document_id": "massgis:GISDATA.BM3_CNL_COASTAL_ADAPT",
+  "layer_id": "massgis:GISDATA.BM3_CNL_COASTAL_ADAPT",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_CNL_COASTAL_ADAPT",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap",
+    "critical natural landscape",
+    "coastal adaptation",
+    "coastal adaptation areas",
+    "cnl",
+    "bm3",
+    "conservation",
+    "natural heritage",
+    "massgis",
+    "sea level rise"
+  ],
+  "column_summary": "OBJECTID, CNL_CAA_ID, AC_CNL_CAA, DESCRIP, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

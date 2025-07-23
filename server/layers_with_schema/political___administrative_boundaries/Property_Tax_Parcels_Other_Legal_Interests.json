@@ -1,0 +1,25 @@
+{
+  "document_title": "Property Tax Parcels Other Legal Interests",
+  "document_id": "massgis:GISDATA.L3_OTHLEG_POLY",
+  "layer_id": "massgis:GISDATA.L3_OTHLEG_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Property boundary and tax information. GeoServer layer: GISDATA.L3_OTHLEG_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Property Tax Parcels",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "property tax parcels",
+    "other legal interests",
+    "parcel boundary",
+    "property boundary",
+    "tax parcels",
+    "massgis",
+    "geoserver",
+    "gisdata.l3_othleg_poly",
+    "legal interests",
+    "administrative boundaries"
+  ],
+  "column_summary": "OBJECTID, MAP_PAR_ID, LEGAL_TYPE, LS_BOOK, LS_PAGE, REG_ID, TOWN_ID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

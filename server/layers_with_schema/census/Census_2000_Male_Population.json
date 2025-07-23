@@ -1,0 +1,24 @@
+{
+  "document_title": "Census 2000 Male Population",
+  "document_id": "massgis:GISDATA.CEN2000_BG_LEGATTRIB",
+  "layer_id": "massgis:GISDATA.CEN2000_BG_LEGATTRIB",
+  "layer_type": "poly",
+  "layer_date": "2000",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CEN2000_BG_LEGATTRIB",
+  "category": "Census",
+  "subcategory": "Census 2000",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2000 male population",
+    "male population",
+    "census block group",
+    "block group demographics",
+    "massgis",
+    "geoserver layer",
+    "census demographics",
+    "population data",
+    "2000 census",
+    "bg legattrib"
+  ]
+}

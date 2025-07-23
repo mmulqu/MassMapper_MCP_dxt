@@ -1,0 +1,25 @@
+{
+  "document_title": "Mega Basins",
+  "document_id": "massgis:GISDATA.MEGABASINS_POLY",
+  "layer_id": "massgis:GISDATA.MEGABASINS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MEGABASINS_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Watersheds",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mega basins",
+    "watersheds",
+    "basin boundaries",
+    "drainage basins",
+    "hydrologic units",
+    "major basins",
+    "massgis",
+    "gisdata.megabasins_poly",
+    "geoserver",
+    "physical resources"
+  ],
+  "column_summary": "OBJECTID, BASIN_ID, NAME, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

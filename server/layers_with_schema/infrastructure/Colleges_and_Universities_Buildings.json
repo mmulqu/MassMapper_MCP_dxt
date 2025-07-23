@@ -1,0 +1,25 @@
+{
+  "document_title": "Colleges and Universities Buildings",
+  "document_id": "massgis:GISDATA.COLLEGES_PT",
+  "layer_id": "massgis:GISDATA.COLLEGES_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.COLLEGES_PT",
+  "category": "Infrastructure",
+  "subcategory": "Schools",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "colleges",
+    "universities",
+    "college campuses",
+    "campus buildings",
+    "academic buildings",
+    "higher education",
+    "postsecondary schools",
+    "massachusetts colleges",
+    "massgis",
+    "schools"
+  ],
+  "column_summary": "OBJECTID, COLLEGE, CAMPUS, ADDRESS, CITY, ZIPCODE, PLUS_FOUR, GEOG_TOWN, MAIN_TEL, URL, NCES_ID, TYPE, NCES_TYPE, CATEGORY, DEGREEOFFR, AWARDSOFFR, LARGEPROG, CAMPUSSETT, CAMPUSHOUS, L_SRC, SHAPE"
+}

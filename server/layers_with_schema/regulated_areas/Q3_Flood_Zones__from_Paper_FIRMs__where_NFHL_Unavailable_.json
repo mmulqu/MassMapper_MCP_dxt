@@ -1,0 +1,26 @@
+{
+  "document_title": "Q3 Flood Zones (from Paper FIRMs, where NFHL Unavailable)",
+  "document_id": "massgis:GISDATA.Q3FLOOD_POLY_NO_NFHL",
+  "layer_id": "massgis:GISDATA.Q3FLOOD_POLY_NO_NFHL",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Flood zone data. GeoServer layer: GISDATA.Q3FLOOD_POLY_NO_NFHL",
+  "category": "Regulated Areas",
+  "subcategory": "FEMA Flood Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "q3 flood",
+    "q3 flood zones",
+    "flood zones",
+    "floodplain",
+    "flood mapping",
+    "fema flood",
+    "fema flood zones",
+    "paper firm",
+    "paper firm maps",
+    "nfhl",
+    "flood hazard"
+  ],
+  "column_summary": "OBJECTID_1, OBJECTID, COUNTY, FIPS, COMMUNITY, FIRM_PANEL, QUAD, ZONE, FLOODWAY, COBRA, SFHA, SYMBOL, PANEL_TYP, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

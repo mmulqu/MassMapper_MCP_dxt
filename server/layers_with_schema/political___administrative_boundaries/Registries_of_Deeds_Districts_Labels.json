@@ -1,0 +1,24 @@
+{
+  "document_title": "Registries of Deeds Districts Labels",
+  "document_id": "massgis:GISDATA.REGDEEDS_POLY",
+  "layer_id": "massgis:GISDATA.REGDEEDS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGDEEDS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Registries of Deeds Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "registries of deeds",
+    "registry of deeds",
+    "deeds districts",
+    "property records",
+    "land deeds",
+    "deed maps",
+    "administrative boundaries",
+    "deed district labels",
+    "massachusetts registries"
+  ],
+  "column_summary": "OBJECTID, DISTRICT, REGDIST, REGISTER, ADDRESS, TOWN, ZIP, TYPE, WEBSITE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

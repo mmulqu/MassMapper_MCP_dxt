@@ -1,0 +1,25 @@
+{
+  "document_title": "DFW Districts Outlines",
+  "document_id": "massgis:GISDATA.DFWDISTRICTS_ARC",
+  "layer_id": "massgis:GISDATA.DFWDISTRICTS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DFWDISTRICTS_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "DFW Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dfw",
+    "dfw districts",
+    "dfw outlines",
+    "fish and wildlife districts",
+    "division of fisheries and wildlife",
+    "conservation district boundaries",
+    "dfw boundaries",
+    "massgis",
+    "gisdata",
+    "district outlines"
+  ],
+  "column_summary": "OBJECTID, OUTLINE, SHAPE, SHAPE.LEN"
+}

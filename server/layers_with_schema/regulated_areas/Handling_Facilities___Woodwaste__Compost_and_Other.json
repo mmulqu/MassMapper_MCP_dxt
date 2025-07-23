@@ -1,0 +1,25 @@
+{
+  "document_title": "Handling Facilities - Woodwaste, Compost and Other",
+  "document_id": "massgis:GISDATA.BWP_PT_HF_WWCOOTH",
+  "layer_id": "massgis:GISDATA.BWP_PT_HF_WWCOOTH",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BWP_PT_HF_WWCOOTH",
+  "category": "Regulated Areas",
+  "subcategory": "MassDEP Solid Waste Diversion and Disposal",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "handling facilities",
+    "woodwaste",
+    "compost",
+    "organic waste",
+    "solid waste",
+    "massdep",
+    "waste diversion",
+    "waste disposal",
+    "recycling facilities",
+    "regulated areas"
+  ],
+  "column_summary": "OBJECTID, FAC_ID, RO_ACCT, ROOT_ID, SITE_NAME, ADDRESS, TOWN, REGION, CLASS_TYPE_CODE, SHAPE"
+}

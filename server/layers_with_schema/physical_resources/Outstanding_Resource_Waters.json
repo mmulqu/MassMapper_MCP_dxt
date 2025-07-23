@@ -1,0 +1,23 @@
+{
+  "document_title": "Outstanding Resource Waters",
+  "document_id": "massgis:GISDATA.ORW_POLY",
+  "layer_id": "massgis:GISDATA.ORW_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.ORW_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Outstanding Resource Waters",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "outstanding resource waters",
+    "orw",
+    "resource waters",
+    "protected waters",
+    "water quality",
+    "massgis",
+    "massachusetts waters",
+    "geoserver orw_poly"
+  ],
+  "column_summary": "OBJECTID, ORW, ORW_TYPE, ORW_NAME, MAJ_BASIN, PWS_SOURCE_ID, PWS_TYPE, AREA_ACRES, AREA_SQMI, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

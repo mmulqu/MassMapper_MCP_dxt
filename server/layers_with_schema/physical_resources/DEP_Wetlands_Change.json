@@ -1,0 +1,25 @@
+{
+  "document_title": "DEP Wetlands Change",
+  "document_id": "massgis:GISDATA.WETCHANGE_POLY",
+  "layer_id": "massgis:GISDATA.WETCHANGE_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Wetland area information. GeoServer layer: GISDATA.WETCHANGE_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Hydrography Water Features",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "wetlands",
+    "wetland change",
+    "wetland area",
+    "dep wetlands",
+    "wetland mapping",
+    "massgis wetlands",
+    "hydrography",
+    "water features",
+    "wetland polygon",
+    "wetchange"
+  ],
+  "column_summary": "OBJECTID, POLY_ID, TOWN, WETCODE, IT_VALC, IT_VALDESC, POLY_CODE, CHGTYPE, PHOTOYEAR, DETECTYEAR, AREAACRES, AREASQFT, POLY_NUM, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

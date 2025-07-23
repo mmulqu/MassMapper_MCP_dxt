@@ -1,0 +1,25 @@
+{
+  "document_title": "Riverine Natural Community Systems",
+  "document_id": "massgis:GISDATA.VCRIVERINE_POLY",
+  "layer_id": "massgis:GISDATA.VCRIVERINE_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.VCRIVERINE_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Priority Natural Vegetation Communities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "riverine natural community systems",
+    "riverine natural community",
+    "riparian vegetation",
+    "river corridor vegetation",
+    "watercourse ecosystems",
+    "priority natural vegetation",
+    "natural community systems",
+    "vcriverine_poly",
+    "massgis riverine",
+    "riverine poly"
+  ],
+  "column_summary": "OBJECTID, NHCODE, COMM_TYPE, COMMENTS, COMM_DESC, LABEL, GEN_LABEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

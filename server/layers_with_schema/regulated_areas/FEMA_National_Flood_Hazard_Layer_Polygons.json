@@ -1,0 +1,25 @@
+{
+  "document_title": "FEMA National Flood Hazard Layer Polygons",
+  "document_id": "massgis:GISDATA.FEMA_NFHL_POLY",
+  "layer_id": "massgis:GISDATA.FEMA_NFHL_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Flood zone data. GeoServer layer: GISDATA.FEMA_NFHL_POLY",
+  "category": "Regulated Areas",
+  "subcategory": "FEMA Flood Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "fema",
+    "nfhl",
+    "flood",
+    "flood hazard",
+    "flood zone",
+    "floodplain",
+    "hazard zone",
+    "national flood hazard",
+    "fema flood hazard",
+    "flood risk"
+  ],
+  "column_summary": "OBJECTID, DFIRM_ID, VERSION_ID, FLD_AR_ID, STUDY_TYP, FLD_ZONE, ZONE_SUBTY, SFHA_TF, STATIC_BFE, V_DATUM, DEPTH, LEN_UNIT, VELOCITY, VEL_UNIT, AR_REVERT, AR_SUBTRV, BFE_REVERT, DEP_REVERT, DUAL_ZONE, SOURCE_CIT, GFID, LABEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

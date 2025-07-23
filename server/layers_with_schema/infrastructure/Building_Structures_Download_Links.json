@@ -1,0 +1,25 @@
+{
+  "document_title": "Building Structures Download Links",
+  "document_id": "massgis:GISDATA.DOWNLOADLINKS_STRUCTURES",
+  "layer_id": "massgis:GISDATA.DOWNLOADLINKS_STRUCTURES",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DOWNLOADLINKS_STRUCTURES",
+  "category": "Infrastructure",
+  "subcategory": "Buildings",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "building structures",
+    "structures",
+    "buildings",
+    "building footprints",
+    "infrastructure",
+    "download links",
+    "gisdata",
+    "massgis",
+    "geoserver",
+    "map layer"
+  ],
+  "column_summary": "OBJECTID, TOWN, TOWN_ID, SHP_LINK, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

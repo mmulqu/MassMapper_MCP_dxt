@@ -1,0 +1,23 @@
+{
+  "document_title": "UTM Grid",
+  "document_id": "massgis:GISDATA.UTMGRID_POLY",
+  "layer_id": "massgis:GISDATA.UTMGRID_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.UTMGRID_POLY",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "UTM Grid",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "utm grid",
+    "utm",
+    "grid",
+    "coordinate grid",
+    "massgis",
+    "index grid",
+    "tiling scheme",
+    "utm zone"
+  ],
+  "column_summary": "OBJECTID, ZONE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

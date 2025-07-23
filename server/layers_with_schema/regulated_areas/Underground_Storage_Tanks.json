@@ -1,0 +1,25 @@
+{
+  "document_title": "Underground Storage Tanks",
+  "document_id": "massgis:GISDATA.BWP_PT_UST",
+  "layer_id": "massgis:GISDATA.BWP_PT_UST",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BWP_PT_UST",
+  "category": "Regulated Areas",
+  "subcategory": "Underground Storage Tanks",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "underground storage tanks",
+    "ust",
+    "storage tanks",
+    "underground tanks",
+    "regulated areas",
+    "fuel storage",
+    "petroleum tanks",
+    "massgis ust",
+    "hazardous tanks",
+    "bwp pt ust"
+  ],
+  "column_summary": "OBJECTID, FAC_ID, RO_ACCT, ROOT_ID, FAC_NAME, ADDRESS, TOWN, REGION, USTID, POINT_X, POINT_Y, SHAPE"
+}

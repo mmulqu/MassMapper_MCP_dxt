@@ -1,0 +1,25 @@
+{
+  "document_title": "Groundwater Discharges",
+  "document_id": "massgis:GISDATA.GWP_PT",
+  "layer_id": "massgis:GISDATA.GWP_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.GWP_PT",
+  "category": "Regulated Areas",
+  "subcategory": "Groundwater Discharges",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "groundwater discharges",
+    "groundwater",
+    "discharge points",
+    "wastewater discharge",
+    "industrial discharge",
+    "septic discharge",
+    "ground water discharge",
+    "massgis gwp_pt",
+    "regulated areas",
+    "groundwater pollution"
+  ],
+  "column_summary": "OBJECTID, PER, PERR, NAME, ADDRESS, TOWN, REGION, BASIN, TYPE, FLOW, WWTF, SHAPE"
+}

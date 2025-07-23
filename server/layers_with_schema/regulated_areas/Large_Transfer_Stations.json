@@ -1,0 +1,25 @@
+{
+  "document_title": "Large Transfer Stations",
+  "document_id": "massgis:GISDATA.BWP_PT_HF_TRANSFER",
+  "layer_id": "massgis:GISDATA.BWP_PT_HF_TRANSFER",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BWP_PT_HF_TRANSFER",
+  "category": "Regulated Areas",
+  "subcategory": "MassDEP Solid Waste Diversion and Disposal",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "large transfer stations",
+    "transfer stations",
+    "solid waste",
+    "waste transfer",
+    "waste diversion",
+    "transfer facility",
+    "massdep",
+    "regulated areas",
+    "solid waste disposal",
+    "transfer sites"
+  ],
+  "column_summary": "OBJECTID, FAC_ID, RO_ACCT, ROOT_ID, SITE_NAME, ADDRESS, TOWN, REGION, SHAPE"
+}

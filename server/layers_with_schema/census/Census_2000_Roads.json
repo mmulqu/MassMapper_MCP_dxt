@@ -1,0 +1,24 @@
+{
+  "document_title": "Census 2000 Roads",
+  "document_id": "massgis:GISDATA.CENSUS2000TIGER_ARC_ROADS_GEN",
+  "layer_id": "massgis:GISDATA.CENSUS2000TIGER_ARC_ROADS_GEN",
+  "layer_type": "line",
+  "layer_date": "2000",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2000TIGER_ARC_ROADS_GEN",
+  "category": "Census",
+  "subcategory": "Census 2000",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2000 roads",
+    "census roads",
+    "tiger roads",
+    "tiger arc roads",
+    "massgis roads",
+    "road layer",
+    "roads line",
+    "geoserver roads",
+    "tiger arc"
+  ],
+  "column_summary": "OBJECTID, CFCC, STREET, SHAPE, SHAPE.LEN"
+}

@@ -1,0 +1,26 @@
+{
+  "document_title": "Massachusetts Municipalities Polygons Filled White With Labels",
+  "document_id": "massgis:GISDATA.TOWNSSURVEY_POLYM",
+  "layer_id": "massgis:GISDATA.TOWNSSURVEY_POLYM",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TOWNSSURVEY_POLYM",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "MA Town Boundaries",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massachusetts municipalities",
+    "massachusetts towns",
+    "municipal boundaries",
+    "town boundaries",
+    "massgis",
+    "town polygons",
+    "ma towns",
+    "polygons",
+    "administrative boundaries",
+    "political boundaries",
+    "town labels"
+  ],
+  "column_summary": "OBJECTID, TOWN, TOWN_ID, TYPE, COUNTY, FIPS_STCO, FOURCOLOR, POP1960, POP1970, POP1980, POP1990, POP2000, POP2010, POP2020, POPCH10_20, AREA_ACRES, AREA_SQMI, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Ecoregions Arcs",
+  "document_id": "massgis:GISDATA.ECOREGIONS_ARC",
+  "layer_id": "massgis:GISDATA.ECOREGIONS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.ECOREGIONS_ARC",
+  "category": "Physical Resources",
+  "subcategory": "Ecoregions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "ecoregions",
+    "ecoregions arcs",
+    "ecoregion boundaries",
+    "ecoregion lines",
+    "ecological regions",
+    "massachusetts",
+    "massgis",
+    "gisdata ecoregions",
+    "geoserver layer",
+    "physical resources"
+  ],
+  "column_summary": "OBJECTID, LINE, SHAPE, SHAPE.LEN"
+}

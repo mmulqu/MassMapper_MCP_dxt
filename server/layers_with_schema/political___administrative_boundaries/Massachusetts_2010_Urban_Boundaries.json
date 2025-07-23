@@ -1,0 +1,26 @@
+{
+  "document_title": "Massachusetts 2010 Urban Boundaries",
+  "document_id": "massgis:GISDATA.MA2010URBBND_POLY",
+  "layer_id": "massgis:GISDATA.MA2010URBBND_POLY",
+  "layer_type": "poly",
+  "layer_date": "2010",
+  "layer_description": "GeoServer layer: GISDATA.MA2010URBBND_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Massachusetts 2010 Urban Boundaries",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massachusetts",
+    "2010",
+    "urban boundaries",
+    "urban area",
+    "city limits",
+    "administrative boundaries",
+    "political boundaries",
+    "massgis",
+    "geoserver",
+    "ma2010urbbnd",
+    "urban extent"
+  ],
+  "column_summary": "OBJECTID, URBANAREAN, URBANAREAC, URBANRURAL, URBANCODE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

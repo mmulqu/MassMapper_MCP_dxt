@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2010 Blocks",
+  "document_id": "massgis:GISDATA.CENSUS2010BLOCKS_POLY",
+  "layer_id": "massgis:GISDATA.CENSUS2010BLOCKS_POLY",
+  "layer_type": "poly",
+  "layer_date": "2010",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2010BLOCKS_POLY",
+  "category": "Census",
+  "subcategory": "Census 2010",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census",
+    "census 2010",
+    "2010 census",
+    "census blocks",
+    "census 2010 blocks",
+    "blocks",
+    "population",
+    "demographics",
+    "massgis",
+    "geoserver"
+  ],
+  "column_summary": "OBJECTID, STATEFP10, COUNTYFP10, TRACTCE10, BLOCKCE10, GEOID10, NAME10, MTFCC10, ALAND10, AWATER10, INTPTLAT10, INTPTLON10, AREA_SQFT, AREA_ACRES, REALTOWN, TOWN_ID, COUSUBFP10, POP100_RE, HU100_RE, LOGPL94171, LOGSF1, LOGSF1C, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

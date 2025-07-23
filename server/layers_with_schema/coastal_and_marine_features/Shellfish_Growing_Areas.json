@@ -1,0 +1,25 @@
+{
+  "document_title": "Shellfish Growing Areas",
+  "document_id": "massgis:GISDATA.DSGA_POLY",
+  "layer_id": "massgis:GISDATA.DSGA_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DSGA_POLY",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Designated Shellfish Growing Areas",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "shellfish growing areas",
+    "shellfish areas",
+    "designated shellfish",
+    "coastal shellfish",
+    "shellfish harbors",
+    "clams",
+    "oysters",
+    "mussels",
+    "massgis shellfish",
+    "dsgapoly"
+  ],
+  "column_summary": "OBJECTID, NAME, CONTACT, ACRES, BEGIN_DATE, GROWING_AR, AREA_DESC, CLASS, CONDITION, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Highway Interchanges",
+  "document_id": "massgis:GISDATA.HWYINTERCHANGES_PT",
+  "layer_id": "massgis:GISDATA.HWYINTERCHANGES_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "Road network data. GeoServer layer: GISDATA.HWYINTERCHANGES_PT",
+  "category": "Infrastructure",
+  "subcategory": "Highway Exits and Interchanges",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "highway interchanges",
+    "interchanges",
+    "highway exits",
+    "exit ramps",
+    "road network",
+    "massgis",
+    "geoserver",
+    "gisdata.hwyinterchanges_pt",
+    "infrastructure",
+    "transportation"
+  ],
+  "column_summary": "OBJECTID, SHAPE, EXIT_NUM, ROUTE_NUM, CORRIDOR, JUNCTION, INT_KEY, LEGACYEXIT"
+}

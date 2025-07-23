@@ -1,0 +1,26 @@
+{
+  "document_title": "Property Tax Parcels Site Address Black Labels",
+  "document_id": "massgis:GISDATA.L3_TAXPAR_POLY_ASSESS",
+  "layer_id": "massgis:GISDATA.L3_TAXPAR_POLY_ASSESS",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Property boundary and tax information. GeoServer layer: GISDATA.L3_TAXPAR_POLY_ASSESS",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Property Tax Parcels",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "property tax parcels",
+    "tax parcels",
+    "property boundaries",
+    "site address",
+    "parcel assessment",
+    "gisdata",
+    "tax assessment",
+    "black labels",
+    "land parcels",
+    "parcels layer",
+    "parcel map"
+  ],
+  "column_summary": "OBJECTID_1, OBJECTID, MAP_PAR_ID, LOC_ID, POLY_TYPE, MAP_NO, SOURCE, PLAN_ID, LAST_EDIT, BND_CHK, NO_MATCH, TOWN_ID, PROP_ID, BLDG_VAL, LAND_VAL, OTHER_VAL, TOTAL_VAL, FY, LOT_SIZE, LS_DATE, LS_PRICE, USE_CODE, SITE_ADDR, ADDR_NUM, FULL_STR, LOCATION, CITY, ZIP, OWNER1, OWN_ADDR, OWN_CITY, OWN_STATE, OWN_ZIP, OWN_CO, LS_BOOK, LS_PAGE, REG_ID, ZONING, YEAR_BUILT, BLD_AREA, UNITS, RES_AREA, STYLE, NUM_ROOMS, LOT_UNITS, STORIES, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

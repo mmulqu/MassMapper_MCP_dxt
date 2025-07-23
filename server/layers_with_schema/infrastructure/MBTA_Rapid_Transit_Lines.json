@@ -1,0 +1,25 @@
+{
+  "document_title": "MBTA Rapid Transit Lines",
+  "document_id": "massgis:GISDATA.MBTA_ARC",
+  "layer_id": "massgis:GISDATA.MBTA_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MBTA_ARC",
+  "category": "Infrastructure",
+  "subcategory": "Trains",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mbta",
+    "rapid transit",
+    "subway lines",
+    "t lines",
+    "public transit",
+    "rail network",
+    "mass transit",
+    "mbta rail",
+    "mbta train lines",
+    "mbta rapid transit"
+  ],
+  "column_summary": "OBJECTID, LINE, ROUTE, GRADE, SHAPE, SHAPE.LEN"
+}

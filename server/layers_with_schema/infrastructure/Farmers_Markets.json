@@ -1,0 +1,27 @@
+{
+  "document_title": "Farmers Markets",
+  "document_id": "massgis:GISDATA.FARMERSMARKETS_PT",
+  "layer_id": "massgis:GISDATA.FARMERSMARKETS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.FARMERSMARKETS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Farmers Markets",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "farmers markets",
+    "farmers market",
+    "farm market",
+    "farm stand",
+    "local food",
+    "produce",
+    "agricultural markets",
+    "market locations",
+    "agriculture",
+    "massgis",
+    "massachusetts",
+    "infrastructure"
+  ],
+  "column_summary": "OBJECTID, MARKET_ID, NAME, TYPE, ADDR_1, ADDR_2, TOWN, ZIP_CODE, DAY_TIME, DATES, UPDATE_DAT, YEAR_START, WEBSITE, EBT, WIC_CVV, COUPONS, LONGITUDE, LATITUDE, SHAPE, SNAP, HIP"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Core Habitat Components: Vernal Pool Core",
+  "document_id": "massgis:GISDATA.BM3_CH_VERNAL_POOLS_CORE",
+  "layer_id": "massgis:GISDATA.BM3_CH_VERNAL_POOLS_CORE",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_CH_VERNAL_POOLS_CORE",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "vernal pools",
+    "vernal pool core",
+    "biomap core habitat",
+    "core habitat",
+    "wetland habitat",
+    "wetlands",
+    "natural heritage",
+    "conservation",
+    "amphibian breeding",
+    "bm3 ch vernal pools"
+  ],
+  "column_summary": "OBJECTID, CH_VP_ID, ACRES_CH_VP, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

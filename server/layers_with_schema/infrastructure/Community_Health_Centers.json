@@ -1,0 +1,23 @@
+{
+  "document_title": "Community Health Centers",
+  "document_id": "massgis:GISDATA.CHCS_PT",
+  "layer_id": "massgis:GISDATA.CHCS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CHCS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Community Health Centers",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "community health centers",
+    "health centers",
+    "clinics",
+    "community clinics",
+    "health care facilities",
+    "medical clinics",
+    "public health",
+    "massgis chcs pt"
+  ],
+  "column_summary": "OBJECTID, NAME, ADDRESS, MUNICIPALITY, GEOG_MUNI, ZIP_CODE, PHONE, WEBSITE, SERVICES, MAD_ID, SHAPE"
+}

@@ -1,0 +1,24 @@
+{
+  "document_title": "Massachusetts Address Points",
+  "document_id": "massgis:MAD.MAD_ADDRESS_POINTS_GC",
+  "layer_id": "massgis:MAD.MAD_ADDRESS_POINTS_GC",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: MAD.MAD_ADDRESS_POINTS_GC",
+  "category": "Infrastructure",
+  "subcategory": "Massachusetts Address Points",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "address points",
+    "massachusetts addresses",
+    "ma address points",
+    "address dataset",
+    "address locations",
+    "point address layer",
+    "massgis address points",
+    "geocoded addresses",
+    "infrastructure addresses"
+  ],
+  "column_summary": "OBJECTID, CENTROID_ID, FULL_NUMBER_STANDARDIZED, ADDRESS_NUMBER_PREFIX, ADDRESS_NUMBER, ADDRESS_NUMBER_SUFFIX, ADDRESS_NUMBER_2_PREFIX, ADDRESS_NUMBER_2, ADDRESS_NUMBER_2_SUFFIX, STREET_NAME, FLOOR, UNIT, MASTER_ADDRESS_ID, STREET_NAME_ID, REL_LOC, SITE_ID, BUILDING_NAME, GEOGRAPHIC_TOWN_ID, COMMUNITY_ID, COMMUNITY_NAME, GEOGRAPHIC_TOWN, POSTCODE, PC_NAME, COUNTY, STATE, SHAPE"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 1990 Roads",
+  "document_id": "massgis:GISDATA.CENSUS1990TIGER_ARC",
+  "layer_id": "massgis:GISDATA.CENSUS1990TIGER_ARC",
+  "layer_type": "line",
+  "layer_date": "1990",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS1990TIGER_ARC",
+  "category": "Census",
+  "subcategory": "Census 1990",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 1990",
+    "census 1990 roads",
+    "1990 roads",
+    "tiger arc",
+    "tiger arcs",
+    "tiger line roads",
+    "census roads",
+    "massgis census",
+    "roads layer",
+    "transportation network"
+  ],
+  "column_summary": "OBJECTID, FNODE_, TNODE_, LPOLY_, RPOLY_, LENGTH, TIG_, TIG_ID, TILE_NAME, RECNUM, RT, VERSION, SIDE, SOURCE, FDPRE, FNAME, FTYPE, FDSUF, CFCC, LEFTADD1, LEFTADD2, RGTADD1, RGTADD2, LEFTFFL, LEFTTFL, RGTFFL, RGTTFL, ZIPCOLEF, ZIPCORGT, ST90LEFT, ST90RGT, CNT90LEFT, CNT90RGT, FMCDCCD90L, FMCDCCD90R, FSUBMCD90L, FSUBMCD90R, FPLACO90L, FPLACO90R, CTBNA90L, CTBNA90R, BLK90L, BLK90R, FROMLONG, FROMLAT, TOLONG, TOLAT, STREET, SHAPE, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "2008/09 30cm and 15cm Aerial Imagery Index Labels",
+  "document_id": "massgis:GISDATA.COQ2008INDEX_POLY",
+  "layer_id": "massgis:GISDATA.COQ2008INDEX_POLY",
+  "layer_type": "poly",
+  "layer_date": "2008",
+  "layer_description": "Aerial/satellite imagery. GeoServer layer: GISDATA.COQ2008INDEX_POLY",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "2008/09 30cm and 15cm Aerial Imagery Index",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "2008 aerial imagery",
+    "2009 aerial imagery",
+    "30cm imagery",
+    "15cm imagery",
+    "aerial imagery index",
+    "orthophoto index",
+    "imagery grid",
+    "massgis aerial index",
+    "geoserver layer",
+    "coq2008index_poly"
+  ],
+  "column_summary": "OBJECTID, TILENAME, RESOLUT, MOSAIC15CM, MOSAIC30CM, COQ2008, COQ2009, URL_15CM, URL_30CM, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

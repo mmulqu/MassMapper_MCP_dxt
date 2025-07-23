@@ -1,0 +1,25 @@
+{
+  "document_title": "Prime Forest Land",
+  "document_id": "massgis:GISDATA.PRIMEFOREST_POLY",
+  "layer_id": "massgis:GISDATA.PRIMEFOREST_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.PRIMEFOREST_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Prime Forest Land",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "prime forest land",
+    "prime forest",
+    "forest land",
+    "critical forest",
+    "forest habitat",
+    "massgis forest",
+    "massachusetts forest",
+    "physical resources forest",
+    "geo server forest",
+    "forest conservation"
+  ],
+  "column_summary": "OBJECTID, PRIME, ACRES, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

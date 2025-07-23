@@ -1,0 +1,26 @@
+{
+  "document_title": "Census 2000 Tracts",
+  "document_id": "massgis:GISDATA.CENSUS2000TRACTS_POLY",
+  "layer_id": "massgis:GISDATA.CENSUS2000TRACTS_POLY",
+  "layer_type": "poly",
+  "layer_date": "2000",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2000TRACTS_POLY",
+  "category": "Census",
+  "subcategory": "Census 2000",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2000 tracts",
+    "census tracts",
+    "2000 census",
+    "massachusetts census",
+    "massgis",
+    "tract boundaries",
+    "demographic data",
+    "population tracts",
+    "gisdata",
+    "geoserver",
+    "census polygons"
+  ],
+  "column_summary": "OBJECTID, PERIMETER, STATE, COUNTY, TRACT, CT_ID, LOGRECNO, BLK_COUNT, TOTAL_POP, SAMP_POP, DRY_PCT, DRY_ACRES, DRY_SQMI, DRY_SQKM, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "MassDEP Publicly-Owned Treatment Works Sewer Service Area",
+  "document_id": "massgis:GISDATA.SEWER_SERVICE_AREA_POTW_POLY",
+  "layer_id": "massgis:GISDATA.SEWER_SERVICE_AREA_POTW_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SEWER_SERVICE_AREA_POTW_POLY",
+  "category": "Regulated Areas",
+  "subcategory": "MassDEP Estimated Sewer System Service Area Boundaries",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "sewer service area",
+    "publicly-owned treatment works",
+    "potw",
+    "massdep",
+    "wastewater service area",
+    "sewer system boundary",
+    "service area boundaries",
+    "sanitary sewer",
+    "regulated areas",
+    "sewer boundary"
+  ],
+  "column_summary": "OBJECTID, SYSTNAME, PERMIT_ID, ORIG_PERMIT_ID, SEWER_ID, PERMIT_DATE, DISCHG_TYP, TRTMTPLANT, TOWNNAME, TOWN_ID, OWNER_TYPE, FAC_TYPE, SECTOR, REGION, REGION_ID, ADDRESS, BASIN, SA_SQMI, SA_ACRES, MUNI_SQMI, PERCNTAREA, SERVCECONF, SERVCEYEAR, MULTIPOTW, MULTIPOTW_D, PERCSERV, PERSERDET, PERSOURCE, PERYEAR, PERCALL, MUNI_POP, POP_SRC, POP_SRC_DATE, PARINSA, DEVPARINSA, PCTDEVPARINSA, PCTDEVPARINMUNI, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

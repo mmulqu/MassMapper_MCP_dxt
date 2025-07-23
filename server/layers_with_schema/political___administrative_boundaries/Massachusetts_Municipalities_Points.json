@@ -1,0 +1,26 @@
+{
+  "document_title": "Massachusetts Municipalities Points",
+  "document_id": "massgis:GISDATA.TOWNSSURVEY_PT",
+  "layer_id": "massgis:GISDATA.TOWNSSURVEY_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TOWNSSURVEY_PT",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "MA Town Boundaries",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massachusetts municipalities",
+    "ma municipalities",
+    "massachusetts towns",
+    "ma towns",
+    "town survey points",
+    "towns survey",
+    "town boundary points",
+    "municipal points",
+    "massgis",
+    "political boundaries",
+    "administrative boundaries"
+  ],
+  "column_summary": "OBJECTID, CORNER, ID1, NORTH83, EAST83, USE, SHAPE"
+}

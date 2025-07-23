@@ -1,0 +1,25 @@
+{
+  "document_title": "DEP Tier Classified 21E Sites",
+  "document_id": "massgis:GISDATA.C21E_PT",
+  "layer_id": "massgis:GISDATA.C21E_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.C21E_PT",
+  "category": "Regulated Areas",
+  "subcategory": "DEP Tier Classified 21E Sites",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dep",
+    "tier",
+    "classified",
+    "21e",
+    "21e sites",
+    "dep tier classified",
+    "environmental cleanup",
+    "hazardous sites",
+    "regulated areas",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, RTN, NAME, ADDRESS, TOWN, STATUS, SITE_INFO, REGION, GLOBALID, SHAPE"
+}

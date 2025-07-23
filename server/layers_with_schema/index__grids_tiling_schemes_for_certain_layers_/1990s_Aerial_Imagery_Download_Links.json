@@ -1,0 +1,25 @@
+{
+  "document_title": "1990s Aerial Imagery Download Links",
+  "document_id": "massgis:GISDATA.DOWNLOADLINKS_1990",
+  "layer_id": "massgis:GISDATA.DOWNLOADLINKS_1990",
+  "layer_type": "poly",
+  "layer_date": "1990",
+  "layer_description": "Aerial/satellite imagery. GeoServer layer: GISDATA.DOWNLOADLINKS_1990",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "1990s Aerial Imagery Download Links",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "1990 aerial",
+    "1990s imagery",
+    "aerial imagery download",
+    "massgis 1990",
+    "historical aerial",
+    "geoserver layer",
+    "raster download",
+    "1990 satellite",
+    "tiling scheme",
+    "grid index"
+  ],
+  "column_summary": "OBJECTID, SHEET_ID, DATEPHOTO, DATEDIGITA, AWS_90SBW, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

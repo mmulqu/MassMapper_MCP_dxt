@@ -1,0 +1,25 @@
+{
+  "document_title": "Pre-kindergarten to High School Buildings",
+  "document_id": "massgis:GISDATA.SCHOOLS_PT",
+  "layer_id": "massgis:GISDATA.SCHOOLS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "Educational facilities. GeoServer layer: GISDATA.SCHOOLS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Schools",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "pre-kindergarten",
+    "kindergarten",
+    "elementary school",
+    "middle school",
+    "high school",
+    "k12",
+    "school buildings",
+    "education facilities",
+    "school locations",
+    "massgis schools"
+  ],
+  "column_summary": "OBJECTID, SCHID, NAME, ADDRESS, TOWN_MAIL, TOWN, ZIPCODE, PHONE, GRADES, TYPE, TYPE_DESC, DIST_NAME, DIST_CODE, MA_ADDR_ID, TYPE_DESC2, SHAPE"
+}

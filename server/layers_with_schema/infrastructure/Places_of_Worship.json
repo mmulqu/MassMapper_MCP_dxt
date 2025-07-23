@@ -1,0 +1,25 @@
+{
+  "document_title": "Places of Worship",
+  "document_id": "massgis:GISDATA.PLACES_OF_WORSHIP_PT",
+  "layer_id": "massgis:GISDATA.PLACES_OF_WORSHIP_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.PLACES_OF_WORSHIP_PT",
+  "category": "Infrastructure",
+  "subcategory": "Places of Worship",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "places of worship",
+    "worship",
+    "religious",
+    "church",
+    "mosque",
+    "temple",
+    "synagogue",
+    "chapel",
+    "prayer",
+    "faith"
+  ],
+  "column_summary": "OBJECTID, NAME, ADDRESS, CITY, GEOG_CITY, ZIPCODE, TELEPHONE, EMAIL, WEBSITE, MAIL_ADDR, LEADERSHIP, YEAR_EST, DENOM, ORG, TYPE, SOURCE, MAD_ID, SHAPE"
+}

@@ -1,0 +1,24 @@
+{
+  "document_title": "2001 Aerial Imagery",
+  "document_id": "Orthos_2001",
+  "layer_id": "Orthos_2001",
+  "layer_type": "tiled_overlay",
+  "layer_date": "2001",
+  "layer_description": "Aerial/satellite imagery.",
+  "category": "Images",
+  "subcategory": "Aerial Photos (Ortho Imagery)",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "2001 aerial imagery",
+    "orthos 2001",
+    "ortho imagery",
+    "aerial photos",
+    "historical aerial imagery",
+    "satellite imagery",
+    "massgis orthos",
+    "2001 ortho photos",
+    "tiled overlay",
+    "aerial orthophotos"
+  ]
+}

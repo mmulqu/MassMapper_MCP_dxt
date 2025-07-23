@@ -1,0 +1,25 @@
+{
+  "document_title": "Surficial Geology Depth in Feet",
+  "document_id": "massgis:GISDATA.SURFGEO250K_POLY",
+  "layer_id": "massgis:GISDATA.SURFGEO250K_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SURFGEO250K_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Surficial Geology",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "surficial geology",
+    "depth in feet",
+    "geology depth",
+    "soil depth",
+    "sediment thickness",
+    "quaternary deposits",
+    "massachusetts geology",
+    "geologic map",
+    "250k scale",
+    "surfgEO250K"
+  ],
+  "column_summary": "OBJECTID, CODE, AREA_ACRES, RANGE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

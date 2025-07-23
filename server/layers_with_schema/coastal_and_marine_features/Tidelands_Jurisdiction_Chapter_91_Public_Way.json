@@ -1,0 +1,26 @@
+{
+  "document_title": "Tidelands Jurisdiction Chapter 91 Public Way",
+  "document_id": "massgis:GISDATA.CZM_PUBLICWAY",
+  "layer_id": "massgis:GISDATA.CZM_PUBLICWAY",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CZM_PUBLICWAY",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Tidelands Jurisdiction Data Chapter 91",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "chapter 91",
+    "tidelands jurisdiction",
+    "public way",
+    "coastal features",
+    "marine features",
+    "public access",
+    "massgis",
+    "czm",
+    "chapter91",
+    "tidelands data",
+    "shoreline access"
+  ],
+  "column_summary": "OBJECTID, AUTO_RT_NU, DATE_, FRM_ST_NAM, STATUS, TOWN, SHAPE, SHAPE.LEN"
+}

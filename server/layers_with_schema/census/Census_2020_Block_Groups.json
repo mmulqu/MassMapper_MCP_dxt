@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2020 Block Groups",
+  "document_id": "massgis:GISDATA.CENSUS2020BLOCKGROUPS_POLY",
+  "layer_id": "massgis:GISDATA.CENSUS2020BLOCKGROUPS_POLY",
+  "layer_type": "poly",
+  "layer_date": "2020",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2020BLOCKGROUPS_POLY",
+  "category": "Census",
+  "subcategory": "Census 2020",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2020",
+    "block groups",
+    "census block groups",
+    "massachusetts census",
+    "ma census 2020",
+    "census geography",
+    "demographic data",
+    "gisdata census",
+    "geoserver layer",
+    "block group polygons"
+  ],
+  "column_summary": "OBJECTID, STATEFP20, COUNTYFP20, TRACTCE20, BLKGRPCE20, GEOID20, NAMELSAD20, MTFCC20, ALAND20, AWATER20, INTPTLAT20, INTPTLON20, AREA_SQFT, AREA_ACRES, TRACT20, HOUSING20, POP20, BLK20_CNT, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

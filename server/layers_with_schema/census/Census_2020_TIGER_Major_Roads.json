@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2020 TIGER Major Roads",
+  "document_id": "massgis:GISDATA.CENSUS2020TIGERMAJROADS_ARC",
+  "layer_id": "massgis:GISDATA.CENSUS2020TIGERMAJROADS_ARC",
+  "layer_type": "line",
+  "layer_date": "2020",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2020TIGERMAJROADS_ARC",
+  "category": "Census",
+  "subcategory": "Census 2020",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census",
+    "census 2020",
+    "tiger",
+    "tiger roads",
+    "major roads",
+    "roads",
+    "highways",
+    "transportation",
+    "massgis",
+    "geoserver"
+  ],
+  "column_summary": "OBJECTID, FULLNAME, ROAD_MTFCC, FEATURE_TYPE, SHAPE, SHAPE.LEN"
+}

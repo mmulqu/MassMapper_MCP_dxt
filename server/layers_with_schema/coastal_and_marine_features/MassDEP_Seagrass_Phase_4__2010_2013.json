@@ -1,0 +1,25 @@
+{
+  "document_title": "MassDEP Seagrass Phase 4: 2010-2013",
+  "document_id": "massgis:GISDATA.EELGRASS2010_13_POLY",
+  "layer_id": "massgis:GISDATA.EELGRASS2010_13_POLY",
+  "layer_type": "poly",
+  "layer_date": "2010",
+  "layer_description": "GeoServer layer: GISDATA.EELGRASS2010_13_POLY",
+  "category": "Coastal and Marine Features",
+  "subcategory": "MassDEP Seagrass",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "seagrass",
+    "eelgrass",
+    "massdep seagrass",
+    "seagrass phase 4",
+    "2010 eelgrass",
+    "2013 seagrass",
+    "coastal seagrass",
+    "gisdata eelgrass",
+    "marine vegetation",
+    "coastal and marine features"
+  ],
+  "column_summary": "OBJECTID, HABITAT, YEAR, AREA_M, AREA_ACRES, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

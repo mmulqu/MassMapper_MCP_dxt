@@ -1,0 +1,25 @@
+{
+  "document_title": "DCR Mass Parks Regions Lines",
+  "document_id": "massgis:GISDATA.REGDCR_ARC",
+  "layer_id": "massgis:GISDATA.REGDCR_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGDCR_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "DCR Mass Parks Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dcr mass parks",
+    "mass parks regions",
+    "state park boundaries",
+    "dcr regions",
+    "park region lines",
+    "political boundaries",
+    "administrative boundaries",
+    "massgis",
+    "geoserver",
+    "massachusetts parks"
+  ],
+  "column_summary": "OBJECTID, LEFT_FID, RIGHT_FID, TYPE, SHAPE_LENG, SHAPE, SHAPE.LEN"
+}

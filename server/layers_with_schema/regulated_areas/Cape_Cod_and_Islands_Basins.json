@@ -1,0 +1,25 @@
+{
+  "document_title": "Cape Cod and Islands Basins",
+  "document_id": "massgis:GISDATA.MAJBAS_POLY",
+  "layer_id": "massgis:GISDATA.MAJBAS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MAJBAS_POLY",
+  "category": "Regulated Areas",
+  "subcategory": "Aquifers",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "cape cod",
+    "islands",
+    "aquifers",
+    "water basins",
+    "groundwater",
+    "groundwater basin",
+    "regulated areas",
+    "water supply",
+    "basins",
+    "major basins"
+  ],
+  "column_summary": "OBJECTID, AREA_ACRES, BAS_ID, NAME, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

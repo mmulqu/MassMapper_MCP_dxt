@@ -1,0 +1,25 @@
+{
+  "document_title": "DEP 2013 Boundaries for Tributaries thereto Watersheds",
+  "document_id": "massgis:GISDATA.SWQS_2013_TRIBUTARY_AREA",
+  "layer_id": "massgis:GISDATA.SWQS_2013_TRIBUTARY_AREA",
+  "layer_type": "poly",
+  "layer_date": "2013",
+  "layer_description": "GeoServer layer: GISDATA.SWQS_2013_TRIBUTARY_AREA",
+  "category": "Regulated Areas",
+  "subcategory": "DEP Surface Water Quality Standards",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dep 2013 boundaries",
+    "tributary watersheds",
+    "surface water quality",
+    "swqs 2013",
+    "tributary boundaries",
+    "watershed boundaries",
+    "massgis tributary",
+    "dep watersheds",
+    "water quality standards",
+    "regulated areas"
+  ],
+  "column_summary": "OBJECTID, REG_DATE, REG_TABLE, REG_BASIN, WATERS, BOUNDARY, MILE_POINT, CLASS, QUALIFIER, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

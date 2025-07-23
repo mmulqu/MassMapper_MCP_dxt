@@ -1,0 +1,25 @@
+{
+  "document_title": "Soils Special Features - Lines",
+  "document_id": "massgis:GISDATA.SOILS_SPECFEAT_ARC",
+  "layer_id": "massgis:GISDATA.SOILS_SPECFEAT_ARC",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SOILS_SPECFEAT_ARC",
+  "category": "Physical Resources",
+  "subcategory": "Soils",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "soils",
+    "special features",
+    "lines",
+    "soil features",
+    "soil boundaries",
+    "massgis",
+    "gisdata",
+    "soils special features",
+    "soils_specfeat_arc",
+    "physical resources"
+  ],
+  "column_summary": "OBJECTID, AREASYMBOL, SPATIALVER, FEATSYM, FEATKEY, SS_AREA, LABEL, SHAPE, SHAPE.LEN"
+}

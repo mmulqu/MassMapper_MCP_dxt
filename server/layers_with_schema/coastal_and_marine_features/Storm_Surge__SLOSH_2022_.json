@@ -1,0 +1,24 @@
+{
+  "document_title": "Storm Surge (SLOSH 2022)",
+  "document_id": "SLOSH_2022",
+  "layer_id": "SLOSH_2022",
+  "layer_type": "tiled_overlay",
+  "layer_date": "2022",
+  "layer_description": "",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Storm Surge",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "storm surge",
+    "slosh",
+    "slosh 2022",
+    "coastal flooding",
+    "surge inundation",
+    "hurricane surge",
+    "storm flooding",
+    "coastal storm surge",
+    "flood model",
+    "massachusetts storm surge"
+  ]
+}

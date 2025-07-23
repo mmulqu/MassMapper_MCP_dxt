@@ -1,0 +1,25 @@
+{
+  "document_title": "Sandplain Natural Community Systems",
+  "document_id": "massgis:GISDATA.VCSANDPLAIN_POLY",
+  "layer_id": "massgis:GISDATA.VCSANDPLAIN_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.VCSANDPLAIN_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Priority Natural Vegetation Communities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "sandplain",
+    "sandplain natural community",
+    "sandplain natural communities",
+    "natural community",
+    "natural communities",
+    "vegetation communities",
+    "priority natural vegetation communities",
+    "sandplain vegetation",
+    "sandplain natural community systems",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, NHCODE, LANDUSE, LABEL, GEN_LABEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

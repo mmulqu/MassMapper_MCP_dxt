@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2010 Block Groups",
+  "document_id": "massgis:GISDATA.CENSUS2010BLOCKGROUPS_POLY",
+  "layer_id": "massgis:GISDATA.CENSUS2010BLOCKGROUPS_POLY",
+  "layer_type": "poly",
+  "layer_date": "2010",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2010BLOCKGROUPS_POLY",
+  "category": "Census",
+  "subcategory": "Census 2010",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2010",
+    "block groups",
+    "block group boundaries",
+    "massachusetts census",
+    "demographic data",
+    "census polygons",
+    "decennial census",
+    "census geography",
+    "gis census",
+    "census block groups"
+  ],
+  "column_summary": "OBJECTID, STATEFP10, COUNTYFP10, TRACTCE10, BLKGRPCE10, GEOID10, NAMELSAD10, MTFCC10, ALAND10, AWATER10, INTPTLAT10, INTPTLON10, AREA_SQFT, AREA_ACRES, POP100_RE, HU100_RE, LOGPL94171, LOGSF1, LOGACS0610, LOGSF1C, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

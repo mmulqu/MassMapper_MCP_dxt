@@ -1,0 +1,25 @@
+{
+  "document_title": "NHESP Ecoregions",
+  "document_id": "massgis:GISDATA.ECOREGIONS_2010",
+  "layer_id": "massgis:GISDATA.ECOREGIONS_2010",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.ECOREGIONS_2010",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "nhesp",
+    "ecoregions",
+    "ecoregions 2010",
+    "massgis",
+    "natural heritage",
+    "ecoregion boundaries",
+    "ecological regions",
+    "conservation regions",
+    "biodiversity regions",
+    "eco regions"
+  ],
+  "column_summary": "OBJECTID, ECO_RECLAS, ACRES, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

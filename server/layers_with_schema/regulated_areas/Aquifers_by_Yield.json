@@ -1,0 +1,25 @@
+{
+  "document_title": "Aquifers by Yield",
+  "document_id": "massgis:GISDATA.AQUIFERS_POLY",
+  "layer_id": "massgis:GISDATA.AQUIFERS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.AQUIFERS_POLY",
+  "category": "Regulated Areas",
+  "subcategory": "Aquifers",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "aquifers",
+    "aquifers by yield",
+    "groundwater",
+    "water yield",
+    "regulated areas",
+    "hydrogeology",
+    "aquifer capacity",
+    "aquifer recharge",
+    "massgis",
+    "gisdata"
+  ],
+  "column_summary": "OBJECTID, CODE, TYPE, YIELD_GPM, TRANS, AREA_SQ_FT, AREA_ACRES, BAS_ID, PANEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

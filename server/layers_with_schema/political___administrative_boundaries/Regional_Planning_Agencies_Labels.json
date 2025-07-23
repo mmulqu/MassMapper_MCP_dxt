@@ -1,0 +1,23 @@
+{
+  "document_title": "Regional Planning Agencies Labels",
+  "document_id": "massgis:GISDATA.RPAS_POLY",
+  "layer_id": "massgis:GISDATA.RPAS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.RPAS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Regional Planning Agencies",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "regional planning agencies",
+    "rpa labels",
+    "planning regions",
+    "administrative boundaries",
+    "political boundaries",
+    "massgis",
+    "geoserver",
+    "rpas_poly"
+  ],
+  "column_summary": "OBJECTID, RPA_ID, RPA_NAME, ACRONYM, WEBSITE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Transmission Lines",
+  "document_id": "massgis:GISDATA.TRANSLINES_ARC",
+  "layer_id": "massgis:GISDATA.TRANSLINES_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TRANSLINES_ARC",
+  "category": "Infrastructure",
+  "subcategory": "Transmission Lines",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "transmission lines",
+    "power lines",
+    "electric transmission",
+    "high voltage lines",
+    "utility lines",
+    "power grid",
+    "electricity network",
+    "transmission line map",
+    "massgis transmission",
+    "gisdata.translines_arc"
+  ],
+  "column_summary": "OBJECTID, MINOR_TOT, MINOR_NUM, SOURCE, SHAPE, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "State Representative House Districts 2012 Outline Types",
+  "document_id": "massgis:GISDATA.HOUSE2012_ARC",
+  "layer_id": "massgis:GISDATA.HOUSE2012_ARC",
+  "layer_type": "line",
+  "layer_date": "2012",
+  "layer_description": "GeoServer layer: GISDATA.HOUSE2012_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Legislative Districts 2012",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "state representative districts",
+    "house districts",
+    "2012 districts",
+    "legislative districts 2012",
+    "massachusetts house districts",
+    "political boundaries",
+    "district outlines",
+    "state house map",
+    "2012 house district map",
+    "massgis house2012"
+  ],
+  "column_summary": "OBJECTID, OUTLINE, SHAPE, SHAPE.LEN"
+}

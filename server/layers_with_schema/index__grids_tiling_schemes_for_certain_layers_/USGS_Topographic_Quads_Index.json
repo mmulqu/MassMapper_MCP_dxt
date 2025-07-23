@@ -1,0 +1,25 @@
+{
+  "document_title": "USGS Topographic Quads Index",
+  "document_id": "massgis:GISDATA.QUADS_POLY",
+  "layer_id": "massgis:GISDATA.QUADS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.QUADS_POLY",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "USGS Topographic Quads Index",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "usgs topographic quads",
+    "topographic quads",
+    "quad index",
+    "usgs quad index",
+    "topo quads",
+    "quadrangle index",
+    "map grid",
+    "tiling scheme",
+    "usgs topo maps",
+    "quad polygon"
+  ],
+  "column_summary": "OBJECTID, QUAD_NAME, DOUBLEQUAD, QUAD_ID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

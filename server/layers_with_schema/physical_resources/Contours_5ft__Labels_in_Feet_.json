@@ -1,0 +1,25 @@
+{
+  "document_title": "Contours 5ft (Labels in Feet)",
+  "document_id": "massgis:GISDATA.CONTOURS_1FT_2021_ARC",
+  "layer_id": "massgis:GISDATA.CONTOURS_1FT_2021_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CONTOURS_1FT_2021_ARC",
+  "category": "Physical Resources",
+  "subcategory": "Topography Contours",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "contours",
+    "contour lines",
+    "5ft contours",
+    "5 foot contours",
+    "elevation",
+    "elevation lines",
+    "topography",
+    "topographic map",
+    "contour map",
+    "massgis contours"
+  ],
+  "column_summary": "OBJECTID, ELEV_M, ELEV_FT, INDEX_, SHAPE, SHAPE.LEN"
+}

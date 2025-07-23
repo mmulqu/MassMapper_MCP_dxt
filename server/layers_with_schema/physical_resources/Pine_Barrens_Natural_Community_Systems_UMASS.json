@@ -1,0 +1,25 @@
+{
+  "document_title": "Pine Barrens Natural Community Systems UMASS",
+  "document_id": "massgis:GISDATA.VCPINEBARRENS2_POLY",
+  "layer_id": "massgis:GISDATA.VCPINEBARRENS2_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.VCPINEBARRENS2_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Priority Natural Vegetation Communities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "pine barrens",
+    "pine barrens natural communities",
+    "umass pine barrens",
+    "priority natural vegetation",
+    "natural community systems",
+    "massgis pine barrens",
+    "geoserver layer",
+    "vcpinebarrens2 poly",
+    "physical resources",
+    "priority natural vegetation communities"
+  ],
+  "column_summary": "OBJECTID, NHCODE, GRIF_CODE, PPID, LABEL, GEN_LABEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Active and Proposed Commuter Rail Lines",
+  "document_id": "massgis:GISDATA.TRAINS_RTE_TRAIN",
+  "layer_id": "massgis:GISDATA.TRAINS_RTE_TRAIN",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TRAINS_RTE_TRAIN",
+  "category": "Infrastructure",
+  "subcategory": "Trains",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "commuter rail",
+    "active commuter rail",
+    "proposed commuter rail",
+    "train routes",
+    "rail lines",
+    "mbta commuter rail",
+    "massgis trains",
+    "commuter train lines",
+    "rail transit",
+    "train corridor"
+  ],
+  "column_summary": "OBJECTID, COMM_LINE, COMMRAIL, SHAPE, SHAPE.LEN"
+}

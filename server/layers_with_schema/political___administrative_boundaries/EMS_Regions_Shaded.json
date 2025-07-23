@@ -1,0 +1,23 @@
+{
+  "document_title": "EMS Regions Shaded",
+  "document_id": "massgis:GISDATA.REGEMS_POLY",
+  "layer_id": "massgis:GISDATA.REGEMS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGEMS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "EMS Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "ems regions",
+    "emergency medical services",
+    "ems boundaries",
+    "ems districts",
+    "massachusetts ems",
+    "ems zones",
+    "ems map",
+    "shaded regions"
+  ],
+  "column_summary": "OBJECTID, REGION, NAME, WEB_SITE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

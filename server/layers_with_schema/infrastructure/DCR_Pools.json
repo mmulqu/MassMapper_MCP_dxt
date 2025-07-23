@@ -1,0 +1,25 @@
+{
+  "document_title": "DCR Pools",
+  "document_id": "massgis:GISDATA.DCRPOOLS_PT",
+  "layer_id": "massgis:GISDATA.DCRPOOLS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DCRPOOLS_PT",
+  "category": "Infrastructure",
+  "subcategory": "DCR Pools",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dcr pools",
+    "pools",
+    "swimming pools",
+    "public pools",
+    "state recreation",
+    "water recreation",
+    "massachusetts pools",
+    "dcr",
+    "swimming",
+    "recreation"
+  ],
+  "column_summary": "OBJECTID, NAME, TYPE, STATUS, LIFEGUARD, ACCESSIBLE, ADDRESS, TOWN, PHONE, REGION, DISTRICT, LABEL, LEGISLATION, COMMENTS, FOT, POOL_ID, SHAPE"
+}

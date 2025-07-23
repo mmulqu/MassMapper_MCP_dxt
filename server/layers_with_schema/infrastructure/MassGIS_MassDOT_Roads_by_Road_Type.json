@@ -1,0 +1,26 @@
+{
+  "document_title": "MassGIS-MassDOT Roads by Road Type",
+  "document_id": "massgis:GISDATA.EOTROADS_ARC",
+  "layer_id": "massgis:GISDATA.EOTROADS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "Road network data. GeoServer layer: GISDATA.EOTROADS_ARC",
+  "category": "Infrastructure",
+  "subcategory": "MassGIS-MassDOT Roads",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "roads",
+    "road network",
+    "massgis",
+    "massdot",
+    "eotroads_arc",
+    "gisdata",
+    "street",
+    "highway",
+    "transportation",
+    "road types",
+    "infrastructure"
+  ],
+  "column_summary": "OBJECTID, STREETNAME, CLASS, ADMIN_TYPE, RT_NUMBER, ALTRTNUM1, ALTRTNUM2, ALTRTNUM3, ALTRTNUM4, ALTRT1TYPE, RDTYPE, ROUTE_ID, ROUTE_SYSTEM, ROUTE_NUMBER, ROUTE_DIRECTION, RD_SEG_ID, STREET_NAME, FM_ST_NAME, TO_ST_NAME, FACILITY, F_CLASS, URBAN_AREA, URBAN_TYPE, F_F_CLASS, JURISDICTN, NHS, FD_AID_RTE, FD_AID_RD, CONTROL, NUM_LANES, OPP_LANES, SURFACE_TP, SURFACE_WD, SHLDR_RT_W, SHLDR_RT_T, SHLDR_LT_W, SHLDR_LT_T, SHLDR_UL_W, SHLDR_UL_T, MED_WIDTH, MED_TYPE, CURB, LT_SIDEWLK, RT_SIDEWLK, OPERATION, SPEED_LIM, OP_DIR_SL, TRUCK, T_EXC_TYPE, T_EXC_TIME, TRK_NETWRK, TRUCK_RTE, ROW_WIDTH, STRUCT_CND, TERRAIN, TOLL_ROAD, MHS, MGIS_TOWN, CITY, COUNTY, HWY_DIST, MPO, RPA, RTA, MILE_COUNT, AADT, AADT_YEAR, AADT_DERIV, LENGTH_MI, LENGTH_FT, SHAPE, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Wards and Precincts 2012 Labels",
+  "document_id": "massgis:GISDATA.WARDSPRECINCTS2012_POLY",
+  "layer_id": "massgis:GISDATA.WARDSPRECINCTS2012_POLY",
+  "layer_type": "poly",
+  "layer_date": "2012",
+  "layer_description": "GeoServer layer: GISDATA.WARDSPRECINCTS2012_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Wards and Precincts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "wards",
+    "precincts",
+    "ward labels",
+    "precinct labels",
+    "2012 wards",
+    "2012 precincts",
+    "political boundaries",
+    "administrative boundaries",
+    "massachusetts wards",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, WP_NAME, WARD, PRECINCT, DISTRICT, POP_2010, TOWN, TOWN_ID, AREA_SQMI, AREA_ACRES, YEAR, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

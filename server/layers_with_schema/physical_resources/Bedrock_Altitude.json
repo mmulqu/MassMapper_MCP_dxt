@@ -1,0 +1,24 @@
+{
+  "document_title": "Bedrock Altitude",
+  "document_id": "Bedrock_Altitude",
+  "layer_id": "Bedrock_Altitude",
+  "layer_type": "tiled_overlay",
+  "layer_date": "",
+  "layer_description": "",
+  "category": "Physical Resources",
+  "subcategory": "Depth to Bedrock",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "bedrock altitude",
+    "bedrock elevation",
+    "bedrock depth",
+    "depth to bedrock",
+    "altitude of bedrock",
+    "bedrock surface",
+    "bedrock topography",
+    "subsurface bedrock",
+    "geology bedrock",
+    "bedrock map"
+  ]
+}

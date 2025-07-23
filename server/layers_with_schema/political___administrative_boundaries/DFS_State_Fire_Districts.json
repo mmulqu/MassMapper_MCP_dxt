@@ -1,0 +1,25 @@
+{
+  "document_title": "DFS State Fire Districts",
+  "document_id": "massgis:GISDATA.DFS_SFD_POLY",
+  "layer_id": "massgis:GISDATA.DFS_SFD_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DFS_SFD_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "DFS Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dfs",
+    "state fire districts",
+    "fire districts",
+    "massachusetts fire districts",
+    "fire district map",
+    "massgis fire districts",
+    "dfs_sfd_poly",
+    "fire protection districts",
+    "political administrative boundaries",
+    "fire safety districts"
+  ],
+  "column_summary": "OBJECTID, STATE_FIRE, COUNT_SF, FIRST_DEPT, LAST_DEPT, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

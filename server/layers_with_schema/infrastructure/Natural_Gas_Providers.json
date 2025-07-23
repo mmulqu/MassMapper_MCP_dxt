@@ -1,0 +1,25 @@
+{
+  "document_title": "Natural Gas Providers",
+  "document_id": "massgis:GISDATA.TOWNS_POLY_V_GAS",
+  "layer_id": "massgis:GISDATA.TOWNS_POLY_V_GAS",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TOWNS_POLY_V_GAS",
+  "category": "Infrastructure",
+  "subcategory": "Public Utility Providers",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "natural gas",
+    "gas providers",
+    "public utility providers",
+    "gas infrastructure",
+    "gas utilities",
+    "natural gas providers",
+    "gas distribution",
+    "massgis gas layer",
+    "towns poly gas",
+    "gas service areas"
+  ],
+  "column_summary": "TOWN, TOWN_ID, GAS, GAS_LABEL, SHAPE, OBJECTID, SHAPE.AREA, SHAPE.LEN"
+}

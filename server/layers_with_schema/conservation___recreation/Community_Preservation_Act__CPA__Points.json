@@ -1,0 +1,25 @@
+{
+  "document_title": "Community Preservation Act (CPA) Points",
+  "document_id": "massgis:AFREEMAN.CPA_PROJECTS_NEW_PUB",
+  "layer_id": "massgis:AFREEMAN.CPA_PROJECTS_NEW_PUB",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: AFREEMAN.CPA_PROJECTS_NEW_PUB",
+  "category": "Conservation / Recreation",
+  "subcategory": "Community Preservation Act",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "community preservation act",
+    "cpa",
+    "cpa projects",
+    "cpa points",
+    "community preservation",
+    "historic preservation",
+    "open space",
+    "recreation projects",
+    "conservation",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, PROJID, PROJNAME, TOWN, TOWN_ID, APPR_MONTH, APPR_DAY, APPR_YR, OPENSPACE, HOUSING, RECREATION, HISTORIC, DESCR, HOUSNEW, HOUSREHAB, LANDBUY, OSACRES, HOUSACRES, RECACRES, HISTACRES, TOTACRES, SELLER, STATUS, HAS_GEOG, ADD_NUMBER, ADD_STREET, CROSSTREET, ADD_ZIP, OTHER_GEOG, EDITOR, LASTEDITED, SOURCE, HOUSTOT, TO_FUND, TBD_ACRES, CANCELED_W, FUND_TRUST, NO_RESTRIC, CRCON, CRCON_NAME, CRCON_DATE, CRCON_BKPG, CRCON_REG, CRREC, CRREC_NAME, CRREC_DATE, CRREC_BKPG, CRREC_REG, APR, APR_NAME, APR_DATE, APR_BKPG, APR_REG, HPR, HPR_NAME, HPR_DATE, HPR_BKPG, HPR_REG, HR, HR_NAME, HR_DATE, HR_BKPG, HR_REG, CPA_HOUS, CPA_OS, CPA_REC, CPA_HIST, CPA_TOT, OTH_TOWN, PRIVATE, STATE, FEDERAL, OTHER, OTHER_DESC, TOT_COST, TOTBOND, BONDTERM, FROM_FUND, CPA_TBD, SHAPE"
+}

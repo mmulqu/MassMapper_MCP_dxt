@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Critical Natural Landscape Components: Landscape Blocks",
+  "document_id": "massgis:GISDATA.BM3_CNL_LANDSCAPE_BLOCKS",
+  "layer_id": "massgis:GISDATA.BM3_CNL_LANDSCAPE_BLOCKS",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_CNL_LANDSCAPE_BLOCKS",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap",
+    "critical natural landscape",
+    "landscape blocks",
+    "cnl blocks",
+    "natural heritage",
+    "conservation recreation",
+    "biodiversity mapping",
+    "bm3 cnl",
+    "gisdata bm3",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, CNL_LB_ID, AC_CNL_LB, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

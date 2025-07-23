@@ -1,0 +1,25 @@
+{
+  "document_title": "MSAG Communities",
+  "document_id": "massgis:MAD.MAD_MSAG_COMMUNITY_POLYM",
+  "layer_id": "massgis:MAD.MAD_MSAG_COMMUNITY_POLYM",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: MAD.MAD_MSAG_COMMUNITY_POLYM",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "MSAG Communities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "msag",
+    "msag communities",
+    "community boundaries",
+    "municipal boundaries",
+    "administrative boundaries",
+    "political boundaries",
+    "massachusetts",
+    "massgis",
+    "polygon",
+    "msag polygons"
+  ],
+  "column_summary": "OBJECTID, COMMUNITY_ID, COMMUNITY_NAME, ADDRESS_TOWN_ID, STATE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

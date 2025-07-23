@@ -1,0 +1,25 @@
+{
+  "document_title": "Shellfish Sampling Stations",
+  "document_id": "massgis:GISDATA.SHLFSHST_PT",
+  "layer_id": "massgis:GISDATA.SHLFSHST_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SHLFSHST_PT",
+  "category": "Environmental Monitoring (testing/monitoring sites)",
+  "subcategory": "Shellfish Sampling Stations",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "shellfish sampling",
+    "shellfish stations",
+    "sampling stations",
+    "shellfish monitoring",
+    "shellfish testing",
+    "environmental monitoring",
+    "water sampling",
+    "seafood safety",
+    "marine sampling",
+    "shellfish sites"
+  ],
+  "column_summary": "OBJECTID, SHLFSHST_I, GRW_AREACD, CL_AREANM, STAT_TYPE, STAT_NAME, STAT_DATE, LOCATION, SHAPE"
+}

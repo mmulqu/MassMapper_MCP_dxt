@@ -1,0 +1,25 @@
+{
+  "document_title": "EOHHS Regions Outlines",
+  "document_id": "massgis:GISDATA.REGEOHHS_ARC",
+  "layer_id": "massgis:GISDATA.REGEOHHS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGEOHHS_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Exec. Office of Health and Human Services Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "eohhs regions",
+    "health and human services",
+    "health services regions",
+    "administrative boundaries",
+    "massachusetts regions",
+    "state health regions",
+    "eohhs outlines",
+    "regional boundaries",
+    "ma health regions",
+    "exec office health human"
+  ],
+  "column_summary": "OBJECTID, OUTLINE, SHAPE, SHAPE.LEN"
+}

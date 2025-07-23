@@ -1,0 +1,25 @@
+{
+  "document_title": "MBTA Bus Stops",
+  "document_id": "massgis:GISDATA.MBTABUSSTOPS_PT",
+  "layer_id": "massgis:GISDATA.MBTABUSSTOPS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MBTABUSSTOPS_PT",
+  "category": "Infrastructure",
+  "subcategory": "MBTA Bus Routes and Stops",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mbta",
+    "mbta bus stops",
+    "bus stops",
+    "mbta bus",
+    "public transit",
+    "bus routes",
+    "mbta stops",
+    "bus stop locations",
+    "massachusetts",
+    "transportation stops"
+  ],
+  "column_summary": "OBJECTID, STOP_ID, STOP_NAME, TOWN, TOWN_ID, SHAPE"
+}

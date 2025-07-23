@@ -1,0 +1,23 @@
+{
+  "document_title": "2005 Aerial Imagery",
+  "document_id": "Orthos_2005",
+  "layer_id": "Orthos_2005",
+  "layer_type": "tiled_overlay",
+  "layer_date": "2005",
+  "layer_description": "Aerial/satellite imagery.",
+  "category": "Images",
+  "subcategory": "Aerial Photos (Ortho Imagery)",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "2005 aerial imagery",
+    "aerial imagery",
+    "ortho imagery",
+    "orthophoto",
+    "aerial photos",
+    "satellite imagery",
+    "2005 imagery",
+    "massgis ortho",
+    "geoserver imagery"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Land Cover Land Use (2016)",
+  "document_id": "massgis:GISDATA.LANDCOVER_LANDUSE_POLY",
+  "layer_id": "massgis:GISDATA.LANDCOVER_LANDUSE_POLY",
+  "layer_type": "poly",
+  "layer_date": "2016",
+  "layer_description": "GeoServer layer: GISDATA.LANDCOVER_LANDUSE_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Land Use",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "land cover",
+    "land use",
+    "land cover land use",
+    "2016 land cover",
+    "2016 land use",
+    "land cover polygons",
+    "land use polygons",
+    "massgis land cover",
+    "land cover map",
+    "land use map"
+  ],
+  "column_summary": "OBJECTID, COVERNAME, COVERCODE, USEGENNAME, USEGENCODE, USE_CODE, POLY_TYPE, FY, TOWN_ID, TILENAME, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

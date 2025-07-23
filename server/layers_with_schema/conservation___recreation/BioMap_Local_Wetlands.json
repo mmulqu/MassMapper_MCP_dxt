@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Local Wetlands",
+  "document_id": "massgis:GISDATA.BM3_LOCAL_WETLANDS",
+  "layer_id": "massgis:GISDATA.BM3_LOCAL_WETLANDS",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Wetland area information. GeoServer layer: GISDATA.BM3_LOCAL_WETLANDS",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap",
+    "bm3",
+    "local wetlands",
+    "wetlands",
+    "wetland areas",
+    "conservation",
+    "natural heritage",
+    "massgis",
+    "geoserver",
+    "habitat protection"
+  ],
+  "column_summary": "OBJECTID, LOC_WC_ID, AC_LOCWC, INTEGRITY, RESILIENCE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,23 @@
+{
+  "document_title": "NHESP Certified Vernal Pools",
+  "document_id": "massgis:GISDATA.CVP_PT",
+  "layer_id": "massgis:GISDATA.CVP_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CVP_PT",
+  "category": "Physical Resources",
+  "subcategory": "Priority Natural Vegetation Communities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "nhesp certified vernal pools",
+    "vernal pools",
+    "certified vernal pools",
+    "nhesp",
+    "wetland",
+    "ephemeral pools",
+    "massgis",
+    "priority natural vegetation communities"
+  ],
+  "column_summary": "OBJECTID, CVP_NUM, CRITERIA, CERTIFIED, SHAPE"
+}

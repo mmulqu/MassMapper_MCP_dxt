@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2000 Town Boundaries Outlines",
+  "document_id": "massgis:GISDATA.CENSUS2000TOWNS_ARC",
+  "layer_id": "massgis:GISDATA.CENSUS2000TOWNS_ARC",
+  "layer_type": "line",
+  "layer_date": "2000",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2000TOWNS_ARC",
+  "category": "Census",
+  "subcategory": "Census 2000",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2000",
+    "census 2000 towns",
+    "census boundaries",
+    "town boundaries",
+    "town outlines",
+    "town borders",
+    "town lines",
+    "municipal boundaries",
+    "massachusetts towns",
+    "census town outlines"
+  ],
+  "column_summary": "OBJECTID, OUTLINE, SHAPE, SHAPE.LEN"
+}

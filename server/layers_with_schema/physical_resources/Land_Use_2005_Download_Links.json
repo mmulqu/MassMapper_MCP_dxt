@@ -1,0 +1,25 @@
+{
+  "document_title": "Land Use 2005 Download Links",
+  "document_id": "massgis:GISDATA.LANDUSE_INDEX_POLY",
+  "layer_id": "massgis:GISDATA.LANDUSE_INDEX_POLY",
+  "layer_type": "poly",
+  "layer_date": "2005",
+  "layer_description": "GeoServer layer: GISDATA.LANDUSE_INDEX_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Land Use",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "land use",
+    "land use 2005",
+    "land use index",
+    "land use polygon",
+    "land use poly",
+    "massgis land use",
+    "gisdata landuse",
+    "land use map",
+    "land use layer",
+    "physical resources"
+  ],
+  "column_summary": "OBJECTID_1, OBJECTID, TOWN, TOWN_ID, SHAPE_LENG, URL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

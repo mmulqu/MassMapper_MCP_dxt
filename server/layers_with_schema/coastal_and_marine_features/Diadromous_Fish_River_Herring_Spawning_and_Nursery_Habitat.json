@@ -1,0 +1,25 @@
+{
+  "document_title": "Diadromous Fish River Herring Spawning and Nursery Habitat",
+  "document_id": "massgis:GISDATA.DF_RIVER_HERRING_SPAWNING_NURSERY_HABITAT_POLY",
+  "layer_id": "massgis:GISDATA.DF_RIVER_HERRING_SPAWNING_NURSERY_HABITAT_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DF_RIVER_HERRING_SPAWNING_NURSERY_HABITAT_POLY",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Diadromous Fish",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "river herring",
+    "herring spawning",
+    "nursery habitat",
+    "diadromous fish",
+    "anadromous fish",
+    "fish habitat",
+    "spawning habitat",
+    "river habitat",
+    "massgis",
+    "coastal marine"
+  ],
+  "column_summary": "OBJECTID, NAME, ACCESSIBLE, FALL_RESTRICTION, SPRING_RESTRICTION, CREATIONDATE, CREATOR, EDITDATE, EDITOR, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

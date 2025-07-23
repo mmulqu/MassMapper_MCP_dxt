@@ -1,0 +1,25 @@
+{
+  "document_title": "Lighthouses",
+  "document_id": "massgis:GISDATA.LIGHTHOUSES_PT",
+  "layer_id": "massgis:GISDATA.LIGHTHOUSES_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.LIGHTHOUSES_PT",
+  "category": "Infrastructure",
+  "subcategory": "Lighthouses",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "lighthouses",
+    "lighthouse",
+    "coastal navigation",
+    "beacon",
+    "maritime",
+    "harbor lights",
+    "light stations",
+    "coastal markers",
+    "shore lights",
+    "nautical"
+  ],
+  "column_summary": "OBJECTID, LOCATION, NAME, CONTROL, USE, NRHP, TYPE, SHAPE"
+}

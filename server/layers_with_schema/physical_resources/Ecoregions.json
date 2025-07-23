@@ -1,0 +1,25 @@
+{
+  "document_title": "Ecoregions",
+  "document_id": "massgis:GISDATA.ECOREGIONS_POLY",
+  "layer_id": "massgis:GISDATA.ECOREGIONS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.ECOREGIONS_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Ecoregions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "ecoregions",
+    "ecological regions",
+    "ecozones",
+    "bioregions",
+    "massachusetts ecoregions",
+    "natural divisions",
+    "environmental regions",
+    "physiographic provinces",
+    "ecoregion map",
+    "gisdata.ecoregions_poly"
+  ],
+  "column_summary": "OBJECTID, ECOID, ECONAME, FUZZY, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

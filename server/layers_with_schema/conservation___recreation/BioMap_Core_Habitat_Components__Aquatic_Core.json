@@ -1,0 +1,23 @@
+{
+  "document_title": "BioMap Core Habitat Components: Aquatic Core",
+  "document_id": "massgis:GISDATA.BM3_CH_AQUATIC_CORE",
+  "layer_id": "massgis:GISDATA.BM3_CH_AQUATIC_CORE",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_CH_AQUATIC_CORE",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap",
+    "core habitat",
+    "aquatic core",
+    "aquatic habitat",
+    "bm3",
+    "natural heritage",
+    "massgis",
+    "conservation"
+  ],
+  "column_summary": "OBJECTID, CH_AC_ID, AC_CH_AC, AC_SUB_AC, STREAMBIOD, NATRICH, RARESP, ANAD, MUSSEL, WILD_TR, EBTR, BS_CCS, TWOSTORYPD, PDFISHCOND, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

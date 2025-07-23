@@ -1,0 +1,25 @@
+{
+  "document_title": "Commuter Rail Stations",
+  "document_id": "massgis:GISDATA.TRAINS_NODE",
+  "layer_id": "massgis:GISDATA.TRAINS_NODE",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TRAINS_NODE",
+  "category": "Infrastructure",
+  "subcategory": "Trains",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "commuter rail stations",
+    "rail stations",
+    "train stops",
+    "mbta commuter rail",
+    "commuter trains",
+    "public transit stations",
+    "rail transit",
+    "massgis trains",
+    "trains node",
+    "commuter rail map"
+  ],
+  "column_summary": "OBJECTID, STATION, C_RAILSTAT, AMTRAK, MAP_STA, LINE_BRNCH, STATE, SHAPE"
+}

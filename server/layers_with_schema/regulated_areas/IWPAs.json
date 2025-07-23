@@ -1,0 +1,23 @@
+{
+  "document_title": "IWPAs",
+  "document_id": "massgis:GISDATA.IWPA_POLY",
+  "layer_id": "massgis:GISDATA.IWPA_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.IWPA_POLY",
+  "category": "Regulated Areas",
+  "subcategory": "Wellhead Protection Areas",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "iwpa",
+    "iwpa poly",
+    "wellhead protection",
+    "wellhead protection area",
+    "interim wellhead protection",
+    "regulated areas",
+    "massgis",
+    "gisdata.iwpa_poly"
+  ],
+  "column_summary": "OBJECTID, SOURCE_ID, TYPE, SITE_NAME, SUPPLIER, TOWN, IWPA_FT, PWS_ID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

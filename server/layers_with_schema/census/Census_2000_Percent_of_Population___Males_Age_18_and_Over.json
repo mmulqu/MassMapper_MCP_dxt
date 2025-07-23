@@ -1,0 +1,24 @@
+{
+  "document_title": "Census 2000 Percent of Population = Males Age 18 and Over",
+  "document_id": "massgis:GISDATA.CEN2000_BG_LEGATTRIB",
+  "layer_id": "massgis:GISDATA.CEN2000_BG_LEGATTRIB",
+  "layer_type": "poly",
+  "layer_date": "2000",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CEN2000_BG_LEGATTRIB",
+  "category": "Census",
+  "subcategory": "Census 2000",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2000 percent male",
+    "male population 18 and over",
+    "percent male adults",
+    "census male age 18+",
+    "massgis census 2000",
+    "demographic male percentage",
+    "gisdata cen2000",
+    "block group legattrib",
+    "male adults over 18",
+    "percent of population males"
+  ]
+}

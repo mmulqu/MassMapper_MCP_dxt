@@ -1,0 +1,25 @@
+{
+  "document_title": "Potential Vernal Pools",
+  "document_id": "massgis:GISDATA.PVP_PT",
+  "layer_id": "massgis:GISDATA.PVP_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.PVP_PT",
+  "category": "Physical Resources",
+  "subcategory": "Priority Natural Vegetation Communities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "potential vernal pools",
+    "vernal pools",
+    "pvp",
+    "pvp_pt",
+    "seasonal pools",
+    "amphibian breeding pools",
+    "wetlands",
+    "priority natural vegetation communities",
+    "physical resources",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, TOWN_ID, TOWN, PVP_NUMBER, SHAPE"
+}

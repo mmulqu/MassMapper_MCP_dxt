@@ -1,0 +1,25 @@
+{
+  "document_title": "Non MBTA RTAs",
+  "document_id": "massgis:GISDATA.RTASNONMBTA_POLY",
+  "layer_id": "massgis:GISDATA.RTASNONMBTA_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.RTASNONMBTA_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Regional Transit Authorities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "non mbta rta",
+    "regional transit authority",
+    "rta",
+    "massachusetts transit",
+    "public transit",
+    "rta boundaries",
+    "transit regions",
+    "transportation",
+    "political boundaries",
+    "gis layer"
+  ],
+  "column_summary": "OBJECTID, RTA, RTA_NAME, RTA_PHONE, RTA_ADDRES, RTA_URL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

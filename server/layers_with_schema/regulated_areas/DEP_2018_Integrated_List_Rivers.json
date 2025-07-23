@@ -1,0 +1,25 @@
+{
+  "document_title": "DEP 2018 Integrated List Rivers",
+  "document_id": "massgis:GISDATA.IL_2018_ARC_V",
+  "layer_id": "massgis:GISDATA.IL_2018_ARC_V",
+  "layer_type": "line",
+  "layer_date": "2018",
+  "layer_description": "GeoServer layer: GISDATA.IL_2018_ARC_V",
+  "category": "Regulated Areas",
+  "subcategory": "DEP Integrated List of Waters",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "rivers",
+    "streams",
+    "integrated list",
+    "dep rivers",
+    "waters",
+    "2018",
+    "massachusetts",
+    "massgis",
+    "gisdata",
+    "regulated areas"
+  ],
+  "column_summary": "WBID_2018, WATERSHED, WATERBODY, AU_ID, LOCATION1, LOCATION2, WATERCODE, WATERTYPE, AU_SIZE, SIZE_UNIT, CLASS, QUALIFIER, CATEGORY, REP_COUNT, USE, ATTAINMENT, ALERT, CAUSE, POLTNT_FLG, SOURCE, SRCE_CONF, ACTION_ID, REPORT_ID, REP_TITLE, INFO_NAME, OBJECTID, SHAPE, SHAPE.LEN"
+}

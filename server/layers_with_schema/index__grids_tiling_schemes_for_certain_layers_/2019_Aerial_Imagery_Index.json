@@ -1,0 +1,24 @@
+{
+  "document_title": "2019 Aerial Imagery Index",
+  "document_id": "massgis:GISDATA.COQ2019INDEX_POLY",
+  "layer_id": "massgis:GISDATA.COQ2019INDEX_POLY",
+  "layer_type": "poly",
+  "layer_date": "2019",
+  "layer_description": "Aerial/satellite imagery. GeoServer layer: GISDATA.COQ2019INDEX_POLY",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "2019 Aerial Imagery Index",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "2019 aerial imagery index",
+    "aerial imagery index",
+    "imagery index",
+    "2019 imagery grid",
+    "tile index",
+    "grid index",
+    "coq2019index",
+    "massgis imagery index",
+    "orthophotography index"
+  ],
+  "column_summary": "OBJECTID, TILENAME, ZONE, URL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

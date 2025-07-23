@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2010 Major Roads",
+  "document_id": "massgis:GISDATA.CENSUS2010TIGERROADS_ARC",
+  "layer_id": "massgis:GISDATA.CENSUS2010TIGERROADS_ARC",
+  "layer_type": "line",
+  "layer_date": "2010",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2010TIGERROADS_ARC",
+  "category": "Census",
+  "subcategory": "Census 2010",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census",
+    "census 2010",
+    "census roads",
+    "major roads",
+    "tiger roads",
+    "roads",
+    "highways",
+    "streets",
+    "massgis",
+    "geoserver"
+  ],
+  "column_summary": "OBJECTID, STATEFP, COUNTYFP, TLID, TFIDL, TFIDR, MTFCC, FULLNAME, SMID, LFROMADD, LTOADD, RFROMADD, RTOADD, ZIPL, ZIPR, DIVROAD, TNIDF, TNIDT, L_BLKID10, R_BLKID10, LTOWN, RTOWN, L_TOWNID, R_TOWNID, SHAPE, SHAPE.LEN"
+}

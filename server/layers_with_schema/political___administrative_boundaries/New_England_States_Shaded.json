@@ -1,0 +1,25 @@
+{
+  "document_title": "New England States Shaded",
+  "document_id": "massgis:GISDATA.NEWENGLAND_POLY",
+  "layer_id": "massgis:GISDATA.NEWENGLAND_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.NEWENGLAND_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "New England States",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "new england",
+    "new england states",
+    "maine",
+    "vermont",
+    "new hampshire",
+    "massachusetts",
+    "connecticut",
+    "rhode island",
+    "political boundaries",
+    "administrative boundaries"
+  ],
+  "column_summary": "OBJECTID, FIPS, NAME, ACRES, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

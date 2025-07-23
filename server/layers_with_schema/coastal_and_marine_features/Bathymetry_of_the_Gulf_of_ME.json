@@ -1,0 +1,25 @@
+{
+  "document_title": "Bathymetry of the Gulf of ME",
+  "document_id": "massgis:GISDATA.BATHYMGM_POLY",
+  "layer_id": "massgis:GISDATA.BATHYMGM_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BATHYMGM_POLY",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Bathymetry",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "bathymetry",
+    "gulf of maine",
+    "marine depth",
+    "sea floor",
+    "underwater topography",
+    "depth contours",
+    "coastal bathymetry",
+    "ocean mapping",
+    "bathymetric map",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, HIGH, LOW, DEPTHRANGE, DEPTHCODE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Massachusetts Emergency Preparedness Regional Labels",
+  "document_id": "massgis:GISDATA.REGDPHEP_POLY",
+  "layer_id": "massgis:GISDATA.REGDPHEP_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGDPHEP_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Emergency Preparedness Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massachusetts",
+    "emergency preparedness",
+    "emergency preparedness regions",
+    "regional labels",
+    "political boundaries",
+    "administrative boundaries",
+    "massgis",
+    "gisdata",
+    "geoserver",
+    "regdphep poly"
+  ],
+  "column_summary": "OBJECTID, REGION, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

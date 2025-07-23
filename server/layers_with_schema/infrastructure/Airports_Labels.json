@@ -1,0 +1,26 @@
+{
+  "document_title": "Airports Labels",
+  "document_id": "massgis:GISDATA.AIRPORTS_PT",
+  "layer_id": "massgis:GISDATA.AIRPORTS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.AIRPORTS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Airports",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "airports",
+    "airport labels",
+    "airport points",
+    "airport layer",
+    "massachusetts airports",
+    "massgis",
+    "airfields",
+    "aviation",
+    "runway labels",
+    "airport gis",
+    "gisdata.airports_pt"
+  ],
+  "column_summary": "OBJECTID, ID, TOWN, AIRPORT_NAME, OWNER_TYPE, FACILITY_TYPE, CLASS, RUNWAY, LATITUDE, LONGITUDE, ELEVATION, P_LENGTH, S_LENGTH, P_WIDTH, S_WIDTH, P_SURFACETYPE, S_SURFACETYPE, P_RUNWAYLIGHTS, S_RUNWAYLIGHTS, CONTROLTOWER, RESTAURANT, RENTALCAR, SERVICELEVEL, AIRSERVICE, SHAPE"
+}

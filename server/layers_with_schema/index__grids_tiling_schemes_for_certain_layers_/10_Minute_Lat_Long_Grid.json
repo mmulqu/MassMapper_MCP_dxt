@@ -1,0 +1,25 @@
+{
+  "document_title": "10 Minute Lat Long Grid",
+  "document_id": "massgis:GISDATA.MINLL10_ARC",
+  "layer_id": "massgis:GISDATA.MINLL10_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MINLL10_ARC",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "Lat/Long Grids",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "10 minute lat long grid",
+    "10 minute grid",
+    "lat long grid",
+    "latitude longitude grid",
+    "map grid",
+    "grid lines",
+    "spatial grid",
+    "coordinate grid",
+    "graticule",
+    "ten minute grid"
+  ],
+  "column_summary": "OBJECTID, LATITUDE, LONGITUDE, LINE_0, SHAPE, SHAPE.LEN"
+}

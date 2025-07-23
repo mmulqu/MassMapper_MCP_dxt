@@ -1,0 +1,25 @@
+{
+  "document_title": "Coastal Natural Community Systems",
+  "document_id": "massgis:GISDATA.VCCOASTAL_POLY",
+  "layer_id": "massgis:GISDATA.VCCOASTAL_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.VCCOASTAL_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Priority Natural Vegetation Communities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "coastal natural communities",
+    "coastal vegetation",
+    "salt marsh",
+    "dune systems",
+    "barrier beach",
+    "tidal wetlands",
+    "coastal habitats",
+    "marine communities",
+    "shoreline vegetation",
+    "priority natural vegetation"
+  ],
+  "column_summary": "OBJECTID, NHCODE, COMM_TYPE, COMM_DESC, LABEL, GEN_LABEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "NRCS HUC 10",
+  "document_id": "massgis:GISDATA.NRCSHUC10_POLY",
+  "layer_id": "massgis:GISDATA.NRCSHUC10_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.NRCSHUC10_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Watersheds",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "nrcs",
+    "huc",
+    "huc10",
+    "huc 10",
+    "hydrologic unit",
+    "hydrologic units",
+    "watershed",
+    "watersheds",
+    "watershed boundary",
+    "watershed boundaries"
+  ],
+  "column_summary": "OBJECTID, HU_10_NAME, HUC_10, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

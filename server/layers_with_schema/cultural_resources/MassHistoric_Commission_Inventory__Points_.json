@@ -1,0 +1,25 @@
+{
+  "document_title": "MassHistoric Commission Inventory (Points)",
+  "document_id": "massgis:GISDATA.MHCINV_PT",
+  "layer_id": "massgis:GISDATA.MHCINV_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MHCINV_PT",
+  "category": "Cultural Resources",
+  "subcategory": "MassHistoric Commission",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mass historic commission",
+    "mhcinv",
+    "historic inventory",
+    "historic sites",
+    "historic points",
+    "cultural resources",
+    "archaeological sites",
+    "historic properties",
+    "historic landmarks",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, MHCN, DEMOLISHED, TYPE, DESIGNATIO, D_DATE, LEGEND, HISTORIC_N, COMMON_NAM, ADDRESS, TOWN_NAME, CONSTRUCTI, ARCHITECTU, MAKER, USE_TYPE, SIGNIFICAN, SHAPE"
+}

@@ -1,0 +1,27 @@
+{
+  "document_title": "Orthophoto OQ Index 4000m Grid Mainland",
+  "document_id": "massgis:GISDATA.OQMAIN_POLY",
+  "layer_id": "massgis:GISDATA.OQMAIN_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Aerial/satellite imagery. GeoServer layer: GISDATA.OQMAIN_POLY",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "Orthophoto OQ Index 4000m Grid",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "orthophoto",
+    "aerial imagery",
+    "satellite imagery",
+    "4000m grid",
+    "grid index",
+    "orthophoto grid",
+    "orthoquad",
+    "oq index",
+    "mainland",
+    "tiling scheme",
+    "map grid",
+    "index map"
+  ],
+  "column_summary": "OBJECTID, SHEET_ID, PROJECT, DATEPHOTO, DATEDIGITA, DATECONTOU, DATECONTRO, DATEPOINTS, DATEROADS, DATEWET, DATESTRM, USGSPHOTO, PROJ_AREA, CD_ID, CD_COPIES, COMMENT_, INDEX_ID, COQMOSAIC, COQMOSCD, SDE_MOS, SDE_MOS2, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

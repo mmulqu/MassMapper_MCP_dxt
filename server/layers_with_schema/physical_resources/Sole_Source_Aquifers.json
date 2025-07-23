@@ -1,0 +1,25 @@
+{
+  "document_title": "Sole Source Aquifers",
+  "document_id": "massgis:GISDATA.AQSOLE_POLY",
+  "layer_id": "massgis:GISDATA.AQSOLE_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.AQSOLE_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Aquifers",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "sole source aquifer",
+    "aquifer",
+    "groundwater",
+    "drinking water",
+    "water supply",
+    "aquifer protection",
+    "massachusetts aquifers",
+    "federal designation",
+    "physical resources",
+    "gisdata.aqsole_poly"
+  ],
+  "column_summary": "OBJECTID, SSA_ID, SSA_NAME, FR_ID, COORDINATO, PHONE, EMAIL, SQ_MI, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

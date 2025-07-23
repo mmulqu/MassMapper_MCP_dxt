@@ -1,0 +1,25 @@
+{
+  "document_title": "Zone IIs Dissolved",
+  "document_id": "massgis:GISDATA.ZONE2_POLY_DISSOLVE",
+  "layer_id": "massgis:GISDATA.ZONE2_POLY_DISSOLVE",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.ZONE2_POLY_DISSOLVE",
+  "category": "Regulated Areas",
+  "subcategory": "Wellhead Protection Areas",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "zone iis",
+    "zone ii dissolved",
+    "wellhead protection areas",
+    "regulated areas",
+    "massgis zone 2",
+    "groundwater protection",
+    "drinking water protection",
+    "dissolved boundaries",
+    "drinking water zone",
+    "wellhead zone"
+  ],
+  "column_summary": "OBJECTID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

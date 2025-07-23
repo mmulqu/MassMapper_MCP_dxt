@@ -1,0 +1,26 @@
+{
+  "document_title": "BioMap Local Aquatic Habitat Buffers",
+  "document_id": "massgis:GISDATA.BM3_LOCAL_AQUATIC_HAB_BUFFER",
+  "layer_id": "massgis:GISDATA.BM3_LOCAL_AQUATIC_HAB_BUFFER",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_LOCAL_AQUATIC_HAB_BUFFER",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap",
+    "local aquatic habitat",
+    "habitat buffers",
+    "aquatic buffer",
+    "stream buffer",
+    "wetland buffer",
+    "natural heritage",
+    "conservation",
+    "water protection",
+    "massgis",
+    "bm3"
+  ],
+  "column_summary": "OBJECTID, LOCAHB_ID, ACLOCAHB, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

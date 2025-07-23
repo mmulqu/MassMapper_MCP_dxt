@@ -1,0 +1,24 @@
+{
+  "document_title": "Rhode Island Towns",
+  "document_id": "massgis:GISDATA.RITOWNS_POLY",
+  "layer_id": "massgis:GISDATA.RITOWNS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.RITOWNS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "New England States",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "rhode island",
+    "rhode island towns",
+    "ri towns",
+    "ri municipalities",
+    "municipal boundaries",
+    "town boundaries",
+    "political boundaries",
+    "administrative boundaries",
+    "new england"
+  ],
+  "column_summary": "OBJECTID, NAME, OSP_CODE, TFIPS_CODE, CFIPS_CODE, COUNTY, LAND, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

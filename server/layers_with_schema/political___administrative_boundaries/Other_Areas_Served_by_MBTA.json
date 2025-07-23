@@ -1,0 +1,25 @@
+{
+  "document_title": "Other Areas Served by MBTA",
+  "document_id": "massgis:GISDATA.RTASMBTAOTHER_POLY",
+  "layer_id": "massgis:GISDATA.RTASMBTAOTHER_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.RTASMBTAOTHER_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Regional Transit Authorities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mbta",
+    "mbta service area",
+    "other areas served by mbta",
+    "mbta boundaries",
+    "regional transit authorities",
+    "rta",
+    "political boundaries",
+    "administrative boundaries",
+    "transit service areas",
+    "geoserver"
+  ],
+  "column_summary": "OBJECTID, LABEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

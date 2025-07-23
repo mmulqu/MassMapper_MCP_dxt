@@ -1,0 +1,25 @@
+{
+  "document_title": "MassDEP Seagrass Phase 3: 2006,2007",
+  "document_id": "massgis:GISDATA.EELGRASS2006_7_POLY",
+  "layer_id": "massgis:GISDATA.EELGRASS2006_7_POLY",
+  "layer_type": "poly",
+  "layer_date": "2006",
+  "layer_description": "GeoServer layer: GISDATA.EELGRASS2006_7_POLY",
+  "category": "Coastal and Marine Features",
+  "subcategory": "MassDEP Seagrass",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "seagrass",
+    "eelgrass",
+    "massdep seagrass",
+    "phase 3 seagrass",
+    "eelgrass 2006",
+    "eelgrass 2007",
+    "seagrass 2006",
+    "seagrass 2007",
+    "coastal marine features",
+    "massdep"
+  ],
+  "column_summary": "OBJECTID, HABITAT, YEAR, STUDYAREA, AREA_ACRES, EMBAYMENT, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

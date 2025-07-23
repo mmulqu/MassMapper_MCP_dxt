@@ -1,0 +1,25 @@
+{
+  "document_title": "Boston Harbor Water Taxi Stops",
+  "document_id": "massgis:GISDATA.WATERTAXISTOPS_PT",
+  "layer_id": "massgis:GISDATA.WATERTAXISTOPS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "Property boundary and tax information. GeoServer layer: GISDATA.WATERTAXISTOPS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Boston Harbor Water Taxi Stops",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "boston harbor water taxi stops",
+    "water taxi stops",
+    "boston water taxi",
+    "harbor water taxi",
+    "boat taxi stops",
+    "maritime transport",
+    "massgis watertaxistops",
+    "gisdata",
+    "geoserver",
+    "infrastructure"
+  ],
+  "column_summary": "OBJECTID, TAXI_STOP, SERVICE, ADDITIONAL_SERVICE, SHAPE"
+}

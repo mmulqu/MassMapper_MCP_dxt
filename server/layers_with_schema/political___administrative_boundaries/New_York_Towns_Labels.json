@@ -1,0 +1,25 @@
+{
+  "document_title": "New York Towns Labels",
+  "document_id": "massgis:GISDATA.NYTOWNS_POLY",
+  "layer_id": "massgis:GISDATA.NYTOWNS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.NYTOWNS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "New England States",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "new york towns",
+    "new york towns labels",
+    "ny towns",
+    "town boundaries",
+    "town labels",
+    "new england states",
+    "political boundaries",
+    "administrative boundaries",
+    "massgis",
+    "gisdata.nytowns_poly"
+  ],
+  "column_summary": "OBJECTID, LABEL, SWIS, SYM, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

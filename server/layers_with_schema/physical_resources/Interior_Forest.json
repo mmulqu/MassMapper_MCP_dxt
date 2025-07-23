@@ -1,0 +1,25 @@
+{
+  "document_title": "Interior Forest",
+  "document_id": "massgis:GISDATA.INTERIORFOREST_POLY",
+  "layer_id": "massgis:GISDATA.INTERIORFOREST_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.INTERIORFOREST_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Interior Forest",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "interior forest",
+    "forest interior",
+    "interior woodland",
+    "forest cover",
+    "forest polygon",
+    "physical resources",
+    "forest habitat",
+    "massgis interiorforest",
+    "interiorforest_poly",
+    "gisdata interiorforest"
+  ],
+  "column_summary": "OBJECTID, FID_INTFOR, LEVEL1_ID, LEV1_ACRES, LEV1_PERIM, LEV1_SQ_M, LEV1_AP_RA, ACRES_1830, ACRES_FOR, NMLD_ACRES, NMLD_APRA, NMLD_1830, NMLD_FOR, LU99_CODE, LEV2_ACRES, ST_PROT_AC, UNPR_RATIO, FOR_RATIO, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

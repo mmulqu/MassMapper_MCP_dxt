@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2000 Rivers and Streams",
+  "document_id": "massgis:GISDATA.CENSUS2000TIGER_ARC",
+  "layer_id": "massgis:GISDATA.CENSUS2000TIGER_ARC",
+  "layer_type": "line",
+  "layer_date": "2000",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2000TIGER_ARC",
+  "category": "Census",
+  "subcategory": "Census 2000",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2000 rivers",
+    "census 2000 streams",
+    "tiger arc",
+    "waterways",
+    "hydrography",
+    "massachusetts rivers",
+    "massachusetts streams",
+    "massgis",
+    "geoserver",
+    "tiger line"
+  ],
+  "column_summary": "OBJECTID_1, RT, VERSION, TLID, SIDE1, SOURCE, FEDIRP, FENAME, FETYPE, FEDIRS, CFCC, FRADDL, TOADDL, FRADDR, TOADDR, FRIADDL, TOIADDL, FRIADDR, TOIADDR, ZIPL, ZIPR, ZIPL_C, ZIPR_C, STREET, OBJECTID, SHAPE, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Collaborative School Districts",
+  "document_id": "massgis:GISDATA.SCHOOLDISTRICTS_CCUV_POLY_CO",
+  "layer_id": "massgis:GISDATA.SCHOOLDISTRICTS_CCUV_POLY_CO",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Educational facilities. GeoServer layer: GISDATA.SCHOOLDISTRICTS_CCUV_POLY_CO",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Public School Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "collaborative school districts",
+    "school districts",
+    "public school districts",
+    "educational boundaries",
+    "district boundaries",
+    "massachusetts",
+    "ccuv",
+    "gisdata",
+    "political boundaries",
+    "geoserver layer"
+  ],
+  "column_summary": "OBJECTID, TYPE, NAME, MEMBERS, NICKNAME, ORG8CODE, SCH8CODE, ORG4CODE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

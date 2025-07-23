@@ -1,0 +1,25 @@
+{
+  "document_title": "NEHRP Soil Classifications",
+  "document_id": "massgis:GISDATA.NEHRP_SITECLASS_POLY",
+  "layer_id": "massgis:GISDATA.NEHRP_SITECLASS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.NEHRP_SITECLASS_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Soils",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "nehrp",
+    "nehrp soil",
+    "nehrp site class",
+    "soil classification",
+    "site class",
+    "seismic soil class",
+    "earthquake soil class",
+    "site class map",
+    "massgis soils",
+    "seismic site class"
+  ],
+  "column_summary": "OBJECTID_1, TYPE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

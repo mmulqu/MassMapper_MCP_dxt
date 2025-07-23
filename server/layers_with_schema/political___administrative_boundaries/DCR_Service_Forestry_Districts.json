@@ -1,0 +1,26 @@
+{
+  "document_title": "DCR Service Forestry Districts",
+  "document_id": "massgis:GISDATA.DCR_SF_DISTRICTS_POLY",
+  "layer_id": "massgis:GISDATA.DCR_SF_DISTRICTS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DCR_SF_DISTRICTS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "DCR Service Forestry Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dcr service forestry districts",
+    "dcr",
+    "department of conservation and recreation",
+    "forestry districts",
+    "service forestry districts",
+    "political boundaries",
+    "administrative boundaries",
+    "massachusetts forestry",
+    "public lands",
+    "conservation",
+    "recreation"
+  ],
+  "column_summary": "OBJECTID, NAME, EMAIL, PHONE, DISTRICT, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

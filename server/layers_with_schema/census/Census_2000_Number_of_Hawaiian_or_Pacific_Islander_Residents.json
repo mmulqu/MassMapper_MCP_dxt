@@ -1,0 +1,24 @@
+{
+  "document_title": "Census 2000 Number of Hawaiian or Pacific Islander Residents",
+  "document_id": "massgis:GISDATA.CEN2000_BG_LEGATTRIB",
+  "layer_id": "massgis:GISDATA.CEN2000_BG_LEGATTRIB",
+  "layer_type": "poly",
+  "layer_date": "2000",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CEN2000_BG_LEGATTRIB",
+  "category": "Census",
+  "subcategory": "Census 2000",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "hawaiian residents",
+    "pacific islander residents",
+    "hawaiian population",
+    "pacific islander population",
+    "census 2000 demographics",
+    "massgis census 2000",
+    "census block groups",
+    "block group demographic",
+    "demographic data",
+    "massgis cen2000"
+  ]
+}

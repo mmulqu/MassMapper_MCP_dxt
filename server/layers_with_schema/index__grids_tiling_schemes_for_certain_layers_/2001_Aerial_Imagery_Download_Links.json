@@ -1,0 +1,25 @@
+{
+  "document_title": "2001 Aerial Imagery Download Links",
+  "document_id": "massgis:GISDATA.DOWNLOADLINKS_2001",
+  "layer_id": "massgis:GISDATA.DOWNLOADLINKS_2001",
+  "layer_type": "poly",
+  "layer_date": "2001",
+  "layer_description": "Aerial/satellite imagery. GeoServer layer: GISDATA.DOWNLOADLINKS_2001",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "2001 Aerial Imagery Download Links",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "2001 aerial imagery",
+    "aerial imagery",
+    "imagery download",
+    "download links",
+    "geoserver",
+    "grid index",
+    "tiling scheme",
+    "massgis",
+    "satellite imagery",
+    "orthoimagery"
+  ],
+  "column_summary": "OBJECTID_1, SHEET_ID, OBJECTID, URL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

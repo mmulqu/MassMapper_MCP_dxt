@@ -1,0 +1,25 @@
+{
+  "document_title": "Massachusetts Municipalities Muted Colors",
+  "document_id": "massgis:GISDATA.TOWNSSURVEY_ARC",
+  "layer_id": "massgis:GISDATA.TOWNSSURVEY_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TOWNSSURVEY_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "MA Town Boundaries",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massachusetts municipalities",
+    "massgis town boundaries",
+    "ma town boundaries",
+    "municipal boundaries",
+    "town borders",
+    "muted colors",
+    "political boundaries",
+    "administrative boundaries",
+    "geoserver layer",
+    "townssurvey arc"
+  ],
+  "column_summary": "OBJECTID, BND_QUAL, FINISHED, BND_UNCLAS, REASON, OUTLINE, SHAPE, SHAPE.LEN"
+}

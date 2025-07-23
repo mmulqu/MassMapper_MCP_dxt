@@ -1,0 +1,25 @@
+{
+  "document_title": "Marine Beaches Lines",
+  "document_id": "massgis:GISDATA.MARINEBEACHES_ARC",
+  "layer_id": "massgis:GISDATA.MARINEBEACHES_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MARINEBEACHES_ARC",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Marine Beaches",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "marine beaches",
+    "coastal beaches",
+    "beach lines",
+    "shoreline",
+    "coastline",
+    "beach boundaries",
+    "marine coast",
+    "massgis",
+    "geoserver",
+    "marine features"
+  ],
+  "column_summary": "OBJECTID, EPA_ID, TYPE, LENINMILES, BEACHNAME, TOWNNAME, SHAPE, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Park and Ride Lots",
+  "document_id": "massgis:GISDATA.PARKRIDELOTS_PT",
+  "layer_id": "massgis:GISDATA.PARKRIDELOTS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.PARKRIDELOTS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Park and Ride Lots",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "park and ride lots",
+    "parking lots",
+    "commuter parking",
+    "transit",
+    "bus station",
+    "massgis",
+    "commuter lots",
+    "public transit",
+    "parking",
+    "infrastructure"
+  ],
+  "column_summary": "OBJECTID, TOWN, LOCATION, STATUS, DISTRICT, OPERATOR, BIKE_RACKS, SHELTERS, PHONES, LIGHTS, FENCES, SIGNS, OWNER, CAPACITY, BUS_SERVICE, RAIL_SERVICE, BOAT_SERVICE, MAP_ID, MPO, SHAPE"
+}

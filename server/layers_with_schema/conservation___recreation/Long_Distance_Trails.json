@@ -1,0 +1,24 @@
+{
+  "document_title": "Long Distance Trails",
+  "document_id": "massgis:GISDATA.LONGDISTTRAILS_ARC",
+  "layer_id": "massgis:GISDATA.LONGDISTTRAILS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.LONGDISTTRAILS_ARC",
+  "category": "Conservation / Recreation",
+  "subcategory": "Trails",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "long distance trails",
+    "hiking trails",
+    "massachusetts trails",
+    "backcountry hiking",
+    "trail network",
+    "conservation trails",
+    "recreation paths",
+    "massgis trails",
+    "outdoor recreation"
+  ],
+  "column_summary": "OBJECTID, NAME, NAME2, SOURCE, GIS_MI, SHAPE, SHAPE.LEN"
+}

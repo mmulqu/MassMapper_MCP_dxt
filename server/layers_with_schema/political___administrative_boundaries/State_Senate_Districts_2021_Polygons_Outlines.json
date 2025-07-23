@@ -1,0 +1,25 @@
+{
+  "document_title": "State Senate Districts 2021 Polygons Outlines",
+  "document_id": "massgis:GISDATA.SENATE2021_POLY",
+  "layer_id": "massgis:GISDATA.SENATE2021_POLY",
+  "layer_type": "poly",
+  "layer_date": "2021",
+  "layer_description": "GeoServer layer: GISDATA.SENATE2021_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Legislative Districts 2021",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "state senate districts",
+    "senate districts 2021",
+    "massachusetts senate",
+    "ma senate districts",
+    "legislative districts",
+    "political boundaries",
+    "district outlines",
+    "senate map",
+    "2021 senate boundaries",
+    "senate shapefile"
+  ],
+  "column_summary": "OBJECTID, SENDISTNUM, SEN_DIST, SEN_FIRST, SEN_LAST, SEN_PARTY, SENATOR, URL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

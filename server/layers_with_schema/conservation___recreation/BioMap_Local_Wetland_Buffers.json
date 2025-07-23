@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Local Wetland Buffers",
+  "document_id": "massgis:GISDATA.BM3_LOCAL_WETLANDS_BUFFER",
+  "layer_id": "massgis:GISDATA.BM3_LOCAL_WETLANDS_BUFFER",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Wetland area information. GeoServer layer: GISDATA.BM3_LOCAL_WETLANDS_BUFFER",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "wetland buffers",
+    "local wetlands",
+    "wetland area",
+    "wetlands buffer",
+    "bio map",
+    "bm3 local wetlands",
+    "natural heritage",
+    "conservation recreation",
+    "geoserver",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, LOCWETBFID, ACLOCWCBUF, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

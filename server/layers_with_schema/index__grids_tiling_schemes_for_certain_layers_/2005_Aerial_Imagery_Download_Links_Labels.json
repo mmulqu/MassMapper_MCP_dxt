@@ -1,0 +1,25 @@
+{
+  "document_title": "2005 Aerial Imagery Download Links Labels",
+  "document_id": "massgis:GISDATA.DOWNLOADLINKS_2005",
+  "layer_id": "massgis:GISDATA.DOWNLOADLINKS_2005",
+  "layer_type": "poly",
+  "layer_date": "2005",
+  "layer_description": "Aerial/satellite imagery. GeoServer layer: GISDATA.DOWNLOADLINKS_2005",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "2005 Aerial Imagery Download Links",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "2005 aerial imagery",
+    "aerial imagery download",
+    "satellite imagery 2005",
+    "massgis download links",
+    "imagery labels",
+    "orthophotos 2005",
+    "imagery grid index",
+    "tiles download 2005",
+    "geoserver aerial imagery",
+    "download links labels"
+  ],
+  "column_summary": "OBJECTID_1, SHEET_ID, OBJECTID, URL_CS, URL_LOSSY, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

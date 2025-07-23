@@ -1,0 +1,25 @@
+{
+  "document_title": "Property Tax Parcels Miscellaneous Features",
+  "document_id": "massgis:GISDATA.L3_MISC_POLY",
+  "layer_id": "massgis:GISDATA.L3_MISC_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Property boundary and tax information. GeoServer layer: GISDATA.L3_MISC_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Property Tax Parcels",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "property tax parcels",
+    "tax parcels",
+    "property boundaries",
+    "parcel boundaries",
+    "miscellaneous features",
+    "massgis",
+    "geoserver layer",
+    "gisdata l3 misc poly",
+    "political administrative boundaries",
+    "parcel data"
+  ],
+  "column_summary": "OBJECTID, MISC_TYPE, TOWN_ID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,24 @@
+{
+  "document_title": "Transmissivity and Aquifer Yield",
+  "document_id": "massgis:GISDATA.SURFGEO24K_T_AY_POLY",
+  "layer_id": "massgis:GISDATA.SURFGEO24K_T_AY_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SURFGEO24K_T_AY_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Hydrogeologic Atlas of Mass.",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "transmissivity",
+    "aquifer yield",
+    "hydrogeologic atlas",
+    "groundwater",
+    "hydrology",
+    "water resources",
+    "massgis",
+    "24k atlas",
+    "physical resources"
+  ],
+  "column_summary": "OBJECTID, ID, MINT_FT2DA, AVGT_FT2DA, MAXT_FT2DA, AQFRYLD, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

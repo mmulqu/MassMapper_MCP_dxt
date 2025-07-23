@@ -1,0 +1,25 @@
+{
+  "document_title": "Seaports Labels",
+  "document_id": "massgis:GISDATA.SEAPORTS_PT",
+  "layer_id": "massgis:GISDATA.SEAPORTS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SEAPORTS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Seaports",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "seaports",
+    "port labels",
+    "harbor labels",
+    "shipping ports",
+    "maritime ports",
+    "port points",
+    "coastal ports",
+    "massgis seaports",
+    "seaport gis",
+    "gisdata seaports"
+  ],
+  "column_summary": "OBJECTID, IMS_TERMINALS_ID, TERM_NAME, FREIGHT, PASSENGER, NHS, TOWN, SERVICE, MPO, SHAPE"
+}

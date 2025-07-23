@@ -1,0 +1,25 @@
+{
+  "document_title": "MBTA Highest Assessment Area",
+  "document_id": "massgis:GISDATA.RTASMBTAHIGH_POLY",
+  "layer_id": "massgis:GISDATA.RTASMBTAHIGH_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.RTASMBTAHIGH_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Regional Transit Authorities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mbta",
+    "mbta highest assessment",
+    "mbta area",
+    "regional transit authorities",
+    "massachusetts bay transportation authority",
+    "political boundary",
+    "transportation boundary",
+    "rtasmbtahigh_poly",
+    "gisdata",
+    "geoserver layer"
+  ],
+  "column_summary": "OBJECTID, LABEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

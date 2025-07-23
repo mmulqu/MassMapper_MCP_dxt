@@ -1,0 +1,25 @@
+{
+  "document_title": "Ferry Routes Labels",
+  "document_id": "massgis:GISDATA.FERRYROUTES_ARC",
+  "layer_id": "massgis:GISDATA.FERRYROUTES_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.FERRYROUTES_ARC",
+  "category": "Infrastructure",
+  "subcategory": "Ferry Routes",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "ferry",
+    "ferry routes",
+    "ferry lines",
+    "boat routes",
+    "water transit",
+    "maritime transport",
+    "harbor ferries",
+    "island ferry",
+    "ferry network",
+    "massgis ferry"
+  ],
+  "column_summary": "OBJECTID, TYPE, OPERATOR, SERVICE, NHS, ROUTE, RTE_NUM, SHAPE, SHAPE.LEN"
+}

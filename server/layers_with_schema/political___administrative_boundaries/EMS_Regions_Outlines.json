@@ -1,0 +1,25 @@
+{
+  "document_title": "EMS Regions Outlines",
+  "document_id": "massgis:GISDATA.REGEMS_ARC",
+  "layer_id": "massgis:GISDATA.REGEMS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGEMS_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "EMS Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "ems regions",
+    "ems outlines",
+    "ems boundaries",
+    "emergency medical services",
+    "massgis",
+    "gisdata.regems_arc",
+    "massachusetts",
+    "political boundaries",
+    "administrative boundaries",
+    "ems region map"
+  ],
+  "column_summary": "OBJECTID, OUTLINE, SHAPE, SHAPE.LEN"
+}

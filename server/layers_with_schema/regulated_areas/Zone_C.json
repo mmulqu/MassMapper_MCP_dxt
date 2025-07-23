@@ -1,0 +1,25 @@
+{
+  "document_title": "Zone C",
+  "document_id": "massgis:GISDATA.SWP_ZONES_POLY",
+  "layer_id": "massgis:GISDATA.SWP_ZONES_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SWP_ZONES_POLY",
+  "category": "Regulated Areas",
+  "subcategory": "Surface Water Protection Areas",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "zone c",
+    "surface water protection",
+    "swp zones",
+    "swp zone c",
+    "water supply protection",
+    "regulated areas",
+    "massgis",
+    "gisdata swp zones poly",
+    "watershed protection",
+    "c protection zone"
+  ],
+  "column_summary": "OBJECTID, SOURCE_ID, SWPZONE, ACRES, SITE_NAME, PWSID, SUPPLIER, DELINYEAR, DELINTYPE, COMMENTS, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

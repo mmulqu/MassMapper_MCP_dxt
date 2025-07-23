@@ -1,0 +1,25 @@
+{
+  "document_title": "Tidelands Jurisdiction Chapter 91 Landlocked Tidelands",
+  "document_id": "massgis:GISDATA.CZM_LANDLOCK",
+  "layer_id": "massgis:GISDATA.CZM_LANDLOCK",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CZM_LANDLOCK",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Tidelands Jurisdiction Data Chapter 91",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "tidelands",
+    "chapter 91",
+    "landlocked tidelands",
+    "tidelands jurisdiction",
+    "coastal features",
+    "marine features",
+    "massgis",
+    "czm",
+    "geoserver",
+    "chapter91"
+  ],
+  "column_summary": "OBJECTID, MAPKEY, SHAPE, SHAPE.LEN"
+}

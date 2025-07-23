@@ -1,0 +1,25 @@
+{
+  "document_title": "Massachusetts Outline",
+  "document_id": "massgis:GISDATA.OUTLINESURVEY_POLY",
+  "layer_id": "massgis:GISDATA.OUTLINESURVEY_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.OUTLINESURVEY_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Massachusetts Outline",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massachusetts outline",
+    "ma outline",
+    "massachusetts boundary",
+    "state boundary",
+    "political boundaries",
+    "administrative boundaries",
+    "massgis",
+    "gisdata outlinesurvey",
+    "outline survey",
+    "geoserver layer"
+  ],
+  "column_summary": "OBJECTID, NAME, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

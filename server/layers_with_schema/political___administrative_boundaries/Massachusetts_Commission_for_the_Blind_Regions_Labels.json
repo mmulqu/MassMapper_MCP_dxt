@@ -1,0 +1,25 @@
+{
+  "document_title": "Massachusetts Commission for the Blind Regions Labels",
+  "document_id": "massgis:GISDATA.REGMCB_POLY",
+  "layer_id": "massgis:GISDATA.REGMCB_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGMCB_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Massachusetts Commission for the Blind Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massgis",
+    "commission for the blind",
+    "blind regions",
+    "mcb regions",
+    "regmcb_poly",
+    "gisdata.regmcb_poly",
+    "administrative boundaries",
+    "political boundaries",
+    "massachusetts blind",
+    "mcb polygon"
+  ],
+  "column_summary": "OBJECTID, SHAPE, REG_CODE, REGION, DIR_NAME, DIR_EMAIL, DIR_PHONE, ADRESS, PHONE, SHAPE.AREA, SHAPE.LEN"
+}

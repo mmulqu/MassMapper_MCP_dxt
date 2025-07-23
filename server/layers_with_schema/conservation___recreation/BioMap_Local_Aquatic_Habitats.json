@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Local Aquatic Habitats",
+  "document_id": "massgis:GISDATA.BM3_LOCAL_AQUATIC_HABITATS",
+  "layer_id": "massgis:GISDATA.BM3_LOCAL_AQUATIC_HABITATS",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_LOCAL_AQUATIC_HABITATS",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap local aquatic habitats",
+    "aquatic habitats",
+    "local aquatic",
+    "biomap",
+    "wetland habitats",
+    "stream habitats",
+    "pond habitats",
+    "conservation",
+    "natural heritage",
+    "biodiversity"
+  ],
+  "column_summary": "OBJECTID, LOC_AC_ID, AC_LAH, AC_SUB_LAH, STREAMBIOD, NATRICH, MUSSEL, WILD_TR, EBTR, PDFISHCOND, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

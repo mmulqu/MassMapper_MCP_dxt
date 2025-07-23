@@ -1,0 +1,25 @@
+{
+  "document_title": "DEP 2013 Surface Waters Represented as Arcs",
+  "document_id": "massgis:GISDATA.SWQS_2013_ARC",
+  "layer_id": "massgis:GISDATA.SWQS_2013_ARC",
+  "layer_type": "line",
+  "layer_date": "2013",
+  "layer_description": "GeoServer layer: GISDATA.SWQS_2013_ARC",
+  "category": "Regulated Areas",
+  "subcategory": "DEP Surface Water Quality Standards",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dep",
+    "2013",
+    "surface waters",
+    "surface water arcs",
+    "water quality standards",
+    "swqs",
+    "swqs 2013",
+    "regulated areas",
+    "massgis",
+    "geoserver"
+  ],
+  "column_summary": "OBJECTID, REG_DATE, REG_TABLE, REG_BASIN, WATERS, BOUNDARY, MILE_POINT, CLASS, QUALIFIER, COMMENT1, COMMENT2, WATERCODE, WATERS28, BOUNDARY28, BND28CONT, POLLUTANT, SSCRITERIA, COMMENT28A, COMMENT28B, SHAPE, SHAPE.LEN"
+}

@@ -1,0 +1,24 @@
+{
+  "document_title": "Community Preservation Act (CPA) Towns by Surcharge",
+  "document_id": "massgis:GISDATA.TOWNS_POLY_V_CPA",
+  "layer_id": "massgis:GISDATA.TOWNS_POLY_V_CPA",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TOWNS_POLY_V_CPA",
+  "category": "Conservation / Recreation",
+  "subcategory": "Community Preservation Act",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "community preservation act",
+    "cpa towns",
+    "cpa surcharge",
+    "town polygons",
+    "massgis",
+    "geoserver",
+    "conservation recreation",
+    "cpa map",
+    "massachusetts towns"
+  ],
+  "column_summary": "OBJECTID, TOWN, TOWN_ID, ELEC_DATE, BALLOT_PTH, PCT_YES, PCT_NO, SURCHARGE, EXEMPTIONS, ELEC_YEAR, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

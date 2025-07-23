@@ -1,0 +1,25 @@
+{
+  "document_title": "Acute Care Hospitals Trauma Center (Adult) Status",
+  "document_id": "massgis:GISDATA.HOSPITALS_PT",
+  "layer_id": "massgis:GISDATA.HOSPITALS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.HOSPITALS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Hospitals",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "acute",
+    "care",
+    "hospital",
+    "trauma",
+    "center",
+    "adult",
+    "emergency",
+    "medical",
+    "healthcare",
+    "facility"
+  ],
+  "column_summary": "OBJECTID, IDNUMBER, DPHID, NAME, SHORTNAME, ADDRESS, TOWN, GEOG_TOWN, ZIPCODE, CHIAREGION, TELEPHONE, COHORT, HOSPSYSTEM, TAXSTATUS, BEDCOUNT, ER_STATUS, TRAUMA_ADU, TRAUMA_PED, FYE, MADID, EMSREGION, SHAPE"
+}

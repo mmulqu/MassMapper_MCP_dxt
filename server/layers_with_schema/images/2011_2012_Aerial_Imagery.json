@@ -1,0 +1,24 @@
+{
+  "document_title": "2011-2012 Aerial Imagery",
+  "document_id": "DigitalGlobe_2011_2012",
+  "layer_id": "DigitalGlobe_2011_2012",
+  "layer_type": "tiled_overlay",
+  "layer_date": "2011",
+  "layer_description": "Aerial/satellite imagery.",
+  "category": "Images",
+  "subcategory": "Aerial Photos (Ortho Imagery)",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "2011 aerial imagery",
+    "2012 aerial imagery",
+    "digitalglobe",
+    "aerial photos",
+    "satellite imagery",
+    "orthophoto",
+    "ortho imagery",
+    "massgis",
+    "massachusetts",
+    "geoserver layer"
+  ]
+}

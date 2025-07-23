@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Elements: Core Habitat",
+  "document_id": "massgis:GISDATA.BM3_CORE_HABITAT",
+  "layer_id": "massgis:GISDATA.BM3_CORE_HABITAT",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_CORE_HABITAT",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap",
+    "core habitat",
+    "biodiversity",
+    "conservation",
+    "massgis",
+    "gisdata",
+    "natural heritage",
+    "habitat mapping",
+    "wildlife habitat",
+    "bm3"
+  ],
+  "column_summary": "OBJECTID, CH_ID, ACRES_CH, TOWN, AC_TOWN_CH, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

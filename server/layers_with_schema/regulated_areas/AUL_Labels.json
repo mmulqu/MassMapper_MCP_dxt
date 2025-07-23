@@ -1,0 +1,25 @@
+{
+  "document_title": "AUL Labels",
+  "document_id": "massgis:GISDATA.AUL_PT",
+  "layer_id": "massgis:GISDATA.AUL_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.AUL_PT",
+  "category": "Regulated Areas",
+  "subcategory": "AUL Sites",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "aul labels",
+    "aul sites",
+    "regulated areas",
+    "massgis",
+    "gisdata",
+    "geoserver layer",
+    "activity and use limitation",
+    "land use restrictions",
+    "point layer",
+    "aul pt"
+  ],
+  "column_summary": "OBJECTID, RTN, NAME, ADDRESS, TOWN, STATUS, RAO_CLASS, AUL_DATE, SITE_INFO, REGION, GLOBALID, SHAPE"
+}

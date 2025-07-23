@@ -1,0 +1,25 @@
+{
+  "document_title": "Railroads by Type of Service",
+  "document_id": "massgis:GISDATA.TRAINS_ARC",
+  "layer_id": "massgis:GISDATA.TRAINS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "Road network data. GeoServer layer: GISDATA.TRAINS_ARC",
+  "category": "Infrastructure",
+  "subcategory": "Trains",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "railroads",
+    "train lines",
+    "rail network",
+    "rail service",
+    "railroads by type of service",
+    "massgis trains",
+    "gisdata.trains_arc",
+    "infrastructure",
+    "freight rail",
+    "passenger rail"
+  ],
+  "column_summary": "OBJECTID, TYPE, SOURCE, COMMRAIL, OWNERSHIP, FREIGHT_OP, PASS_OP, COMM_LINE, LINE_BRNCH, VALPLANNUM, VALPLANOWN, TRACK, KARR_RT, YARD, FREIGHT_ML, STATE, LINE_CODE, RAIL_TRL, SPUR, RT_CLASS, RT_LINE, RT_STATUS, MAP_ONE, DATE_ABAND, ASSET, ASSET_ID, SERV_TYPE, DES_HSPDC, SHAPE, SHAPE.LEN"
+}

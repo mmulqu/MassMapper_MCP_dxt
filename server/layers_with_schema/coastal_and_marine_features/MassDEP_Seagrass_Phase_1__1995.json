@@ -1,0 +1,25 @@
+{
+  "document_title": "MassDEP Seagrass Phase 1: 1995",
+  "document_id": "massgis:GISDATA.EELGRASS1995_POLY",
+  "layer_id": "massgis:GISDATA.EELGRASS1995_POLY",
+  "layer_type": "poly",
+  "layer_date": "1995",
+  "layer_description": "GeoServer layer: GISDATA.EELGRASS1995_POLY",
+  "category": "Coastal and Marine Features",
+  "subcategory": "MassDEP Seagrass",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "seagrass",
+    "eelgrass",
+    "massdep",
+    "phase 1",
+    "1995",
+    "coastal marine",
+    "habitat mapping",
+    "estuary",
+    "gis",
+    "polygon"
+  ],
+  "column_summary": "OBJECTID, HABITAT, AREA_ACRES, AREA_M, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

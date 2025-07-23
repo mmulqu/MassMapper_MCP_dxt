@@ -1,0 +1,25 @@
+{
+  "document_title": "DFW Coldwater Fisheries Resources",
+  "document_id": "massgis:GISDATA.DFWCFR_ARC",
+  "layer_id": "massgis:GISDATA.DFWCFR_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DFWCFR_ARC",
+  "category": "Physical Resources",
+  "subcategory": "DFW Coldwater Fisheries Resources",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "coldwater fisheries",
+    "dfw coldwater fisheries",
+    "fisheries resources",
+    "trout streams",
+    "coldwater streams",
+    "aquatic habitat",
+    "fish habitat",
+    "massgis",
+    "massachusetts fisheries",
+    "line layer"
+  ],
+  "column_summary": "OBJECTID, SARIS_ID, STREAMNAME, SHAPE, SHAPE.LEN"
+}

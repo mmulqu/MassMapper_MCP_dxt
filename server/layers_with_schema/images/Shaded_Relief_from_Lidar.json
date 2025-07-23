@@ -1,0 +1,24 @@
+{
+  "document_title": "Shaded Relief from Lidar",
+  "document_id": "LiDAR_ShadedRelief_18Nant_21EC",
+  "layer_id": "LiDAR_ShadedRelief_18Nant_21EC",
+  "layer_type": "tiled_overlay",
+  "layer_date": "",
+  "layer_description": "",
+  "category": "Images",
+  "subcategory": "Elevation with Shaded Relief",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "lidar",
+    "shaded relief",
+    "elevation",
+    "hillshade",
+    "terrain",
+    "dem",
+    "relief map",
+    "lidar shaded relief",
+    "digital elevation",
+    "elevation shading"
+  ]
+}

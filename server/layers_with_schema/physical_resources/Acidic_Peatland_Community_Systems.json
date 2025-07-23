@@ -1,0 +1,25 @@
+{
+  "document_title": "Acidic Peatland Community Systems",
+  "document_id": "massgis:GISDATA.VCPEATLAND_POLY",
+  "layer_id": "massgis:GISDATA.VCPEATLAND_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.VCPEATLAND_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Priority Natural Vegetation Communities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "acidic peatland",
+    "peatland community",
+    "peat bog",
+    "acidic wetland",
+    "peatland vegetation",
+    "priority vegetation communities",
+    "bog habitats",
+    "peat soils",
+    "wetland communities",
+    "natural vegetation communities"
+  ],
+  "column_summary": "OBJECTID, NHCODE, COMM_TYPE, COMMENTS, COMM_DESC, LABEL, GEN_LABEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

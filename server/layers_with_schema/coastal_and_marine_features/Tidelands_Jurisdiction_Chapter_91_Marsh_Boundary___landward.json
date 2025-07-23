@@ -1,0 +1,26 @@
+{
+  "document_title": "Tidelands Jurisdiction Chapter 91 Marsh Boundary - landward",
+  "document_id": "massgis:GISDATA.CZM_MARSHPERIMETER",
+  "layer_id": "massgis:GISDATA.CZM_MARSHPERIMETER",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CZM_MARSHPERIMETER",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Tidelands Jurisdiction Data Chapter 91",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "tidelands",
+    "chapter 91",
+    "marsh boundary",
+    "marsh perimeter",
+    "landward",
+    "tidelands jurisdiction",
+    "coastal",
+    "marine",
+    "perimeter",
+    "czm",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, MAPKEY, SHAPE, SHAPE.LEN"
+}

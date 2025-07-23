@@ -1,0 +1,26 @@
+{
+  "document_title": "Diadromous Fish Restoration Projects",
+  "document_id": "massgis:GISDATA.DF_RESTORATION_PROJECTS_PT",
+  "layer_id": "massgis:GISDATA.DF_RESTORATION_PROJECTS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DF_RESTORATION_PROJECTS_PT",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Diadromous Fish",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "diadromous fish",
+    "fish restoration",
+    "restoration projects",
+    "fish migration",
+    "river restoration",
+    "stream barriers",
+    "fish habitat",
+    "anadromous fish",
+    "catadromous fish",
+    "coastal and marine",
+    "coastal restoration"
+  ],
+  "column_summary": "OBJECTID, RIVER, TOWN, REGION, WATERSHED, LOCATION_NAME, LOCATION_STATUS, PROJECT_TYPE, LAKE_POND, TARGET_SPECIES, SECONDARY_SPECIES, RIVER_HERRING_HABITAT_ASSES, STREAM_MAINTENANCE_PLAN, FISHWAY_O_M_PLAN, WATER_SUPPLY, DAM_HEIGHT, ACREAGE_SCORE, OBSTRUCTION_NUMBER, ACRES, POPULATION_STATUS, STREAM_FLOW, PUBLIC_ACCESS, WATER_QUALITY, WATER_USE_CONFLICT, PROJECT_FEASIBILITY, ENVIRONMENTAL_BENEFITS, EXISTING_FUNDING, LOCAL_SUPPORT, PASSAGE, COST, SCORE, RANK, REVIEW_DATE, PROJECT_STATUS, PROJECT_SCOPE, HISTORY, NOTES, CREATIONDATE, CREATOR, EDITDATE, EDITOR, FISH_PASSAGE_STATUS, POINT_X, POINT_Y, SHAPE"
+}

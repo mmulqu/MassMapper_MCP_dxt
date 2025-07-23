@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2020 Environmental Justice Populations",
+  "document_id": "massgis:GISDATA.EJ_POLY",
+  "layer_id": "massgis:GISDATA.EJ_POLY",
+  "layer_type": "poly",
+  "layer_date": "2020",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.EJ_POLY",
+  "category": "Census",
+  "subcategory": "Census 2020",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2020",
+    "environmental justice",
+    "ej populations",
+    "massgis",
+    "gisdata.ej_poly",
+    "geoserver layer",
+    "demographics",
+    "census poly",
+    "environmental justice census",
+    "ej poly"
+  ],
+  "column_summary": "OBJECTID, GEOGRAPHICAREANAME, GEOID, SPLIT_FOR_MUNI, MUNICIPALITY, TOTAL_POP, NONHISPWHITE_ALONE, PCT_MINORITY, TOTALHH, LIMENGHH, LIMENGHHPCT, BG_MHHI, BG_MHHI_PCT_MAHHI, BG_MHHI_IS_2019, MUNI_MHHI, MUNIMHHI_PCT_MAHHI, MEDIANHHI, LIMITEDENGLISH, MINORITY_POPULATION, EJ, EJ_CRITERIA, EJ_CRITERIA_COUNT, EJ_CRIT_DESC, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

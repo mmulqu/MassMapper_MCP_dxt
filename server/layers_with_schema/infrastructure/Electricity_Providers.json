@@ -1,0 +1,25 @@
+{
+  "document_title": "Electricity Providers",
+  "document_id": "massgis:GISDATA.TOWNS_POLY_V_ELEC",
+  "layer_id": "massgis:GISDATA.TOWNS_POLY_V_ELEC",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TOWNS_POLY_V_ELEC",
+  "category": "Infrastructure",
+  "subcategory": "Public Utility Providers",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "electricity providers",
+    "power companies",
+    "electric utilities",
+    "public utility providers",
+    "energy providers",
+    "massachusetts towns",
+    "gis layer",
+    "infrastructure",
+    "power grid",
+    "town service areas"
+  ],
+  "column_summary": "TOWN, TOWN_ID, ELEC, ELEC_LABEL, SHAPE, OBJECTID, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,27 @@
+{
+  "document_title": "BioMap Local Landscapes",
+  "document_id": "massgis:GISDATA.BM3_LOCAL_LANDSCAPES",
+  "layer_id": "massgis:GISDATA.BM3_LOCAL_LANDSCAPES",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_LOCAL_LANDSCAPES",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap",
+    "biomap local landscapes",
+    "bm3",
+    "bm3 local landscapes",
+    "local landscapes",
+    "natural heritage",
+    "conservation recreation",
+    "biodiversity",
+    "habitat conservation",
+    "ecological landscapes",
+    "massgis",
+    "gisdata"
+  ],
+  "column_summary": "OBJECTID, LOC_LL_ID, AC_LOC_LL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

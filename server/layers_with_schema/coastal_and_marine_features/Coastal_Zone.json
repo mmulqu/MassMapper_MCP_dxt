@@ -1,0 +1,25 @@
+{
+  "document_title": "Coastal Zone",
+  "document_id": "massgis:GISDATA.CSTZONE_POLY",
+  "layer_id": "massgis:GISDATA.CSTZONE_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CSTZONE_POLY",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Coastal Zone",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "coastal zone",
+    "coastal areas",
+    "massachusetts coast",
+    "shoreline",
+    "tidal zone",
+    "coastal boundary",
+    "marine shoreline",
+    "beach area",
+    "oceanfront",
+    "coastline"
+  ],
+  "column_summary": "OBJECTID, SHAPE_LENG, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

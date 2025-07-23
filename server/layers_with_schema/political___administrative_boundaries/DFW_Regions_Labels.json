@@ -1,0 +1,26 @@
+{
+  "document_title": "DFW Regions Labels",
+  "document_id": "massgis:GISDATA.DFWDISTRICTS_POLY",
+  "layer_id": "massgis:GISDATA.DFWDISTRICTS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DFWDISTRICTS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "DFW Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dfw regions",
+    "dfw districts",
+    "dfw labels",
+    "dfwdistricts",
+    "gisdata dfwdistricts_poly",
+    "district boundaries",
+    "administrative boundaries",
+    "political boundaries",
+    "massgis",
+    "polygons",
+    "dfw region labels"
+  ],
+  "column_summary": "OBJECTID, DISTRICT, ACRES, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

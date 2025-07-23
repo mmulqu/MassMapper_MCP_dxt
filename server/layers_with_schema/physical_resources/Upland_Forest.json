@@ -1,0 +1,25 @@
+{
+  "document_title": "Upland Forest",
+  "document_id": "massgis:GISDATA.VCFOREST_POLY",
+  "layer_id": "massgis:GISDATA.VCFOREST_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.VCFOREST_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Priority Natural Vegetation Communities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "upland forest",
+    "forest communities",
+    "priority natural vegetation communities",
+    "natural vegetation",
+    "vegetation communities",
+    "forest habitat",
+    "massgis vcforest_poly",
+    "gisdata vcforest_poly",
+    "physical resources",
+    "priority vegetation"
+  ],
+  "column_summary": "OBJECTID, GRID_CODE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

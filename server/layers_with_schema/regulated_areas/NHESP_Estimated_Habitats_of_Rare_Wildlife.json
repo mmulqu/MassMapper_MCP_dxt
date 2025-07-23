@@ -1,0 +1,23 @@
+{
+  "document_title": "NHESP Estimated Habitats of Rare Wildlife",
+  "document_id": "massgis:GISDATA.ESTHAB_POLY",
+  "layer_id": "massgis:GISDATA.ESTHAB_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.ESTHAB_POLY",
+  "category": "Regulated Areas",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "nhesp",
+    "rare wildlife",
+    "estimated habitats",
+    "wildlife habitat",
+    "rare species",
+    "natural heritage",
+    "habitat map",
+    "endangered species"
+  ],
+  "column_summary": "OBJECTID, ESTHAB_ID, VERSION, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

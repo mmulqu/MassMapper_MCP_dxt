@@ -1,0 +1,25 @@
+{
+  "document_title": "Prisons Labels",
+  "document_id": "massgis:GISDATA.PRISONS_PT",
+  "layer_id": "massgis:GISDATA.PRISONS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.PRISONS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Prisons",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "prisons",
+    "prison",
+    "jail",
+    "jails",
+    "correctional facility",
+    "correctional facilities",
+    "prison labels",
+    "prison locations",
+    "corrections",
+    "massgis prisons"
+  ],
+  "column_summary": "OBJECTID, PRISON_ID, NAME, ADDRESS, TOWN, ZIP, MAIL_ADDR, TYPE, MALE_FEMAL, SECURITY, NOTES, SHAPE"
+}

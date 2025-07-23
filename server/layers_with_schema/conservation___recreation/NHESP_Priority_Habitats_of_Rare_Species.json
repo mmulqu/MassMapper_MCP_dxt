@@ -1,0 +1,25 @@
+{
+  "document_title": "NHESP Priority Habitats of Rare Species",
+  "document_id": "massgis:GISDATA.PRIHAB_POLY",
+  "layer_id": "massgis:GISDATA.PRIHAB_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.PRIHAB_POLY",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "nhesp",
+    "priority habitats",
+    "rare species habitats",
+    "natural heritage",
+    "habitat protection",
+    "rare wildlife",
+    "biodiversity",
+    "massachusetts habitats",
+    "conservation areas",
+    "nhesp priority habitats"
+  ],
+  "column_summary": "OBJECTID, PRIHAB_ID, VERSION, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Hydraulic Conductivity",
+  "document_id": "massgis:GISDATA.SURFGEO24K_K_POLY",
+  "layer_id": "massgis:GISDATA.SURFGEO24K_K_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SURFGEO24K_K_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Hydrogeologic Atlas of Mass.",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "hydraulic conductivity",
+    "conductivity",
+    "hydrogeologic atlas",
+    "surface geology",
+    "groundwater",
+    "permeability",
+    "surfgeo24k",
+    "24k",
+    "k poly",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, MAPUNIT, IDECONF, DATSRCID, MUPS_ID, LITHOLOGY, MINK_FTDAY, MAXK_FTDAY, AVGK_FTDAY, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

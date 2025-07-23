@@ -1,0 +1,26 @@
+{
+  "document_title": "Diadromous Fish Sampling Stations",
+  "document_id": "massgis:GISDATA.DF_SAMPLING_STATIONS_PT",
+  "layer_id": "massgis:GISDATA.DF_SAMPLING_STATIONS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DF_SAMPLING_STATIONS_PT",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Diadromous Fish",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "diadromous fish sampling stations",
+    "diadromous fish",
+    "sampling stations",
+    "fish sampling",
+    "fish stations",
+    "coastal marine features",
+    "marine sampling",
+    "migration stations",
+    "migratory fish",
+    "massgis",
+    "gisdata df"
+  ],
+  "column_summary": "OBJECTID, STATID, RIVER, STATION_TYPE, LOCATION, TOWN, YEAR_INSTALLED, HAS_TEMP_LOGGER, HAS_WATER_CHEMISTRY_STATION, CREATIONDATE, CREATOR, EDITDATE, EDITOR, POINT_X, POINT_Y, SHAPE"
+}

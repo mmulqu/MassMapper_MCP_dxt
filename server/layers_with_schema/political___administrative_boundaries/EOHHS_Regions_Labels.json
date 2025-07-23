@@ -1,0 +1,23 @@
+{
+  "document_title": "EOHHS Regions Labels",
+  "document_id": "massgis:GISDATA.REGEOHHS_POLY",
+  "layer_id": "massgis:GISDATA.REGEOHHS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGEOHHS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Exec. Office of Health and Human Services Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "eohhs regions",
+    "health and human services regions",
+    "executive office health services",
+    "eohhs",
+    "regions labels",
+    "administrative regions",
+    "massgis regions",
+    "health regions"
+  ],
+  "column_summary": "OBJECTID, REG_NUM, REG_NAME, POP1980, POP1990, POP2000, POP2010, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

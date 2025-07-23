@@ -1,0 +1,24 @@
+{
+  "document_title": "UTM Points",
+  "document_id": "massgis:GISDATA.UTMPT_PT",
+  "layer_id": "massgis:GISDATA.UTMPT_PT",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.UTMPT_PT",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "UTM Grid",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "utm points",
+    "utm grid",
+    "universal transverse mercator",
+    "coordinate grid",
+    "massgis utm",
+    "utm pt",
+    "grid index",
+    "tiling scheme",
+    "utm coordinates"
+  ],
+  "column_summary": "OBJECTID, SHAPE"
+}

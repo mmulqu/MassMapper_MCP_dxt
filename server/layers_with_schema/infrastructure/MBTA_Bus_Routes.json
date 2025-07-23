@@ -1,0 +1,25 @@
+{
+  "document_title": "MBTA Bus Routes",
+  "document_id": "massgis:GISDATA.MBTABUSROUTES_ARC",
+  "layer_id": "massgis:GISDATA.MBTABUSROUTES_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MBTABUSROUTES_ARC",
+  "category": "Infrastructure",
+  "subcategory": "MBTA Bus Routes and Stops",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mbta",
+    "mbta bus",
+    "mbta bus routes",
+    "bus routes",
+    "public transit",
+    "bus lines",
+    "mbta routes",
+    "mbta bus stops",
+    "transportation",
+    "mass transit"
+  ],
+  "column_summary": "OBJECTID, SHAPE_ID, MBTA_ROUTE, MBTA_VARIANT, MBTA_ROUTEVAR, CTPS_ROUTE_MAJOR, CTPS_ROUTE, DIRECTION, ROUTE_DESC, TRIP_HEADSIGN, CTPS_ROUTE_ID, SHAPE, SHAPE.LEN"
+}

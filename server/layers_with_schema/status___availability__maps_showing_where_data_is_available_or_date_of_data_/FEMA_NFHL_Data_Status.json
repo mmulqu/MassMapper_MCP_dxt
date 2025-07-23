@@ -1,0 +1,25 @@
+{
+  "document_title": "FEMA NFHL Data Status",
+  "document_id": "massgis:GISDATA.FEMA_NFHL_POLY_STATUS",
+  "layer_id": "massgis:GISDATA.FEMA_NFHL_POLY_STATUS",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.FEMA_NFHL_POLY_STATUS",
+  "category": "Status / Availability (maps showing where data is available or date of data)",
+  "subcategory": "FEMA NFHL Data Status",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "fema",
+    "nfhl",
+    "flood hazard",
+    "flood maps",
+    "data status",
+    "availability",
+    "floodplain",
+    "national flood hazard",
+    "massgis",
+    "gisdata"
+  ],
+  "column_summary": "OBJECTID, TOWN, TOWN_ID, NFHL_STAT, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

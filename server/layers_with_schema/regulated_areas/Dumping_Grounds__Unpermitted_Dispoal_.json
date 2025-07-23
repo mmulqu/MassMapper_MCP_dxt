@@ -1,0 +1,23 @@
+{
+  "document_title": "Dumping Grounds (Unpermitted Dispoal)",
+  "document_id": "massgis:GISDATA.SW_LD_POLY_DUMPINGGROUND",
+  "layer_id": "massgis:GISDATA.SW_LD_POLY_DUMPINGGROUND",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SW_LD_POLY_DUMPINGGROUND",
+  "category": "Regulated Areas",
+  "subcategory": "MassDEP Solid Waste Diversion and Disposal",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dumping grounds",
+    "unpermitted disposal",
+    "illegal dumping",
+    "solid waste diversion",
+    "waste disposal sites",
+    "massdep solid waste",
+    "regulated areas",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, RO_ACCT, SITE_NAME, ADDRESS, TOWN, REGION, STATUS, WASTE_TYPE, ACRES, SW_ID, CATGRPGIS, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

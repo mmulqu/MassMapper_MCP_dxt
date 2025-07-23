@@ -1,0 +1,25 @@
+{
+  "document_title": "Geographic Names Places",
+  "document_id": "massgis:GISDATA.GEONAMES_PT_PLACES",
+  "layer_id": "massgis:GISDATA.GEONAMES_PT_PLACES",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.GEONAMES_PT_PLACES",
+  "category": "Physical Resources",
+  "subcategory": "Geographic Names",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "geographic names",
+    "places",
+    "geonames",
+    "points",
+    "massgis",
+    "massachusetts places",
+    "city names",
+    "town names",
+    "village names",
+    "geographic features"
+  ],
+  "column_summary": "OBJECTID, LABELTEXT, ANGLE, SHAPE"
+}

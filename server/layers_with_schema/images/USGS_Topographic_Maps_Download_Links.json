@@ -1,0 +1,25 @@
+{
+  "document_title": "USGS Topographic Maps Download Links",
+  "document_id": "massgis:GISDATA.DOWNLOADLINKS_TOPO",
+  "layer_id": "massgis:GISDATA.DOWNLOADLINKS_TOPO",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DOWNLOADLINKS_TOPO",
+  "category": "Images",
+  "subcategory": "USGS Topographic Maps",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "usgs",
+    "usgs topo",
+    "topo",
+    "topo maps",
+    "topographic",
+    "topographic maps",
+    "download",
+    "download links",
+    "massgis",
+    "geoserver"
+  ],
+  "column_summary": "OBJECTID_1, SHEET_ID, OBJECTID, URL_SID, URL_TIFF, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

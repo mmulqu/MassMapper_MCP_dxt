@@ -1,0 +1,25 @@
+{
+  "document_title": "US House Voting Districts 118th Outlines",
+  "document_id": "massgis:GISDATA.CONGRESSMA118_ARC",
+  "layer_id": "massgis:GISDATA.CONGRESSMA118_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CONGRESSMA118_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Legislative Districts 2021",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "us house districts",
+    "congressional districts",
+    "118th congress",
+    "massachusetts districts",
+    "us house outlines",
+    "federal voting districts",
+    "ma congressional boundaries",
+    "political boundaries",
+    "legislative district lines",
+    "voting district outlines"
+  ],
+  "column_summary": "OBJECTID, OUTLINE, SHAPE, SHAPE.LEN"
+}

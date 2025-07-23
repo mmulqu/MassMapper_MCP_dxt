@@ -1,0 +1,26 @@
+{
+  "document_title": "NOAA Charts Index Download Links",
+  "document_id": "massgis:GISDATA.NOAA_INDEX_POLY",
+  "layer_id": "massgis:GISDATA.NOAA_INDEX_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.NOAA_INDEX_POLY",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "NOAA Charts Index",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "noaa",
+    "charts",
+    "nautical charts",
+    "chart index",
+    "index grid",
+    "grid",
+    "tiling schemes",
+    "marine navigation",
+    "download links",
+    "massgis",
+    "gisdata"
+  ],
+  "column_summary": "OBJECTID, IMAGE_NAME, CHARTTITLE, SCALE, ED_DATE, URL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

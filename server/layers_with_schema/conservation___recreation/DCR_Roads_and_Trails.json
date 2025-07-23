@@ -1,0 +1,25 @@
+{
+  "document_title": "DCR Roads and Trails",
+  "document_id": "massgis:GISDATA.DCR_ROADS_TRAILS_ARC",
+  "layer_id": "massgis:GISDATA.DCR_ROADS_TRAILS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "Road network data. GeoServer layer: GISDATA.DCR_ROADS_TRAILS_ARC",
+  "category": "Conservation / Recreation",
+  "subcategory": "Trails",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dcr roads",
+    "dcr trails",
+    "road network",
+    "trails",
+    "recreation paths",
+    "conservation trails",
+    "massgis",
+    "hiking trails",
+    "biking trails",
+    "park roads"
+  ],
+  "column_summary": "OBJECTID, TYPE, ILLEGAL, SURFACE, WIDTH, CONDITION, VEHICACCES, TRAIL_MARK, COMMENTS, GPS_DATE, GPS_TIME, NAME, MILES, METERS, SHAPE, SHAPE.LEN"
+}

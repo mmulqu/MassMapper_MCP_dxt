@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Core Habitat Components: Rare Species Core",
+  "document_id": "massgis:GISDATA.BM3_CH_RARE_SPECIES_CORE",
+  "layer_id": "massgis:GISDATA.BM3_CH_RARE_SPECIES_CORE",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_CH_RARE_SPECIES_CORE",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap core habitat",
+    "rare species core",
+    "rare species",
+    "core habitat components",
+    "natural heritage",
+    "conservation",
+    "recreation",
+    "bm3",
+    "gisdata",
+    "geoserver"
+  ],
+  "column_summary": "OBJECTID, CH_RARE_ID, AC_CH_RARE, TOWN, AC_RSCXTWN, TAXATOTAL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Active Resource Recovery Facilities",
+  "document_id": "massgis:GISDATA.BWP_PT_COMBUSTION",
+  "layer_id": "massgis:GISDATA.BWP_PT_COMBUSTION",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BWP_PT_COMBUSTION",
+  "category": "Regulated Areas",
+  "subcategory": "MassDEP Solid Waste Diversion and Disposal",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "active resource recovery facilities",
+    "resource recovery",
+    "waste combustion",
+    "waste-to-energy",
+    "incinerator",
+    "solid waste diversion",
+    "solid waste disposal",
+    "massdep solid waste",
+    "combustion facilities",
+    "bwp pt combustion"
+  ],
+  "column_summary": "OBJECTID, FAC_ID, RO_ACCT, ROOT_ID, SITE_NAME, ADDRESS, TOWN, REGION, SHAPE"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Active and Proposed Commuter Rail Stations Labels",
+  "document_id": "massgis:GISDATA.TRAINS_NODE",
+  "layer_id": "massgis:GISDATA.TRAINS_NODE",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TRAINS_NODE",
+  "category": "Infrastructure",
+  "subcategory": "Trains",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "commuter rail stations",
+    "active commuter stations",
+    "proposed commuter rail",
+    "rail station labels",
+    "train station labels",
+    "mbta commuter rail",
+    "train nodes",
+    "rail infrastructure",
+    "massgis trains",
+    "trains node"
+  ],
+  "column_summary": "OBJECTID, STATION, C_RAILSTAT, AMTRAK, MAP_STA, LINE_BRNCH, STATE, SHAPE"
+}

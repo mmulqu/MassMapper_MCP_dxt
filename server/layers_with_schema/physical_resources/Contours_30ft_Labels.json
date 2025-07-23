@@ -1,0 +1,24 @@
+{
+  "document_title": "Contours 30ft Labels",
+  "document_id": "massgis:GISDATA.CONTOURS250K_ARC",
+  "layer_id": "massgis:GISDATA.CONTOURS250K_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CONTOURS250K_ARC",
+  "category": "Physical Resources",
+  "subcategory": "Topography Contours",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "contours",
+    "30ft contours",
+    "contour labels",
+    "elevation lines",
+    "topography",
+    "massgis",
+    "geoserver",
+    "contour map",
+    "terrain"
+  ],
+  "column_summary": "OBJECTID, CONTOUR_FT, INDEX_ARC, SHAPE, SHAPE.LEN"
+}

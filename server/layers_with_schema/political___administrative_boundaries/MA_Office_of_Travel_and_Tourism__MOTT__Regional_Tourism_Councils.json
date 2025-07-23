@@ -1,0 +1,25 @@
+{
+  "document_title": "MA Office of Travel and Tourism (MOTT) Regional Tourism Councils",
+  "document_id": "massgis:GISDATA.REGMOTTRTC_POLY",
+  "layer_id": "massgis:GISDATA.REGMOTTRTC_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGMOTTRTC_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "MA Office of Travel and Tourism (MOTT)",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "regional tourism councils",
+    "tourism councils",
+    "massachusetts tourism",
+    "massachusetts travel",
+    "regional tourism",
+    "mott",
+    "travel and tourism",
+    "tourism regions",
+    "ma tourism",
+    "ma travel"
+  ],
+  "column_summary": "OBJECTID, MOTT_RTC, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

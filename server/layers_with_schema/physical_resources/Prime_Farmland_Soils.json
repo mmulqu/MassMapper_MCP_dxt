@@ -1,0 +1,25 @@
+{
+  "document_title": "Prime Farmland Soils",
+  "document_id": "massgis:GISDATA.SOILS_POLY_PRIMEFARMLAND",
+  "layer_id": "massgis:GISDATA.SOILS_POLY_PRIMEFARMLAND",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SOILS_POLY_PRIMEFARMLAND",
+  "category": "Physical Resources",
+  "subcategory": "Soils",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "prime farmland soils",
+    "prime soils",
+    "farmland soils",
+    "agricultural soils",
+    "soil quality",
+    "prime farmland",
+    "soil map",
+    "soil survey",
+    "land capability",
+    "massgis soils"
+  ],
+  "column_summary": "OBJECTID, MUSYM, SS_AREA, FARMLNDCL, MUNAME, MUKEY, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

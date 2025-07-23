@@ -1,0 +1,24 @@
+{
+  "document_title": "Counties (from Survey Towns) Arcs",
+  "document_id": "massgis:GISDATA.COUNTIESSURVEY_ARC",
+  "layer_id": "massgis:GISDATA.COUNTIESSURVEY_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.COUNTIESSURVEY_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Counties",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "counties arcs",
+    "county boundaries",
+    "survey towns",
+    "counties survey",
+    "political boundaries",
+    "administrative boundaries",
+    "massgis",
+    "gisdata countiessurvey arc",
+    "county lines",
+    "massachusetts counties"
+  ]
+}

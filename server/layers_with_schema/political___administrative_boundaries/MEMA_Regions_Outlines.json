@@ -1,0 +1,25 @@
+{
+  "document_title": "MEMA Regions Outlines",
+  "document_id": "massgis:GISDATA.REGMEMA_ARC",
+  "layer_id": "massgis:GISDATA.REGMEMA_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGMEMA_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "MEMA Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mema regions",
+    "mema region outlines",
+    "massachusetts mema",
+    "emergency management regions",
+    "state administrative boundaries",
+    "regional boundaries",
+    "mema outlines",
+    "massgis",
+    "gisdata",
+    "geoserver"
+  ],
+  "column_summary": "OBJECTID, OUTLINE, SHAPE, SHAPE.LEN"
+}

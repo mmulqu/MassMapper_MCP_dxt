@@ -1,0 +1,25 @@
+{
+  "document_title": "Geographic Response Strategies Tactics Points",
+  "document_id": "massgis:GISDATA.GRS_TACTICS_PT",
+  "layer_id": "massgis:GISDATA.GRS_TACTICS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.GRS_TACTICS_PT",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Massachusetts Geographic Response Strategies",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "geographic response strategies",
+    "grs tactics",
+    "tactics points",
+    "oil spill response",
+    "coastal response",
+    "marine response",
+    "massachusetts grs",
+    "grs points",
+    "spill response",
+    "massgis grs"
+  ],
+  "column_summary": "OBJECTID, SITE_ID, SITE_NAME, GRS_AREA_C, SITE_NUM, TACTIC_TYP, TACTIC_NUM, BOOM_LEN, TIDE, MAR_ANCH, SHORE_ANCH, BOOM_CONFI, TEST_DATE, GRS_LINK, BOOM_TYP, COOP, TESTED_Y_N, SHAPE"
+}

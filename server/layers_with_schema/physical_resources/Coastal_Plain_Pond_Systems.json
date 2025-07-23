@@ -1,0 +1,25 @@
+{
+  "document_title": "Coastal Plain Pond Systems",
+  "document_id": "massgis:GISDATA.VCCOASTALPLAINPOND_POLY",
+  "layer_id": "massgis:GISDATA.VCCOASTALPLAINPOND_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.VCCOASTALPLAINPOND_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Priority Natural Vegetation Communities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "coastal plain pond systems",
+    "coastal plain ponds",
+    "pond systems",
+    "coastal ponds",
+    "wetland ponds",
+    "priority natural vegetation communities",
+    "physical resources",
+    "massgis",
+    "vccoastalplainpond",
+    "gisdata vccoastalplainpond"
+  ],
+  "column_summary": "OBJECTID, NHCODE, COMMENTS, PALIS_ID, TOWN, LABEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

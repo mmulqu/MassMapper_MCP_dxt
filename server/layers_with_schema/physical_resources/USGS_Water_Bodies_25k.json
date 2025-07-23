@@ -1,0 +1,25 @@
+{
+  "document_title": "USGS Water Bodies 25k",
+  "document_id": "massgis:GISDATA.HYDRO25K_POLY",
+  "layer_id": "massgis:GISDATA.HYDRO25K_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.HYDRO25K_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Hydrography Water Features",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "usgs",
+    "usgs water",
+    "water bodies",
+    "hydrography",
+    "water features",
+    "lakes",
+    "rivers",
+    "water polygons",
+    "25k",
+    "hydro25k"
+  ],
+  "column_summary": "OBJECTID, MINOR_TOT, POLY_CODE, PWSID, PALIS_ID, SOURCE, MINOR_NUM, RESOLUTION, NAME, JOIN_ID, COASTAL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

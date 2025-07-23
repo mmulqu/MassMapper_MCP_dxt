@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Core Habitat Components: Priority Natural Communities Core",
+  "document_id": "massgis:GISDATA.BM3_CH_PRIORITY_NATURAL_COMMS",
+  "layer_id": "massgis:GISDATA.BM3_CH_PRIORITY_NATURAL_COMMS",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_CH_PRIORITY_NATURAL_COMMS",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap",
+    "core habitat",
+    "priority natural communities",
+    "natural communities",
+    "habitat components",
+    "natural heritage",
+    "conservation",
+    "massgis",
+    "bm3",
+    "gisdata"
+  ],
+  "column_summary": "OBJECTID, CH_PNC_ID, AC_CH_PNC, NAT_COMM, COMM_CATEG, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

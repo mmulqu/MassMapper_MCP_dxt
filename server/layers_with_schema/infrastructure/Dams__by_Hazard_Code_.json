@@ -1,0 +1,24 @@
+{
+  "document_title": "Dams (by Hazard Code)",
+  "document_id": "massgis:GISDATA.DAMS_PT",
+  "layer_id": "massgis:GISDATA.DAMS_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DAMS_PT",
+  "category": "Infrastructure",
+  "subcategory": "Dams",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dams",
+    "dam hazard",
+    "hazard code",
+    "dams by hazard code",
+    "massgis dams",
+    "massachusetts dams",
+    "dam locations",
+    "water control",
+    "dam safety"
+  ],
+  "column_summary": "OBJECTID, NATID, REGAUTH, OWNTYPE1, OWNTYPE2, OWNTYPE3, MGMTUNIT, TOWN, DAMLAT, DAMLONG, LOCSTATUS, DAMNAME, HAZCODE, TOWN_ID, SHAPE"
+}

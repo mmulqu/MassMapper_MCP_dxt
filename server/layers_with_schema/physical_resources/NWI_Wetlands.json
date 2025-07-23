@@ -1,0 +1,25 @@
+{
+  "document_title": "NWI Wetlands",
+  "document_id": "massgis:GISDATA.NWI_POLY",
+  "layer_id": "massgis:GISDATA.NWI_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Wetland area information. GeoServer layer: GISDATA.NWI_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Hydrography Water Features",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "nwi wetlands",
+    "wetland areas",
+    "national wetlands inventory",
+    "hydrography",
+    "water features",
+    "wetland polygon",
+    "gisdata nwi_poly",
+    "massgis wetlands",
+    "nwi poly",
+    "wetlands layer"
+  ],
+  "column_summary": "OBJECTID, ATTRIBUTE, WET_TYPE, ACRES, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

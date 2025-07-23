@@ -1,0 +1,25 @@
+{
+  "document_title": "Impervious Surface Download Links",
+  "document_id": "massgis:GISDATA.DOWNLOADLINKS_IMP",
+  "layer_id": "massgis:GISDATA.DOWNLOADLINKS_IMP",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DOWNLOADLINKS_IMP",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "Impervious Surface Download Links",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "impervious surface",
+    "impervious surfaces",
+    "download links",
+    "impervious download",
+    "impervious surface download",
+    "impervious surface grid",
+    "massgis impervious",
+    "gisdata impervious",
+    "geoserver impervious",
+    "impervious mapping"
+  ],
+  "column_summary": "OBJECTID, MOSAIC, AWS_LINK, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

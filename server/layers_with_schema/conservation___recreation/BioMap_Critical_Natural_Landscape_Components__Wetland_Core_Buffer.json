@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Critical Natural Landscape Components: Wetland Core Buffer",
+  "document_id": "massgis:GISDATA.BM3_CNL_WETLAND_BUFFER",
+  "layer_id": "massgis:GISDATA.BM3_CNL_WETLAND_BUFFER",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Wetland area information. GeoServer layer: GISDATA.BM3_CNL_WETLAND_BUFFER",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "wetland",
+    "buffer",
+    "wetland buffer",
+    "wetland core",
+    "wetland core buffer",
+    "cnl",
+    "biomap",
+    "critical natural landscape",
+    "natural heritage",
+    "conservation"
+  ],
+  "column_summary": "OBJECTID, CNL_WB_ID, AC_CNL_WB, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

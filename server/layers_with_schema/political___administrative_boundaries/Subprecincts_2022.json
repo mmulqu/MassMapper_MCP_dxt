@@ -1,0 +1,25 @@
+{
+  "document_title": "Subprecincts 2022",
+  "document_id": "massgis:GISDATA.SUBPRECINCTS2022_POLY",
+  "layer_id": "massgis:GISDATA.SUBPRECINCTS2022_POLY",
+  "layer_type": "poly",
+  "layer_date": "2022",
+  "layer_description": "GeoServer layer: GISDATA.SUBPRECINCTS2022_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Wards and Precincts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "subprecincts",
+    "precincts",
+    "2022",
+    "wards",
+    "political boundaries",
+    "administrative boundaries",
+    "election precincts",
+    "massgis",
+    "gisdata",
+    "poly"
+  ],
+  "column_summary": "OBJECTID, PARENT_PCT, SUBPRECINCT, CNGRS_DIST, HOUSE_DIST, SENAT_DIST, TOWN, TOWN_ID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,23 @@
+{
+  "document_title": "US House Voting Districts 117th",
+  "document_id": "massgis:GISDATA.CONGRESSMA_POLY",
+  "layer_id": "massgis:GISDATA.CONGRESSMA_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CONGRESSMA_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Legislative Districts 2012",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massachusetts congressional districts",
+    "us house",
+    "voting districts",
+    "117th congress",
+    "massgis",
+    "political boundaries",
+    "legislative districts",
+    "congressma_poly"
+  ],
+  "column_summary": "OBJECTID, DIST_NUM, DISTRICT, REP_FIRST, REP_LAST, REP_PARTY, REP, URL, CONGRESS, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

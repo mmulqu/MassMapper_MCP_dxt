@@ -1,0 +1,25 @@
+{
+  "document_title": "MassDEP Community Estimated Public Drinking Water System Service Area Boundaries",
+  "document_id": "massgis:GISDATA.PWS_WATER_SERVICE_AREA_COMM_POLY",
+  "layer_id": "massgis:GISDATA.PWS_WATER_SERVICE_AREA_COMM_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.PWS_WATER_SERVICE_AREA_COMM_POLY",
+  "category": "Regulated Areas",
+  "subcategory": "MassDEP Estimated Public Drinking Water System Service Area Boundaries",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massdep",
+    "public drinking water",
+    "water service area",
+    "service area boundaries",
+    "community water system",
+    "estimated service area",
+    "drinking water boundary",
+    "pws water service",
+    "public water system",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, PWS_NAME, PWS_ID, PWS_TOWN, TOWN_ID, REGION, REGION_ID, PWS_STATUS, PWS_STATYR, PWSPOP_WIN, PWSPOP_SUM, PWSPOP_MAX, PWSNUM_SRV, PWS_NUMSRC, PWS_G_S, PWS_ANN_D, PWS_MMD, PWS_MDD, PWS_DISMI, PWS_DISCL, PWS_DISSYS, WURP_MAPYR, SERVCECONF, SERVCEYEAR, Q4_OTHER_PWS, SA_SQ_MILES, SA_ACRES, PWS_ID_C, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

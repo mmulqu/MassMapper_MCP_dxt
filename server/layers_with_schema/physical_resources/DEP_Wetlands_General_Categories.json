@@ -1,0 +1,25 @@
+{
+  "document_title": "DEP Wetlands General Categories",
+  "document_id": "massgis:GISDATA.WETLANDSDEP_POLY",
+  "layer_id": "massgis:GISDATA.WETLANDSDEP_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Wetland area information. GeoServer layer: GISDATA.WETLANDSDEP_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Hydrography Water Features",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "wetlands",
+    "dep wetlands",
+    "wetland categories",
+    "hydrography",
+    "water features",
+    "massgis wetlands",
+    "wetlands polygons",
+    "wetland mapping",
+    "dep wetlands poly",
+    "physical resources wetlands"
+  ],
+  "column_summary": "OBJECTID, WETCODE, IT_VALC, IT_VALDESC, POLY_CODE, SOURCE, SOURCE_SCALE, AREAACRES, AREASQMI, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

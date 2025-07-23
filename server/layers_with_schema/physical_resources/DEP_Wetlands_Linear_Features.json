@@ -1,0 +1,24 @@
+{
+  "document_title": "DEP Wetlands Linear Features",
+  "document_id": "massgis:GISDATA.WETLANDSDEP_ARC",
+  "layer_id": "massgis:GISDATA.WETLANDSDEP_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "Wetland area information. GeoServer layer: GISDATA.WETLANDSDEP_ARC",
+  "category": "Physical Resources",
+  "subcategory": "Hydrography Water Features",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "wetlands",
+    "wetland",
+    "wetlands linear features",
+    "dep wetlands",
+    "hydrography",
+    "water features",
+    "geoserver",
+    "massgis",
+    "gisdata"
+  ],
+  "column_summary": "OBJECTID, ARC_CODE, ARC_CODE_DESC, SOURCE, SHAPE, SHAPE.LEN"
+}

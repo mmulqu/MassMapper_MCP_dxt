@@ -1,0 +1,24 @@
+{
+  "document_title": "Modeled Wind Speed at 70M",
+  "document_id": "MASS_IMG_WND_SPD70M",
+  "layer_id": "MASS_IMG_WND_SPD70M",
+  "layer_type": "tiled_overlay",
+  "layer_date": "",
+  "layer_description": "",
+  "category": "Images",
+  "subcategory": "Wind Speed",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "modeled wind speed",
+    "wind speed",
+    "70m wind speed",
+    "wind map",
+    "wind analysis",
+    "wind energy",
+    "wind resource",
+    "wind atlas",
+    "air speed",
+    "massgis wind"
+  ]
+}

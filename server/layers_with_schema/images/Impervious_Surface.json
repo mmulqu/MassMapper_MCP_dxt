@@ -1,0 +1,24 @@
+{
+  "document_title": "Impervious Surface",
+  "document_id": "Impervious_Surface_2005",
+  "layer_id": "Impervious_Surface_2005",
+  "layer_type": "tiled_overlay",
+  "layer_date": "",
+  "layer_description": "",
+  "category": "Images",
+  "subcategory": "Impervious Surface",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "impervious surface",
+    "impervious surface 2005",
+    "impervious cover",
+    "impervious overlay",
+    "impermeable surfaces",
+    "urban runoff",
+    "pavement coverage",
+    "asphalt",
+    "parking lot",
+    "urban impervious"
+  ]
+}

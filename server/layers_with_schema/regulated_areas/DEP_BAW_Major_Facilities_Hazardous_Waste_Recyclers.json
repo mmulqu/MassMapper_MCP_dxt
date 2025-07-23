@@ -1,0 +1,27 @@
+{
+  "document_title": "DEP BAW Major Facilities Hazardous Waste Recyclers",
+  "document_id": "massgis:GISDATA.BWPMAJOR_PT_HWR_SV",
+  "layer_id": "massgis:GISDATA.BWPMAJOR_PT_HWR_SV",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BWPMAJOR_PT_HWR_SV",
+  "category": "Regulated Areas",
+  "subcategory": "DEP BAW Major Facilities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "hazardous waste",
+    "hazardous waste recycler",
+    "waste recycler",
+    "recycling",
+    "dep baw",
+    "baw",
+    "major facilities",
+    "regulated areas",
+    "massgis",
+    "epa",
+    "waste management",
+    "environment"
+  ],
+  "column_summary": "OBJECTID, FAC_NAME, ADDRESS, TOWN, REGION, FAC_ID, HW_ID, SSEIS_ID, AIR, HWR, LQG_MA, LQG_RCRA, LQTU, TSDF, SHAPE"
+}

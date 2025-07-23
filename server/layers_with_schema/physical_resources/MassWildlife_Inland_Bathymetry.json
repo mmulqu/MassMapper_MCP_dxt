@@ -1,0 +1,25 @@
+{
+  "document_title": "MassWildlife Inland Bathymetry",
+  "document_id": "massgis:GISDATA.DFWBATHY_ARC",
+  "layer_id": "massgis:GISDATA.DFWBATHY_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DFWBATHY_ARC",
+  "category": "Physical Resources",
+  "subcategory": "Hydrography Water Features",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "bathymetry",
+    "inland bathymetry",
+    "masswildlife",
+    "dfwbathy_arc",
+    "dfwbathy",
+    "hydrography",
+    "water features",
+    "water depth",
+    "depth contours",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, NAME, DEPTH, PALIS_ID, SHAPE, SHORE, DLABEL, SHAPE.LEN"
+}

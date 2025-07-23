@@ -1,0 +1,26 @@
+{
+  "document_title": "USGS Rivers and Streams 25k",
+  "document_id": "massgis:GISDATA.HYDRO25K_ARC",
+  "layer_id": "massgis:GISDATA.HYDRO25K_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.HYDRO25K_ARC",
+  "category": "Physical Resources",
+  "subcategory": "Hydrography Water Features",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "usgs",
+    "rivers",
+    "streams",
+    "hydrography",
+    "water",
+    "features",
+    "25k",
+    "hydro",
+    "massgis",
+    "geoserver",
+    "gisdata"
+  ],
+  "column_summary": "OBJECTID, MINOR_TOT, ARC_CODE, PWSID, SOURCE, MINOR_NUM, RESOLUTION, NAME, SARISNAME, SARISCODE, SHAPE, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Land Cover Land Use (2016) Index",
+  "document_id": "massgis:GISDATA.LANDCOVER_USE_INDEX_POLY",
+  "layer_id": "massgis:GISDATA.LANDCOVER_USE_INDEX_POLY",
+  "layer_type": "poly",
+  "layer_date": "2016",
+  "layer_description": "GeoServer layer: GISDATA.LANDCOVER_USE_INDEX_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Land Use",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "land cover",
+    "land use",
+    "land cover land use",
+    "landcover",
+    "landuse",
+    "land cover index",
+    "land use index",
+    "2016",
+    "massgis",
+    "physical resources"
+  ],
+  "column_summary": "OBJECTID, TILENAME, SHAPE, SHP_LINK, SHAPE.AREA, SHAPE.LEN"
+}

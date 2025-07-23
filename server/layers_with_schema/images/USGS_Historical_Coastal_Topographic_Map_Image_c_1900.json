@@ -1,0 +1,24 @@
+{
+  "document_title": "USGS Historical Coastal Topographic Map Image c 1900",
+  "document_id": "USGS_Hist_Coastal_Topo_Map",
+  "layer_id": "USGS_Hist_Coastal_Topo_Map",
+  "layer_type": "tiled_overlay",
+  "layer_date": "1900",
+  "layer_description": "",
+  "category": "Images",
+  "subcategory": "USGS Topographic Maps",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "usgs",
+    "historical maps",
+    "coastal maps",
+    "topographic maps",
+    "1900",
+    "historic topo",
+    "coastal topo map",
+    "early 20th century",
+    "massgis images",
+    "usgs topo"
+  ]
+}

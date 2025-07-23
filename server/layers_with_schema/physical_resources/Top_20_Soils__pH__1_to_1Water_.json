@@ -1,0 +1,23 @@
+{
+  "document_title": "Top 20 Soils: pH (1 to 1Water)",
+  "document_id": "massgis:GISDATA.SOILS_MUPOLYGON_TOP20",
+  "layer_id": "massgis:GISDATA.SOILS_MUPOLYGON_TOP20",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SOILS_MUPOLYGON_TOP20",
+  "category": "Physical Resources",
+  "subcategory": "Soils",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "soils",
+    "soil ph",
+    "soil acidity",
+    "top 20 soils",
+    "ph 1 to 1 water",
+    "massgis soils",
+    "mupolygon",
+    "soils map"
+  ],
+  "column_summary": "OBJECTID, AREASYMBOL, SPATIALVER, MUSYM, MUKEY, SS_AREA, MUSYM_AREA, SLOPE, AREANAME, MUNAME, COMPNAME, MUKIND, FRMLNDCLS, HYDRCRATNG, DRAINCLASS, MINSURFTEXT, TFACTOR, AWS100, AWS25, DEP2WATTBL, DWELLWB, HYDROLGRP, NIRRLCC, ROADS, SEPTANKAF, SLOPE_1, FLOODING, PONDING, CORCONCRET, TAXCLNAME, CM2RESLYR, RESKIND, PARMATNM, UNIFSOILCL, AASHTO, KFACTRF, KFACTWS, PHWATER, CLAY, KSAT, OM, SAND, NLEACHING, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

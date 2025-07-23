@@ -1,0 +1,25 @@
+{
+  "document_title": "Stream Gaging Stations by Funding",
+  "document_id": "massgis:GISDATA.GAGES94_PT",
+  "layer_id": "massgis:GISDATA.GAGES94_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.GAGES94_PT",
+  "category": "Environmental Monitoring (testing/monitoring sites)",
+  "subcategory": "Stream Gaging Stations",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "stream gaging",
+    "stream gaging stations",
+    "streamflow gages",
+    "gauging stations",
+    "water monitoring",
+    "hydrology stations",
+    "usgs gages",
+    "funded gages",
+    "environmental monitoring",
+    "gisdata.gages94_pt"
+  ],
+  "column_summary": "OBJECTID, STATION_, LON, LAT, FUND, CODE, SHAPE"
+}

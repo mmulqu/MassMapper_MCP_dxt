@@ -1,0 +1,25 @@
+{
+  "document_title": "Construction and Demolition Processors",
+  "document_id": "massgis:GISDATA.BWP_PT_HF_CD_PROC",
+  "layer_id": "massgis:GISDATA.BWP_PT_HF_CD_PROC",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BWP_PT_HF_CD_PROC",
+  "category": "Regulated Areas",
+  "subcategory": "MassDEP Solid Waste Diversion and Disposal",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "construction and demolition processors",
+    "construction waste processors",
+    "demolition waste processors",
+    "cd processors",
+    "c d processors",
+    "solid waste diversion",
+    "massdep solid waste",
+    "construction waste",
+    "demolition waste",
+    "bwp_pt_hf_cd_proc"
+  ],
+  "column_summary": "OBJECTID, FAC_ID, RO_ACCT, ROOT_ID, SITE_NAME, ADDRESS, TOWN, REGION, SHAPE"
+}

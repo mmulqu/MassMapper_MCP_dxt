@@ -1,0 +1,24 @@
+{
+  "document_title": "2019 Aerial Imagery",
+  "document_id": "Orthos_2019",
+  "layer_id": "Orthos_2019",
+  "layer_type": "tiled_overlay",
+  "layer_date": "2019",
+  "layer_description": "Aerial/satellite imagery.",
+  "category": "Images",
+  "subcategory": "Aerial Photos (Ortho Imagery)",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "2019 aerial imagery",
+    "aerial photos",
+    "satellite imagery",
+    "ortho imagery",
+    "orthophoto",
+    "orthos 2019",
+    "2019 orthoimagery",
+    "ortho photos",
+    "massgis",
+    "geoserver"
+  ]
+}

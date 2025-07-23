@@ -1,0 +1,24 @@
+{
+  "document_title": "DEP 2010 Integrated List Rivers",
+  "document_id": "massgis:GISDATA.IL_2010_ARC_V",
+  "layer_id": "massgis:GISDATA.IL_2010_ARC_V",
+  "layer_type": "line",
+  "layer_date": "2010",
+  "layer_description": "GeoServer layer: GISDATA.IL_2010_ARC_V",
+  "category": "Regulated Areas",
+  "subcategory": "DEP Integrated List of Waters",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dep integrated list",
+    "integrated list of waters",
+    "2010 rivers",
+    "massgis il_2010_arc_v",
+    "regulated areas",
+    "geoserver layer",
+    "water quality",
+    "streams",
+    "rivers"
+  ],
+  "column_summary": "OBJECTID, WBID_2010, WATERSHED, WATERBODY, AU_ID, LOCATION1, LOCATION2, WATERCODE, WATERTYPE, AU_SIZE, SIZE_UNIT, CLASS, CATEGORY, TMDL_COUNT, USE, ATTAINMENT, CAUSE, SOURCE, TMDLEPA_ID, TMDLDWM_ID, DWM_TITLE, INFO_NAME, SHAPE, SHAPE.LEN"
+}

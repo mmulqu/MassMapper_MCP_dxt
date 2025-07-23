@@ -1,0 +1,25 @@
+{
+  "document_title": "Tracks and Trails MHD",
+  "document_id": "massgis:GISDATA.TRAILS_ARC",
+  "layer_id": "massgis:GISDATA.TRAILS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TRAILS_ARC",
+  "category": "Conservation / Recreation",
+  "subcategory": "Trails",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "tracks and trails",
+    "trails",
+    "tracks",
+    "hiking trails",
+    "walking trails",
+    "bike trails",
+    "trail network",
+    "recreation trails",
+    "massgis trails",
+    "gisdata trails"
+  ],
+  "column_summary": "OBJECTID, TRAILS_ID, CLASS, SHAPE, SHAPE.LEN"
+}

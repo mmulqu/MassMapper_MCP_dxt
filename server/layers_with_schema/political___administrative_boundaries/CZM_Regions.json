@@ -1,0 +1,25 @@
+{
+  "document_title": "CZM Regions",
+  "document_id": "massgis:GISDATA.REGCZM_POLY",
+  "layer_id": "massgis:GISDATA.REGCZM_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGCZM_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "CZM Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "czm regions",
+    "coastal zone management",
+    "massachusetts czm",
+    "coastal boundaries",
+    "administrative boundaries",
+    "political boundaries",
+    "marine regions",
+    "coastal management zones",
+    "gisdata regczm_poly",
+    "czm region polygons"
+  ],
+  "column_summary": "OBJECTID, REGION, URL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

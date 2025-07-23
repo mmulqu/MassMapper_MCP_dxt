@@ -1,0 +1,25 @@
+{
+  "document_title": "Hiking and Wilderness Trails",
+  "document_id": "massgis:MAD.TRAILS_SV_PUBLIC",
+  "layer_id": "massgis:MAD.TRAILS_SV_PUBLIC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: MAD.TRAILS_SV_PUBLIC",
+  "category": "Conservation / Recreation",
+  "subcategory": "Trails",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "hiking trails",
+    "wilderness trails",
+    "public trails",
+    "walking trails",
+    "recreation trails",
+    "massgis trails",
+    "mad trails",
+    "outdoor trails",
+    "hiking routes",
+    "backpacking trails"
+  ],
+  "column_summary": "OBJECTID, GPS_DATE, ALT_NAME, EDITOR_INI, SCR_TR_ID, DATE_ADDED, DATE_EDITD, SRC_DATE, SRC_DATA, TRAIL_NAME, COLOR, COLOR2, COLOR3, COLOR4, COLOR5, TRAIL_SYMBOL, TOWN, TOWN_ID, SITE_NAME, SHAPE, SHAPE.LEN"
+}

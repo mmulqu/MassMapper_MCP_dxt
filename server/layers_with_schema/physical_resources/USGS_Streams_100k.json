@@ -1,0 +1,25 @@
+{
+  "document_title": "USGS Streams 100k",
+  "document_id": "massgis:GISDATA.HYDRO100K_ARC",
+  "layer_id": "massgis:GISDATA.HYDRO100K_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.HYDRO100K_ARC",
+  "category": "Physical Resources",
+  "subcategory": "Hydrography Water Features",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "usgs streams",
+    "streams",
+    "waterways",
+    "hydrography",
+    "rivers",
+    "stream network",
+    "usgs hydrography",
+    "massgis hydrology",
+    "streams 100k",
+    "water features"
+  ],
+  "column_summary": "OBJECTID, BAS_ID, SARIS_ID, FEATURE, NAME, SHAPE, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Openspace Boundaries by Type",
+  "document_id": "massgis:GISDATA.OPENSPACE_ARC",
+  "layer_id": "massgis:GISDATA.OPENSPACE_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.OPENSPACE_ARC",
+  "category": "Conservation / Recreation",
+  "subcategory": "Openspace",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "openspace boundaries",
+    "openspace",
+    "boundaries",
+    "conservation",
+    "recreation",
+    "massgis",
+    "gisdata",
+    "arc",
+    "line",
+    "openspace type"
+  ],
+  "column_summary": "OBJECTID, CODE, SRCTYPE_PRIM, SRCTYPE_SEC, ARC_DATE, DROPLINE, COMMENTS, SHAPE, SHAPE.LEN"
+}

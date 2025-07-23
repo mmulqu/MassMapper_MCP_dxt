@@ -1,0 +1,24 @@
+{
+  "document_title": "Non-acute Care Hospitals Labels",
+  "document_id": "massgis:GISDATA.HOSPITALS_NONACUTE_PT",
+  "layer_id": "massgis:GISDATA.HOSPITALS_NONACUTE_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.HOSPITALS_NONACUTE_PT",
+  "category": "Infrastructure",
+  "subcategory": "Hospitals",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "non-acute hospital",
+    "non acute care",
+    "rehabilitation hospital",
+    "long-term care facility",
+    "hospital labels",
+    "healthcare infrastructure",
+    "nonacute hospitals",
+    "pt layer",
+    "hospitals"
+  ],
+  "column_summary": "OBJECTID, IDNUMBER, FAC_NAME, ADDRESS, TOWN, GEOG_TOWN, ZIPCODE, CHIAREGION, TELEPHONE, COHORT, HOSPSYSTEM, TAXSTATUS, BEDCOUNT, MADID, EMSREGION, SHAPE"
+}

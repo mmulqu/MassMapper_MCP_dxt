@@ -1,0 +1,25 @@
+{
+  "document_title": "NHESP Certified Vernal Pools",
+  "document_id": "massgis:GISDATA.CVP_PT",
+  "layer_id": "massgis:GISDATA.CVP_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CVP_PT",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "nhesp",
+    "vernal pools",
+    "certified vernal pools",
+    "vernal pool locations",
+    "wetland pools",
+    "amphibian breeding",
+    "seasonal pools",
+    "wildlife habitat",
+    "conservation data",
+    "natural heritage"
+  ],
+  "column_summary": "OBJECTID, CVP_NUM, CRITERIA, CERTIFIED, SHAPE"
+}

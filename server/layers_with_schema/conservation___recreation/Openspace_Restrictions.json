@@ -1,0 +1,25 @@
+{
+  "document_title": "Openspace Restrictions",
+  "document_id": "massgis:GISDATA.OPENSPACE_POLY",
+  "layer_id": "massgis:GISDATA.OPENSPACE_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.OPENSPACE_POLY",
+  "category": "Conservation / Recreation",
+  "subcategory": "Openspace",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "openspace restrictions",
+    "open space",
+    "land use restrictions",
+    "conservation",
+    "recreation",
+    "protected areas",
+    "public land",
+    "massgis openspace",
+    "gisdata openspace poly",
+    "geoserver"
+  ],
+  "column_summary": "OBJECTID, TOWN_ID, POLY_ID, SITE_NAME, FEE_OWNER, OWNER_ABRV, OWNER_TYPE, MANAGER, MANAGR_ABRV, MANAGR_TYPE, PRIM_PURP, PUB_ACCESS, LEV_PROT, OLI_1_ORG, OLI_1_ABRV, OLI_1_TYPE, OLI_1_INT, OLI_2_ORG, OLI_2_ABRV, OLI_2_TYPE, OLI_2_INT, OLI_3_ORG, OLI_3_ABRV, OLI_3_TYPE, OLI_3_INT, GRANTPROG1, GRANTTYPE1, GRANTPROG2, GRANTTYPE2, PROJ_ID1, PROJ_ID2, PROJ_ID3, EOEAINVOLVE, ARTICLE97, FY_FUNDING, GIS_ACRES, DEED_ACRES, OS_DEED_BOOK, OS_DEED_PAGE, ASSESS_ACRE, ASSESS_MAP, ASSESS_BLK, ASSESS_LOT, ASSESS_SUB, ALT_SITE_NAME, ATT_DATE, BASE_MAP, SOURCE_MAP, SOURCE_TYPE, COMMENTS, LOC_ID, DCAM_ID, FEESYM, INTSYM, OS_ID, CAL_DATE_R, FORMAL_SITE_NAME, CR_REF, OS_TYPE, EEA_CR_ID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

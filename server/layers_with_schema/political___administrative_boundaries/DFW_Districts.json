@@ -1,0 +1,25 @@
+{
+  "document_title": "DFW Districts",
+  "document_id": "massgis:GISDATA.DFWDISTRICTS_POLY",
+  "layer_id": "massgis:GISDATA.DFWDISTRICTS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DFWDISTRICTS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "DFW Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dfw districts",
+    "division of fisheries and wildlife",
+    "fish and wildlife districts",
+    "wildlife districts",
+    "massgis dfw",
+    "massachusetts dfw",
+    "wildlife management districts",
+    "district boundaries",
+    "administrative boundaries",
+    "political boundaries"
+  ],
+  "column_summary": "OBJECTID, DISTRICT, ACRES, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

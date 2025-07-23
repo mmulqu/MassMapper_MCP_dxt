@@ -1,0 +1,24 @@
+{
+  "document_title": "Solid Waste - Recycling Operations",
+  "document_id": "massgis:GISDATA.BWP_PT_OPX_RECY_SV",
+  "layer_id": "massgis:GISDATA.BWP_PT_OPX_RECY_SV",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BWP_PT_OPX_RECY_SV",
+  "category": "Regulated Areas",
+  "subcategory": "MassDEP Solid Waste Diversion and Disposal",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "solid waste",
+    "recycling operations",
+    "recycling facilities",
+    "massdep",
+    "waste diversion",
+    "waste disposal",
+    "recycling drop-off",
+    "regulated areas",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, FAC_ID, RO_ACCT, ROOT_ID, SITE_NAME, ADDRESS, TOWN, REGION, CLASS_TYPE_CODE, SHAPE"
+}

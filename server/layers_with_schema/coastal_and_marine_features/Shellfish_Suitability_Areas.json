@@ -1,0 +1,25 @@
+{
+  "document_title": "Shellfish Suitability Areas",
+  "document_id": "massgis:GISDATA.SHELLFISHSUIT_POLY",
+  "layer_id": "massgis:GISDATA.SHELLFISHSUIT_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SHELLFISHSUIT_POLY",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Shellfish Suitability Areas",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "shellfish",
+    "shellfish suitability",
+    "shellfish areas",
+    "shellfish growing areas",
+    "shellfish habitats",
+    "marine shellfish",
+    "coastal shellfish",
+    "shellfish waters",
+    "massgis shellfish",
+    "shellfish polygon"
+  ],
+  "column_summary": "OBJECTID, HABITAT, COM_NAME, LH_STAGE, BEGIN_DATE, END_DATE, ENTRY_DATE, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

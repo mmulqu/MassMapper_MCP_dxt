@@ -1,0 +1,3 @@
+httpx>=0.27        # async HTTP client
+mcp>=0.6.1         # Model Context Protocol runtime
+pyproj>=3.7        # CRS transforms

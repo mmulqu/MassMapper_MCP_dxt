@@ -1,0 +1,24 @@
+{
+  "document_title": "Potential Vernal Pools",
+  "document_id": "massgis:GISDATA.PVP_PT",
+  "layer_id": "massgis:GISDATA.PVP_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.PVP_PT",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "potential vernal pools",
+    "vernal pools",
+    "seasonal pools",
+    "ephemeral wetlands",
+    "amphibian breeding habitat",
+    "natural heritage",
+    "conservation",
+    "wetlands",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, TOWN_ID, TOWN, PVP_NUMBER, SHAPE"
+}

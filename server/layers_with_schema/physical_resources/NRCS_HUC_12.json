@@ -1,0 +1,25 @@
+{
+  "document_title": "NRCS HUC 12",
+  "document_id": "massgis:GISDATA.NRCSHUC12_POLY",
+  "layer_id": "massgis:GISDATA.NRCSHUC12_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.NRCSHUC12_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Watersheds",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "nrcs huc 12",
+    "huc 12",
+    "huc12",
+    "hydrologic unit code",
+    "watershed boundaries",
+    "drainage basins",
+    "massgis",
+    "watersheds",
+    "gisdata",
+    "geoserver"
+  ],
+  "column_summary": "OBJECTID, HU_12_NAME, HUC_12, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Diadromous Fish Migratory Habitat",
+  "document_id": "massgis:GISDATA.DF_MIGRATORY_HABITAT_ARC",
+  "layer_id": "massgis:GISDATA.DF_MIGRATORY_HABITAT_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DF_MIGRATORY_HABITAT_ARC",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Diadromous Fish",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "diadromous fish",
+    "migratory habitat",
+    "fish migration",
+    "river habitats",
+    "anadromous fish",
+    "catadromous fish",
+    "fish passage",
+    "diadromous habitat",
+    "migratory fish",
+    "fish migration corridors"
+  ],
+  "column_summary": "OBJECTID, ACCESSIBLE, FALL_RESTRICTION, SPRING_RESTRICTION, NAME, ALEWIFE, BLUEBACK_HERRING, RAINBOW_SMELT, AMERICAN_EEL, WHITE_PERCH, ATLANTIC_TOMCOD, SEA_LAMPREY, SHORT_NOSE_STURGEON, ATLANTIC_STURGEON, AMERICAN_SHAD, CREATIONDATE, CREATOR, EDITDATE, EDITOR, SHAPE, SHAPE.LEN"
+}

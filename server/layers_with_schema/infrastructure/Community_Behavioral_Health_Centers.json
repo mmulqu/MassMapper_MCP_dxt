@@ -1,0 +1,24 @@
+{
+  "document_title": "Community Behavioral Health Centers",
+  "document_id": "massgis:GISDATA.CBHC_PT",
+  "layer_id": "massgis:GISDATA.CBHC_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CBHC_PT",
+  "category": "Infrastructure",
+  "subcategory": "Community Behavioral Health Centers",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "community behavioral health centers",
+    "behavioral health centers",
+    "mental health centers",
+    "community mental health",
+    "behavioral health",
+    "mental health",
+    "cbhc",
+    "mental health services",
+    "community health centers"
+  ],
+  "column_summary": "OBJECTID, NAME, ADDRESS, MUNICIPALITY, GEOG_MUNI, ZIP_CODE, PHONE, WEBSITE, MAD_ID, SHAPE"
+}

@@ -1,0 +1,26 @@
+{
+  "document_title": "DFS State Hazmat Districts",
+  "document_id": "massgis:GISDATA.DFS_HMD_POLY",
+  "layer_id": "massgis:GISDATA.DFS_HMD_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DFS_HMD_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "DFS Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "hazmat districts",
+    "state hazmat districts",
+    "dfs hazmat",
+    "hazardous materials districts",
+    "dfs district boundaries",
+    "hazmat response areas",
+    "massgis dfs hmd",
+    "dfs hmd poly",
+    "political administrative boundaries",
+    "dfs districts",
+    "emergency response districts"
+  ],
+  "column_summary": "OBJECTID, HAZMATDIST, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

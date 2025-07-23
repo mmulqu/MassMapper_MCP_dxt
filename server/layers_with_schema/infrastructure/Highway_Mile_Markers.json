@@ -1,0 +1,23 @@
+{
+  "document_title": "Highway Mile Markers",
+  "document_id": "massgis:MAD.MILEPOSTS",
+  "layer_id": "massgis:MAD.MILEPOSTS",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "Road network data. GeoServer layer: MAD.MILEPOSTS",
+  "category": "Infrastructure",
+  "subcategory": "Highway Mile Markers",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "highway mile markers",
+    "mile markers",
+    "mileposts",
+    "route mileposts",
+    "road network",
+    "interstate mile markers",
+    "massgis mileposts",
+    "geoserver mile markers"
+  ],
+  "column_summary": "OBJECTID, EVENT_ID, ROUTE_ID, MEASURE, MILE_POINT, GPS_X, GPS_Y, TOWN, ZIP, LABEL, SHAPE"
+}

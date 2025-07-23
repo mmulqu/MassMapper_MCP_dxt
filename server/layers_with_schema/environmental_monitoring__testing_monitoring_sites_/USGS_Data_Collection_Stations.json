@@ -1,0 +1,25 @@
+{
+  "document_title": "USGS Data Collection Stations",
+  "document_id": "massgis:GISDATA.DCSITE98_PT",
+  "layer_id": "massgis:GISDATA.DCSITE98_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DCSITE98_PT",
+  "category": "Environmental Monitoring (testing/monitoring sites)",
+  "subcategory": "USGS Data Collection Stations",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "usgs",
+    "usgs data collection",
+    "data collection stations",
+    "water monitoring",
+    "stream gages",
+    "environmental monitoring",
+    "monitoring sites",
+    "monitoring points",
+    "massgis",
+    "gisdata dcsite98"
+  ],
+  "column_summary": "OBJECTID, STAID, LAT, LON, TYPE, SHAPE"
+}

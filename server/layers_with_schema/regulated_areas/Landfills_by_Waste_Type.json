@@ -1,0 +1,25 @@
+{
+  "document_title": "Landfills by Waste Type",
+  "document_id": "massgis:GISDATA.SW_LD_PT_LANDFILLS_SV",
+  "layer_id": "massgis:GISDATA.SW_LD_PT_LANDFILLS_SV",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SW_LD_PT_LANDFILLS_SV",
+  "category": "Regulated Areas",
+  "subcategory": "MassDEP Solid Waste Diversion and Disposal",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "landfills",
+    "landfill sites",
+    "waste type",
+    "solid waste",
+    "waste disposal",
+    "waste diversion",
+    "massdep",
+    "massachusetts",
+    "regulated areas",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, RO_ACCT, SITE_NAME, ADDRESS, TOWN, LF_LINER, WASTE_TYPE, ACRES, SW_ID, SHAPE"
+}

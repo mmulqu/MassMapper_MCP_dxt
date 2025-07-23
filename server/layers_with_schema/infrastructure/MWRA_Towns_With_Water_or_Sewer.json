@@ -1,0 +1,25 @@
+{
+  "document_title": "MWRA Towns With Water or Sewer",
+  "document_id": "massgis:GISDATA.MWRASERVICE_POLY",
+  "layer_id": "massgis:GISDATA.MWRASERVICE_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MWRASERVICE_POLY",
+  "category": "Infrastructure",
+  "subcategory": "MWRA Towns With Water or Sewer",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mwra",
+    "massachusetts water resources authority",
+    "towns",
+    "municipalities",
+    "water service",
+    "sewer service",
+    "service area",
+    "infrastructure",
+    "water distribution",
+    "sewer coverage"
+  ],
+  "column_summary": "OBJECTID, CODE, TOWN_ID, TOWN, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

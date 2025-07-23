@@ -1,0 +1,23 @@
+{
+  "document_title": "MassDOT Highway Districts Outlines",
+  "document_id": "massgis:GISDATA.MHDDISTRICTS_ARC",
+  "layer_id": "massgis:GISDATA.MHDDISTRICTS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "Road network data. GeoServer layer: GISDATA.MHDDISTRICTS_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "MassDOT Highway Districts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massdot highway districts",
+    "mhd districts",
+    "highway district outlines",
+    "road network",
+    "administrative boundaries",
+    "massachusetts highways",
+    "massgis",
+    "line layer"
+  ],
+  "column_summary": "OBJECTID, OUTLINE, SHAPE, SHAPE.LEN"
+}

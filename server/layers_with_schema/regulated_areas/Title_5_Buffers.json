@@ -1,0 +1,25 @@
+{
+  "document_title": "Title 5 Buffers",
+  "document_id": "massgis:GISDATA.TITLE5_POLY",
+  "layer_id": "massgis:GISDATA.TITLE5_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TITLE5_POLY",
+  "category": "Regulated Areas",
+  "subcategory": "Title 5 Buffers",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "title 5 buffers",
+    "title five buffers",
+    "title v buffers",
+    "septic system buffers",
+    "septic buffers",
+    "title5",
+    "gisdata.title5_poly",
+    "massgis title5",
+    "regulatory buffers",
+    "title 5 layer"
+  ],
+  "column_summary": "OBJECTID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

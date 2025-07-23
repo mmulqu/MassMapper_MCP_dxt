@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2000 Town Boundaries Shaded",
+  "document_id": "massgis:GISDATA.CENSUS2000TOWNS_POLY",
+  "layer_id": "massgis:GISDATA.CENSUS2000TOWNS_POLY",
+  "layer_type": "poly",
+  "layer_date": "2000",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2000TOWNS_POLY",
+  "category": "Census",
+  "subcategory": "Census 2000",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2000 town boundaries",
+    "census 2000",
+    "town boundaries",
+    "towns",
+    "municipal boundaries",
+    "shaded boundaries",
+    "massachusetts towns",
+    "massgis census",
+    "census polygons",
+    "town polygons"
+  ],
+  "column_summary": "OBJECTID, TOWN_ID, TOWN, POP1980, POP1990, POP2000, POPCH80_90, POPCH90_00, ACRES, SQ_MI, POP2010, POPCH00_10, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

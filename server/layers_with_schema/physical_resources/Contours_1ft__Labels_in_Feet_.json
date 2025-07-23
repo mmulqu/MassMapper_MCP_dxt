@@ -1,0 +1,24 @@
+{
+  "document_title": "Contours 1ft (Labels in Feet)",
+  "document_id": "massgis:GISDATA.CONTOURS_1FT_2021_ARC",
+  "layer_id": "massgis:GISDATA.CONTOURS_1FT_2021_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CONTOURS_1FT_2021_ARC",
+  "category": "Physical Resources",
+  "subcategory": "Topography Contours",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "contours 1ft",
+    "1 foot contours",
+    "contour lines",
+    "elevation lines",
+    "elevation contours",
+    "topography",
+    "topographic contours",
+    "contours feet",
+    "massgis contours"
+  ],
+  "column_summary": "OBJECTID, ELEV_M, ELEV_FT, INDEX_, SHAPE, SHAPE.LEN"
+}

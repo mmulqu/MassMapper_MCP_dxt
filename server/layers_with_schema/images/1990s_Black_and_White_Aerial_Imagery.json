@@ -1,0 +1,24 @@
+{
+  "document_title": "1990s Black and White Aerial Imagery",
+  "document_id": "Orthos_BW",
+  "layer_id": "Orthos_BW",
+  "layer_type": "tiled_overlay",
+  "layer_date": "1990",
+  "layer_description": "Aerial/satellite imagery.",
+  "category": "Images",
+  "subcategory": "Aerial Photos (Ortho Imagery)",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "1990s aerial imagery",
+    "black and white aerial",
+    "bw orthophoto",
+    "ortho imagery",
+    "aerial photos",
+    "tiled overlay",
+    "massgis orthos",
+    "geoserver imagery",
+    "orthophotos",
+    "orthos_bw"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Surficial Geology 24k Overlay - Areas of abundant outcrop or shallow bedrock",
+  "document_id": "massgis:GISDATA.SURFGEO24K_OVERLAY_POLY",
+  "layer_id": "massgis:GISDATA.SURFGEO24K_OVERLAY_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.SURFGEO24K_OVERLAY_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Surficial Geology",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "surficial geology",
+    "outcrop",
+    "shallow bedrock",
+    "geology overlay",
+    "24k geology",
+    "massgis",
+    "bedrock mapping",
+    "geologic map",
+    "physical resources",
+    "surficial overlay"
+  ],
+  "column_summary": "OBJECTID, TYPE, IDECONF, LABEL, SYMBOL, DATSRCID, NOTES, OVEPOL_ID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

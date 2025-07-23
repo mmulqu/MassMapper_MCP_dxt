@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Core Habitat Components: Forest Core",
+  "document_id": "massgis:GISDATA.BM3_CH_FOREST_CORE",
+  "layer_id": "massgis:GISDATA.BM3_CH_FOREST_CORE",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_CH_FOREST_CORE",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap",
+    "biomap core",
+    "core habitat",
+    "forest core",
+    "forest habitat",
+    "natural heritage",
+    "habitat components",
+    "bm3",
+    "bm3 ch",
+    "massgis forest"
+  ],
+  "column_summary": "OBJECTID, CH_FC_ID, AC_CH_FC, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

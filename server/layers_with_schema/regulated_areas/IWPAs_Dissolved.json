@@ -1,0 +1,25 @@
+{
+  "document_title": "IWPAs Dissolved",
+  "document_id": "massgis:GISDATA.IWPA_POLY_DISSOLVE",
+  "layer_id": "massgis:GISDATA.IWPA_POLY_DISSOLVE",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.IWPA_POLY_DISSOLVE",
+  "category": "Regulated Areas",
+  "subcategory": "Wellhead Protection Areas",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "iwpa",
+    "interim wellhead protection area",
+    "wellhead protection areas",
+    "dissolved iwpa",
+    "iwpa polygon",
+    "regulated areas",
+    "groundwater protection",
+    "drinking water protection",
+    "massgis",
+    "geoserver"
+  ],
+  "column_summary": "OBJECTID, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

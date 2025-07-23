@@ -1,0 +1,27 @@
+{
+  "document_title": "Courthouses Labels",
+  "document_id": "massgis:GISDATA.COURTHOUSES_PT",
+  "layer_id": "massgis:GISDATA.COURTHOUSES_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.COURTHOUSES_PT",
+  "category": "Infrastructure",
+  "subcategory": "Courthouses",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "courthouses",
+    "courthouse",
+    "courthouses labels",
+    "courthouse labels",
+    "courthouses pt",
+    "court house",
+    "law",
+    "legal",
+    "judicial",
+    "massgis",
+    "gisdata courthouses",
+    "infrastructure"
+  ],
+  "column_summary": "OBJECTID, NAME, ADDRESS, CITY, COUNTY, OWNER, COURTROOM, DEPT_FULL, SATELLITE, SJC, SC, DC, JC, PFC, BMC, HC, AC, LC, MAD_ID, SHAPE, LAWLIB"
+}

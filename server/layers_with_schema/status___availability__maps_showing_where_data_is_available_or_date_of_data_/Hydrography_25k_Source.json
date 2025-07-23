@@ -1,0 +1,25 @@
+{
+  "document_title": "Hydrography 25k Source",
+  "document_id": "massgis:GISDATA.HYDRO25K_SOURCE",
+  "layer_id": "massgis:GISDATA.HYDRO25K_SOURCE",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.HYDRO25K_SOURCE",
+  "category": "Status / Availability (maps showing where data is available or date of data)",
+  "subcategory": "USGS Hydrography 25k",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "hydrography",
+    "usgs",
+    "25k",
+    "waterways",
+    "rivers",
+    "streams",
+    "hydrology",
+    "source",
+    "massachusetts",
+    "water features"
+  ],
+  "column_summary": "OBJECTID, SRC_CODE, QUAD_NAME, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

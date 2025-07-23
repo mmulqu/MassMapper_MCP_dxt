@@ -1,0 +1,25 @@
+{
+  "document_title": "Amtrak Stations",
+  "document_id": "massgis:GISDATA.TRAINS_NODE",
+  "layer_id": "massgis:GISDATA.TRAINS_NODE",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TRAINS_NODE",
+  "category": "Infrastructure",
+  "subcategory": "Trains",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "amtrak",
+    "amtrak stations",
+    "train stations",
+    "rail stations",
+    "passenger rail",
+    "rail stops",
+    "train stops",
+    "rail nodes",
+    "massachusetts trains",
+    "rail network"
+  ],
+  "column_summary": "OBJECTID, STATION, C_RAILSTAT, AMTRAK, MAP_STA, LINE_BRNCH, STATE, SHAPE"
+}

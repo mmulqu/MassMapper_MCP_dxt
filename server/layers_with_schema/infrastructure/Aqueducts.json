@@ -1,0 +1,25 @@
+{
+  "document_title": "Aqueducts",
+  "document_id": "massgis:GISDATA.AQUEDUCTS_ARC",
+  "layer_id": "massgis:GISDATA.AQUEDUCTS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.AQUEDUCTS_ARC",
+  "category": "Infrastructure",
+  "subcategory": "Aqueducts",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "aqueducts",
+    "aqueduct",
+    "water supply",
+    "water infrastructure",
+    "pipeline",
+    "historic aqueduct",
+    "massgis",
+    "gisdata",
+    "infrastructure",
+    "hydraulic channel"
+  ],
+  "column_summary": "OBJECTID, PIPE, TYPE, NAME, SHAPE, SHAPE.LEN"
+}

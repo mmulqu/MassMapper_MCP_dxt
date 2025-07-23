@@ -1,0 +1,25 @@
+{
+  "document_title": "ZIP Codes (5-Digit) from HERE (Navteq)",
+  "document_id": "massgis:GISDATA.ZIPCODES_NT_POLY",
+  "layer_id": "massgis:GISDATA.ZIPCODES_NT_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.ZIPCODES_NT_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "ZIP Codes",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "zip codes",
+    "zipcode",
+    "5-digit zip",
+    "postal codes",
+    "zip code boundaries",
+    "zip code polygons",
+    "navteq",
+    "here",
+    "zip code layer",
+    "massgis zip codes"
+  ],
+  "column_summary": "OBJECTID, POSTCODE, PC_NAME, PC_TYPE, PA_NAME, PA_FIPS, CITY_TOWN, COUNTY, AREA_SQMI, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Land Use 1999 21 Classes",
+  "document_id": "massgis:GISDATA.LANDUSE_POLY",
+  "layer_id": "massgis:GISDATA.LANDUSE_POLY",
+  "layer_type": "poly",
+  "layer_date": "1999",
+  "layer_description": "GeoServer layer: GISDATA.LANDUSE_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Land Use",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "land use",
+    "land use 1999",
+    "land use 21 classes",
+    "massgis land use",
+    "landuse poly",
+    "land use polygons",
+    "landuse classification",
+    "physical resources",
+    "gisdata.landuse_poly",
+    "landuse layer"
+  ],
+  "column_summary": "OBJECTID, TILE_NAME, LU_ID, LU21_1971, LU21_1985, LU37_1985, LU21_1999, LU37_1999, RELATEID, AREA_ACRES, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

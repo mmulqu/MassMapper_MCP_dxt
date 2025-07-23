@@ -1,0 +1,24 @@
+{
+  "document_title": "2023 Aerial Imagery Index",
+  "document_id": "massgis:GISDATA.COQ2023INDEX_POLY",
+  "layer_id": "massgis:GISDATA.COQ2023INDEX_POLY",
+  "layer_type": "poly",
+  "layer_date": "2023",
+  "layer_description": "Aerial/satellite imagery. GeoServer layer: GISDATA.COQ2023INDEX_POLY",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "2023 Aerial Imagery Index",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "2023 aerial imagery",
+    "aerial imagery index",
+    "imagery grid",
+    "tile index",
+    "orthophoto index",
+    "coq2023 index",
+    "massgis imagery",
+    "imagery tiles",
+    "geoserver layer",
+    "aerial photo index"
+  ]
+}

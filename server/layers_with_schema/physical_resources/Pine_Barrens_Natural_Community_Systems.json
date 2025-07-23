@@ -1,0 +1,25 @@
+{
+  "document_title": "Pine Barrens Natural Community Systems",
+  "document_id": "massgis:GISDATA.VCPINEBARRENS_POLY",
+  "layer_id": "massgis:GISDATA.VCPINEBARRENS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.VCPINEBARRENS_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Priority Natural Vegetation Communities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "pine barrens",
+    "natural communities",
+    "vegetation communities",
+    "priority natural vegetation",
+    "barrens ecosystems",
+    "pine barrens systems",
+    "barrens habitat",
+    "massgis pine barrens",
+    "natural vegetation",
+    "pine barrens ecology"
+  ],
+  "column_summary": "OBJECTID, NHCODE, TOWN, LABEL, GEN_LABEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

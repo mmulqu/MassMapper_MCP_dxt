@@ -1,0 +1,25 @@
+{
+  "document_title": "Connecticut Towns Labels",
+  "document_id": "massgis:GISDATA.CTTOWNS_POLY",
+  "layer_id": "massgis:GISDATA.CTTOWNS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CTTOWNS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "New England States",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "connecticut",
+    "ct towns",
+    "town labels",
+    "town boundaries",
+    "new england",
+    "administrative boundaries",
+    "ct polygon",
+    "massgis",
+    "gisdata",
+    "geoserver"
+  ],
+  "column_summary": "OBJECTID, TNA, FEATURE, ACRES, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

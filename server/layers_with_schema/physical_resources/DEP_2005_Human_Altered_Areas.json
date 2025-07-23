@@ -1,0 +1,25 @@
+{
+  "document_title": "DEP 2005 Human Altered Areas",
+  "document_id": "massgis:GISDATA.WETLANDSDEP_ADHC_POLY",
+  "layer_id": "massgis:GISDATA.WETLANDSDEP_ADHC_POLY",
+  "layer_type": "poly",
+  "layer_date": "2005",
+  "layer_description": "GeoServer layer: GISDATA.WETLANDSDEP_ADHC_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Hydrography Water Features",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "human altered areas",
+    "altered wetlands",
+    "wetland alterations",
+    "dep 2005",
+    "hydrography water features",
+    "man-made wetlands",
+    "wetland boundaries",
+    "dep wetlands",
+    "massgis wetlands",
+    "wetlands polygon"
+  ],
+  "column_summary": "OBJECTID, WETCODE, IT_VALC, IT_VALDESC, POLY_CODE, AREAACRES, AREASQMI, LABEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

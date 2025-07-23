@@ -1,0 +1,24 @@
+{
+  "document_title": "Major Basins Shaded",
+  "document_id": "massgis:GISDATA.MAJBAS_POLY",
+  "layer_id": "massgis:GISDATA.MAJBAS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MAJBAS_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Watersheds",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "major basins",
+    "watersheds",
+    "drainage basins",
+    "basin boundaries",
+    "hydrology",
+    "river basins",
+    "watershed map",
+    "massachusetts watersheds",
+    "hydrographic basins"
+  ],
+  "column_summary": "OBJECTID, AREA_ACRES, BAS_ID, NAME, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

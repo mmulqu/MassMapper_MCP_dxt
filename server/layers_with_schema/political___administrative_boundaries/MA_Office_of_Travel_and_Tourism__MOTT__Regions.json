@@ -1,0 +1,25 @@
+{
+  "document_title": "MA Office of Travel and Tourism (MOTT) Regions",
+  "document_id": "massgis:GISDATA.REGMOTT_POLY",
+  "layer_id": "massgis:GISDATA.REGMOTT_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGMOTT_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "MA Office of Travel and Tourism (MOTT)",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mott regions",
+    "ma tourism",
+    "massachusetts tourism regions",
+    "travel and tourism",
+    "tourism office boundaries",
+    "political administrative boundaries",
+    "travel regions",
+    "tourism regions",
+    "mott",
+    "marketing regions"
+  ],
+  "column_summary": "OBJECTID, MOTT_REGION, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "Long Term Care Residences Labels",
+  "document_id": "massgis:GISDATA.LONGTERMCARE_PT",
+  "layer_id": "massgis:GISDATA.LONGTERMCARE_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.LONGTERMCARE_PT",
+  "category": "Infrastructure",
+  "subcategory": "Long Term Care Residences",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "long term care",
+    "long-term care",
+    "long term care residences",
+    "assisted living",
+    "nursing home",
+    "elder care",
+    "senior housing",
+    "healthcare facility",
+    "geriatric care",
+    "elderly care"
+  ],
+  "column_summary": "OBJECTID, FAC_TYPE, FAC_NAME, ADDRESS, MAIL_CITY, ZIPCODE, MAD_ID, REGION, SHAPE"
+}

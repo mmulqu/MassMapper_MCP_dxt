@@ -1,0 +1,24 @@
+{
+  "document_title": "Topos for Surficial Geology 24k",
+  "document_id": "Basemaps_SurfGeo24k",
+  "layer_id": "Basemaps_SurfGeo24k",
+  "layer_type": "tiled_overlay",
+  "layer_date": "",
+  "layer_description": "",
+  "category": "Physical Resources",
+  "subcategory": "Surficial Geology",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "surficial geology",
+    "geology",
+    "surficial",
+    "topographic maps",
+    "topos",
+    "24k",
+    "geologic mapping",
+    "sediment",
+    "glacial deposits",
+    "basemaps"
+  ]
+}

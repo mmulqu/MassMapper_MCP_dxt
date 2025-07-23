@@ -1,0 +1,25 @@
+{
+  "document_title": "Diadromous Fish Rainbow Smelt Spawning Habitat",
+  "document_id": "massgis:GISDATA.DF_RAINBOW_SMELT_SPAWNING_HABITAT_ARC",
+  "layer_id": "massgis:GISDATA.DF_RAINBOW_SMELT_SPAWNING_HABITAT_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.DF_RAINBOW_SMELT_SPAWNING_HABITAT_ARC",
+  "category": "Coastal and Marine Features",
+  "subcategory": "Diadromous Fish",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "rainbow smelt",
+    "smelt spawning",
+    "spawning habitat",
+    "diadromous fish",
+    "coastal and marine features",
+    "fish habitat",
+    "spawning arc",
+    "rainbow smelt habitat",
+    "massgis",
+    "gisdata df rainbow smelt"
+  ],
+  "column_summary": "OBJECTID, FISH_SPECIES, RIVER, DOWNSTREAM_LATITUDE, DOWNSTREAM_LONGITUDE, DOWNSTREAM_LANDMARK, UPSTREAM_LATITUDE, UPSTREAM_LONGITUDE, UPSTREAM_LANDMARK, CREATIONDATE, CREATOR, EDITDATE, EDITOR, CITATION, SHAPE, SHAPE.LEN"
+}

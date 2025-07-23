@@ -1,0 +1,24 @@
+{
+  "document_title": "Vermont Towns",
+  "document_id": "massgis:GISDATA.VTTOWNS_POLY",
+  "layer_id": "massgis:GISDATA.VTTOWNS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.VTTOWNS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "New England States",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "vermont towns",
+    "vt towns",
+    "town boundaries",
+    "vermont town boundaries",
+    "new england",
+    "vt municipalities",
+    "political boundaries",
+    "administrative boundaries",
+    "town polygons"
+  ],
+  "column_summary": "OBJECTID, VTTOWN_, FIPS, TOWNNAME, RPC, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

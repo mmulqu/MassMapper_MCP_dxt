@@ -1,0 +1,24 @@
+{
+  "document_title": "DEP 2010 Integrated List Lakes",
+  "document_id": "massgis:GISDATA.IL_2010_POLY_V",
+  "layer_id": "massgis:GISDATA.IL_2010_POLY_V",
+  "layer_type": "poly",
+  "layer_date": "2010",
+  "layer_description": "GeoServer layer: GISDATA.IL_2010_POLY_V",
+  "category": "Regulated Areas",
+  "subcategory": "DEP Integrated List of Waters",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dep 2010 lakes",
+    "integrated list lakes",
+    "dep integrated list",
+    "integrated list waters",
+    "massgis lakes",
+    "regulated lakes",
+    "gisdata il 2010",
+    "il 2010 poly",
+    "polygon lakes layer"
+  ],
+  "column_summary": "OBJECTID, WBID_2010, WATERSHED, WATERBODY, AU_ID, LOCATION1, LOCATION2, WATERCODE, WATERTYPE, AU_SIZE, SIZE_UNIT, CLASS, CATEGORY, TMDL_COUNT, USE, ATTAINMENT, CAUSE, SOURCE, TMDLEPA_ID, TMDLDWM_ID, DWM_TITLE, INFO_NAME, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

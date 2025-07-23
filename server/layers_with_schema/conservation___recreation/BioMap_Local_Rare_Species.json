@@ -1,0 +1,23 @@
+{
+  "document_title": "BioMap Local Rare Species",
+  "document_id": "massgis:GISDATA.BM3_LOCAL_RARE_SPECIES",
+  "layer_id": "massgis:GISDATA.BM3_LOCAL_RARE_SPECIES",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_LOCAL_RARE_SPECIES",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "biomap",
+    "local rare species",
+    "rare species",
+    "natural heritage",
+    "conservation",
+    "endangered species",
+    "rare plants",
+    "wildlife habitat"
+  ],
+  "column_summary": "OBJECTID, LOC_RAREID, AC_LOCRARE, TOWN, AC_LRSXTWN, TAXATOTAL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

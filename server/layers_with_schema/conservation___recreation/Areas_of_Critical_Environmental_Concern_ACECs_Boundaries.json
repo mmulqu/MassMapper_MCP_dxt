@@ -1,0 +1,25 @@
+{
+  "document_title": "Areas of Critical Environmental Concern ACECs Boundaries",
+  "document_id": "massgis:GISDATA.ACECS_ARC",
+  "layer_id": "massgis:GISDATA.ACECS_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.ACECS_ARC",
+  "category": "Conservation / Recreation",
+  "subcategory": "Areas of Critical Environmental Concern ACECs",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "acecs",
+    "areas of critical environmental concern",
+    "acec boundaries",
+    "critical environmental areas",
+    "conservation recreation",
+    "environmental concern boundaries",
+    "massgis",
+    "geoserver",
+    "massachusetts",
+    "gis layer"
+  ],
+  "column_summary": "OBJECTID, BND_TYPE, SOURCE, UPDATE_, FROM_ACEC, LEGEND_GRP, SHAPE, SHAPE.LEN"
+}

@@ -1,0 +1,25 @@
+{
+  "document_title": "MBTA Secondary Assessment Area",
+  "document_id": "massgis:GISDATA.RTASMBTASEC_POLY",
+  "layer_id": "massgis:GISDATA.RTASMBTASEC_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.RTASMBTASEC_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Regional Transit Authorities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mbta",
+    "secondary assessment area",
+    "assessment area",
+    "transit boundary",
+    "regional transit authorities",
+    "mbta boundary",
+    "rtasmbtasec",
+    "gisdata",
+    "political boundaries",
+    "transportation"
+  ],
+  "column_summary": "OBJECTID, LABEL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

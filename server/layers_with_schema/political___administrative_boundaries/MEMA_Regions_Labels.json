@@ -1,0 +1,25 @@
+{
+  "document_title": "MEMA Regions Labels",
+  "document_id": "massgis:GISDATA.REGMEMA_POLY",
+  "layer_id": "massgis:GISDATA.REGMEMA_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.REGMEMA_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "MEMA Regions",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "mema regions",
+    "mema",
+    "massachusetts regions",
+    "emergency management",
+    "administrative boundaries",
+    "regional labels",
+    "mema boundary",
+    "massachusetts emergency management agency",
+    "region map",
+    "mema labels"
+  ],
+  "column_summary": "OBJECTID, NAME, PHONE, POP2000, POP2010, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

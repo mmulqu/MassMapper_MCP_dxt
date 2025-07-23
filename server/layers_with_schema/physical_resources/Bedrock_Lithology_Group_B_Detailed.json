@@ -1,0 +1,25 @@
+{
+  "document_title": "Bedrock Lithology Group B Detailed",
+  "document_id": "massgis:GISDATA.BEDROCKLITHOLOGY_POLY",
+  "layer_id": "massgis:GISDATA.BEDROCKLITHOLOGY_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BEDROCKLITHOLOGY_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Bedrock Lithology",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "bedrock lithology",
+    "bedrock geology",
+    "lithology map",
+    "geologic map",
+    "rock types",
+    "bedrock map",
+    "group b",
+    "detailed lithology",
+    "geology polygons",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, STATE, HYDRO_BSN, G_PROVINCE, G_PROV_ID, ROCK_GPA, ROCK_GPB, R_GPB_ID, LITHO_CODE, LITH_MOD, BEDROCK_1, BEDROCK_2, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

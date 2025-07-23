@@ -1,0 +1,23 @@
+{
+  "document_title": "DEP Wetlands Labels",
+  "document_id": "massgis:GISDATA.WETLANDSDEP_POLY",
+  "layer_id": "massgis:GISDATA.WETLANDSDEP_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "Wetland area information. GeoServer layer: GISDATA.WETLANDSDEP_POLY",
+  "category": "Physical Resources",
+  "subcategory": "Hydrography Water Features",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "wetlands",
+    "dep wetlands",
+    "wetland labels",
+    "wetland polygons",
+    "massgis wetlands",
+    "hydrography",
+    "water features",
+    "wetland area"
+  ],
+  "column_summary": "OBJECTID, WETCODE, IT_VALC, IT_VALDESC, POLY_CODE, SOURCE, SOURCE_SCALE, AREAACRES, AREASQMI, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

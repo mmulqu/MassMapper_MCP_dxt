@@ -1,0 +1,25 @@
+{
+  "document_title": "Modeled Wind Speed at 100M",
+  "document_id": "MASS_IMG_WND_SPD100M",
+  "layer_id": "MASS_IMG_WND_SPD100M",
+  "layer_type": "tiled_overlay",
+  "layer_date": "",
+  "layer_description": "",
+  "category": "Images",
+  "subcategory": "Wind Speed",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "wind speed",
+    "wind map",
+    "modeled wind",
+    "wind 100m",
+    "wind data",
+    "wind overlay",
+    "wind resource",
+    "wind analysis",
+    "wind potential",
+    "renewable energy",
+    "wind modeling"
+  ]
+}

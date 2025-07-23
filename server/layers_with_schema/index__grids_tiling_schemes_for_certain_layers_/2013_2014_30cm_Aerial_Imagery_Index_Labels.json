@@ -1,0 +1,25 @@
+{
+  "document_title": "2013/2014 30cm Aerial Imagery Index Labels",
+  "document_id": "massgis:GISDATA.COQ2013INDEX_POLY",
+  "layer_id": "massgis:GISDATA.COQ2013INDEX_POLY",
+  "layer_type": "poly",
+  "layer_date": "2013",
+  "layer_description": "Aerial/satellite imagery. GeoServer layer: GISDATA.COQ2013INDEX_POLY",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "2013/2014 30cm Aerial ImageryIndex",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "aerial imagery",
+    "2013 aerial",
+    "2014 aerial",
+    "30cm resolution",
+    "imagery index",
+    "index labels",
+    "tile grid",
+    "orthoimagery",
+    "massgis",
+    "coq2013index"
+  ],
+  "column_summary": "OBJECTID, TILENAME, DEL_AREA, URL, MOSAIC, IMG_YEAR, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

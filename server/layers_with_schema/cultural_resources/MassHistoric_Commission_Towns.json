@@ -1,0 +1,25 @@
+{
+  "document_title": "MassHistoric Commission Towns",
+  "document_id": "massgis:GISDATA.MHCTOWNS_POLY",
+  "layer_id": "massgis:GISDATA.MHCTOWNS_POLY",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.MHCTOWNS_POLY",
+  "category": "Cultural Resources",
+  "subcategory": "MassHistoric Commission",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "masshistoric commission",
+    "mhc towns",
+    "historic towns",
+    "town boundaries",
+    "town polygons",
+    "cultural resources",
+    "massachusetts historic towns",
+    "massgis",
+    "historic commission",
+    "mhctowns_poly"
+  ],
+  "column_summary": "OBJECTID, TOWN, COMPLETE, STATUS, CODE, PENDING, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

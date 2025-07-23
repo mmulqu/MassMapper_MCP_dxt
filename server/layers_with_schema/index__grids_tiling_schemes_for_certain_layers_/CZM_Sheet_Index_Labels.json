@@ -1,0 +1,25 @@
+{
+  "document_title": "CZM Sheet Index Labels",
+  "document_id": "massgis:GISDATA.CZMSHEET_POLY",
+  "layer_id": "massgis:GISDATA.CZMSHEET_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CZMSHEET_POLY",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "CZM Sheet Index",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "czm",
+    "czm sheet index",
+    "coastal zone management",
+    "sheet labels",
+    "index grid",
+    "coastal mapping",
+    "grid index",
+    "massgis",
+    "tile index",
+    "czm index"
+  ],
+  "column_summary": "OBJECTID, NUM, NAME, LAYOUT, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

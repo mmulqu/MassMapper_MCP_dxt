@@ -1,0 +1,26 @@
+{
+  "document_title": "Governors Council 2012 Districts",
+  "document_id": "massgis:GISDATA.GOVCOUNCIL_POLY",
+  "layer_id": "massgis:GISDATA.GOVCOUNCIL_POLY",
+  "layer_type": "line",
+  "layer_date": "2012",
+  "layer_description": "GeoServer layer: GISDATA.GOVCOUNCIL_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Legislative Districts 2012",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "governors council",
+    "governor's council",
+    "massachusetts governors council",
+    "governors council districts",
+    "2012 districts",
+    "legislative districts 2012",
+    "political boundaries",
+    "administrative boundaries",
+    "massgis govcouncil",
+    "state council districts",
+    "govcouncil poly"
+  ],
+  "column_summary": "OBJECTID, DIST_NUM, DIST_NAME, MEMBER, PARTY, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

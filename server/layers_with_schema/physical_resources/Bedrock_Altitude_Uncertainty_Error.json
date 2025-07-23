@@ -1,0 +1,24 @@
+{
+  "document_title": "Bedrock Altitude Uncertainty Error",
+  "document_id": "Bedrock_Altitude_Uncertainty_Error",
+  "layer_id": "Bedrock_Altitude_Uncertainty_Error",
+  "layer_type": "tiled_overlay",
+  "layer_date": "",
+  "layer_description": "",
+  "category": "Physical Resources",
+  "subcategory": "Depth to Bedrock",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "bedrock",
+    "bedrock altitude",
+    "bedrock elevation",
+    "bedrock altitude uncertainty",
+    "altitude error",
+    "elevation uncertainty",
+    "depth to bedrock",
+    "uncertainty error",
+    "geology",
+    "physical resources"
+  ]
+}

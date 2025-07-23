@@ -1,0 +1,26 @@
+{
+  "document_title": "Area Codes",
+  "document_id": "massgis:GISDATA.TOWNS_POLY_AREACODE_SV",
+  "layer_id": "massgis:GISDATA.TOWNS_POLY_AREACODE_SV",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TOWNS_POLY_AREACODE_SV",
+  "category": "Infrastructure",
+  "subcategory": "Area Codes",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "area code",
+    "area codes",
+    "telephone area code",
+    "phone area code",
+    "town area code",
+    "massachusetts area codes",
+    "ma area codes",
+    "area code boundaries",
+    "area code map",
+    "geospatial area code",
+    "area code layer"
+  ],
+  "column_summary": "OBJECTID, SHAPE, TOWN, TOWN_ID, AREACODE, SHAPE.AREA, SHAPE.LEN"
+}

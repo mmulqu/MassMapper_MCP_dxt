@@ -1,0 +1,25 @@
+{
+  "document_title": "Census 2020 Towns",
+  "document_id": "massgis:GISDATA.CENSUS2020TOWNS_POLY",
+  "layer_id": "massgis:GISDATA.CENSUS2020TOWNS_POLY",
+  "layer_type": "poly",
+  "layer_date": "2020",
+  "layer_description": "Census demographic data. GeoServer layer: GISDATA.CENSUS2020TOWNS_POLY",
+  "category": "Census",
+  "subcategory": "Census 2020",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "census 2020 towns",
+    "census towns",
+    "town boundaries",
+    "town polygons",
+    "massgis census towns",
+    "massachusetts towns",
+    "census geography",
+    "town demographics",
+    "geoserver layer",
+    "2020 census data"
+  ],
+  "column_summary": "OBJECTID, STATEFP20, COUNTYFP20, COUSUBFP20, COUSUBNS20, GEOID20, NAMELSAD20, LSAD20, CLASSFP20, MTFCC20, CNECTAFP20, NECTAFP20, NCTADVFP20, FUNCSTAT20, ALAND20, AWATER20, INTPTLAT20, INTPTLON20, TOWN20, TOWN_ID, FIPS_STCO20, COUNTY20, TYPE, FOURCOLOR, AREA_ACRES, SQ_MILES, POP1960, POP1970, POP1980, POP1990, POP2000, POP2010, POP2020, POPCH10_20, HOUSING20, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

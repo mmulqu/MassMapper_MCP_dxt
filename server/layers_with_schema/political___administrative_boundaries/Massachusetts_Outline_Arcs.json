@@ -1,0 +1,25 @@
+{
+  "document_title": "Massachusetts Outline Arcs",
+  "document_id": "massgis:GISDATA.OUTLINESURVEY_ARC",
+  "layer_id": "massgis:GISDATA.OUTLINESURVEY_ARC",
+  "layer_type": "line",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.OUTLINESURVEY_ARC",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Massachusetts Outline",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "massachusetts",
+    "outline",
+    "outline arcs",
+    "boundary",
+    "state boundary",
+    "state outline",
+    "ma",
+    "ma outline",
+    "political boundary",
+    "administrative boundary"
+  ],
+  "column_summary": "OBJECTID, SYMBOL, SHAPE, SHAPE.LEN"
+}

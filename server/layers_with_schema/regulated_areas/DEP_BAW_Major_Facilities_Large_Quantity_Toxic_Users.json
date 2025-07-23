@@ -1,0 +1,25 @@
+{
+  "document_title": "DEP BAW Major Facilities Large Quantity Toxic Users",
+  "document_id": "massgis:GISDATA.BWPMAJOR_PT_LQTU_SV",
+  "layer_id": "massgis:GISDATA.BWPMAJOR_PT_LQTU_SV",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BWPMAJOR_PT_LQTU_SV",
+  "category": "Regulated Areas",
+  "subcategory": "DEP BAW Major Facilities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "dep baw major facilities",
+    "large quantity toxic users",
+    "lqtu",
+    "toxic users",
+    "major facilities",
+    "bwp major",
+    "regulated areas",
+    "geoserver",
+    "point layer",
+    "massgis"
+  ],
+  "column_summary": "OBJECTID, FAC_NAME, ADDRESS, TOWN, REGION, FAC_ID, HW_ID, SSEIS_ID, AIR, HWR, LQG_MA, LQG_RCRA, LQTU, TSDF, SHAPE"
+}

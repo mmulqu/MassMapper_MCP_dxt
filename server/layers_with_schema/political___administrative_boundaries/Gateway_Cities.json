@@ -1,0 +1,25 @@
+{
+  "document_title": "Gateway Cities",
+  "document_id": "massgis:GISDATA.TOWNS_POLY_INCGW_SV",
+  "layer_id": "massgis:GISDATA.TOWNS_POLY_INCGW_SV",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.TOWNS_POLY_INCGW_SV",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "Gateway Cities",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "gateway cities",
+    "massachusetts gateway cities",
+    "gateway city boundaries",
+    "town boundaries",
+    "municipal boundaries",
+    "political boundaries",
+    "administrative boundaries",
+    "urban municipalities",
+    "massgis",
+    "gateway cities layer"
+  ],
+  "column_summary": "TOWN, TOWN_ID, SETTLED, INC_TOWN, INC_CITY, GATEWAY, SHAPE, OBJECTID, SHAPE.AREA, SHAPE.LEN"
+}

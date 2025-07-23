@@ -1,0 +1,25 @@
+{
+  "document_title": "Licensed Child Care Programs",
+  "document_id": "massgis:GISDATA.CHILDCARE_PT",
+  "layer_id": "massgis:GISDATA.CHILDCARE_PT",
+  "layer_type": "pt",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.CHILDCARE_PT",
+  "category": "Infrastructure",
+  "subcategory": "Licensed Child Care Programs",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "licensed child care",
+    "licensed childcare",
+    "child care programs",
+    "childcare",
+    "daycare",
+    "day care",
+    "child care centers",
+    "child care providers",
+    "childcare locations",
+    "licensed daycare"
+  ],
+  "column_summary": "OBJECTID, PID, PROV_NUM, PROG_TYPE, PROG_NAME, CAPACITY, STATUS, ADDRESS, CITY, ZIPCODE, PHONE, MAD_ID, VOUCHER, ACCREDIT, SHAPE"
+}

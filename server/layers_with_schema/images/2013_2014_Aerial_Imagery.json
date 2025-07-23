@@ -1,0 +1,24 @@
+{
+  "document_title": "2013-2014 Aerial Imagery",
+  "document_id": "Orthos_2013_2014",
+  "layer_id": "Orthos_2013_2014",
+  "layer_type": "tiled_overlay",
+  "layer_date": "2013",
+  "layer_description": "Aerial/satellite imagery.",
+  "category": "Images",
+  "subcategory": "Aerial Photos (Ortho Imagery)",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "aerial imagery",
+    "ortho imagery",
+    "orthophotos",
+    "2013 aerial",
+    "2014 aerial",
+    "satellite imagery",
+    "massgis orthos",
+    "tiled overlay",
+    "aerial photos",
+    "orthos 2013"
+  ]
+}

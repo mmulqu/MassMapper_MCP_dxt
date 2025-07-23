@@ -1,0 +1,24 @@
+{
+  "document_title": "Modeled Wind Speed at 30M",
+  "document_id": "MASS_IMG_WND_SPD30M",
+  "layer_id": "MASS_IMG_WND_SPD30M",
+  "layer_type": "tiled_overlay",
+  "layer_date": "",
+  "layer_description": "",
+  "category": "Images",
+  "subcategory": "Wind Speed",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "wind speed",
+    "modeled wind speed",
+    "30m wind",
+    "wind speed 30m",
+    "wind speed raster",
+    "wind speed map",
+    "wind overlay",
+    "wind data",
+    "wind imagery",
+    "massgis wind"
+  ]
+}

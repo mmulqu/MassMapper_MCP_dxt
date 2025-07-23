@@ -1,0 +1,25 @@
+{
+  "document_title": "New Hampshire Towns",
+  "document_id": "massgis:GISDATA.NHTOWNS_POLY",
+  "layer_id": "massgis:GISDATA.NHTOWNS_POLY",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.NHTOWNS_POLY",
+  "category": "Political / Administrative Boundaries",
+  "subcategory": "New England States",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "new hampshire towns",
+    "nh towns",
+    "nh municipalities",
+    "new hampshire municipalities",
+    "new hampshire boundaries",
+    "nh boundaries",
+    "new england towns",
+    "nh gis layer",
+    "town polygons nh",
+    "nh administrative boundaries"
+  ],
+  "column_summary": "OBJECTID, FIPS, NAME, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

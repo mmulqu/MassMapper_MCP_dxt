@@ -1,0 +1,25 @@
+{
+  "document_title": "2021 Aerial Imagery Index Labels",
+  "document_id": "massgis:GISDATA.COQ2021INDEX_POLY",
+  "layer_id": "massgis:GISDATA.COQ2021INDEX_POLY",
+  "layer_type": "poly",
+  "layer_date": "2021",
+  "layer_description": "Aerial/satellite imagery. GeoServer layer: GISDATA.COQ2021INDEX_POLY",
+  "category": "Index (grids/tiling schemes for certain layers)",
+  "subcategory": "2021 Aerial Imagery Index",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "2021 aerial imagery",
+    "aerial imagery index",
+    "imagery tile index",
+    "orthophoto index",
+    "coq2021index_poly",
+    "orthophotography grid",
+    "massgis imagery 2021",
+    "imagery grid 2021",
+    "aerial tile grid",
+    "2021 orthophoto"
+  ],
+  "column_summary": "OBJECTID, TILENAME, ZONE, URL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}

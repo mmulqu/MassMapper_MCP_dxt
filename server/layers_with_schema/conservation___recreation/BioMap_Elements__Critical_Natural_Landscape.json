@@ -1,0 +1,25 @@
+{
+  "document_title": "BioMap Elements: Critical Natural Landscape",
+  "document_id": "massgis:GISDATA.BM3_CRITICAL_NATURAL_LANDSCAPE",
+  "layer_id": "massgis:GISDATA.BM3_CRITICAL_NATURAL_LANDSCAPE",
+  "layer_type": "poly",
+  "layer_date": "",
+  "layer_description": "GeoServer layer: GISDATA.BM3_CRITICAL_NATURAL_LANDSCAPE",
+  "category": "Conservation / Recreation",
+  "subcategory": "Natural Heritage Data",
+  "source_type": "GeoServer",
+  "document_type": "layer",
+  "search_terms": [
+    "critical natural landscape",
+    "biomap elements",
+    "natural heritage data",
+    "conservation recreation",
+    "massgis",
+    "bm3",
+    "gisdata",
+    "critical landscape",
+    "natural areas",
+    "biomap"
+  ],
+  "column_summary": "OBJECTID, CNL_ID, AC_CNL, TOWN, AC_TOWN_CNL, SHAPE, SHAPE.AREA, SHAPE.LEN"
+}
